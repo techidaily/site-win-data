@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: The Interactive Features of the RCU App"
-date: 2024-09-18 22:28:58
-updated: 2024-09-20 11:27:29
+date: 2024-09-15T20:51:48.025Z
+updated: 2024-09-20T00:37:55.139Z
 tags:
   - product
 categories:
@@ -40,11 +40,25 @@ By using our Action! RCU Application you can easily control recording of your vi
 
 ![Start and stop LIVE Streaming](https://mirillis.com/res/old/media/images/product/action_rcu/l2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2. Start and stop LIVE Streaming
 
 Control your stream session with your Android device just by tapping one button on your device start or stop your stream.
 
 ![Display webcams preview](https://mirillis.com/res/old/media/images/product/action_rcu/l3.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3. Display webcams preview
 
@@ -58,11 +72,25 @@ Control all the FPS information from your Android mobile device. The RCU App wil
 
 ![Display video recording time](https://mirillis.com/res/old/media/images/product/action_rcu/l5.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5. Display video recording time
 
 Keep an eye on the time of the video you are recording on your mobile device. Record the exact length of the video that you need.
 
 ![Display 3D engine (DX8/9/10/11,12 OpenGL or Windows Aero)](https://mirillis.com/res/old/media/images/product/action_rcu/l6.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6. Display 3D engine (DX8/9/10/11,12 OpenGL or Windows Aero)
 
@@ -79,8 +107,6 @@ Do not let yourself to spoil your gameplay video because of lack of free space o
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

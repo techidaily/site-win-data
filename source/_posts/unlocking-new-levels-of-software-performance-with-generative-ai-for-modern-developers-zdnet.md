@@ -1,7 +1,7 @@
 ---
 title: Unlocking New Levels of Software Performance with Generative AI for Modern Developers | ZDNet
-date: 2024-09-18 19:44:41
-updated: 2024-09-20 10:38:12
+date: 2024-09-16T16:55:36.892Z
+updated: 2024-09-20T06:47:50.867Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,17 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
