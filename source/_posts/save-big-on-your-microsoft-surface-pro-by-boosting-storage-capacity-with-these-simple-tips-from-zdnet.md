@@ -1,7 +1,7 @@
 ---
 title: Save Big on Your Microsoft Surface Pro by Boosting Storage Capacity with These Simple Tips From ZDNet
-date: 2024-09-16T03:51:14.604Z
-updated: 2024-09-20T01:19:55.265Z
+date: 2024-09-22T17:47:28.922Z
+updated: 2024-09-25T17:08:51.668Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -116,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -185,3 +193,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-chromesafari-blank-screens-here-are-9-tips-to-restore-your-video/"><u>[Updated] Chrome/Safari Blank Screens? Here Are 9 Tips to Restore Your Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ideal-mp4-slicer-for-mac-boost-your-vlog-game/"><u>[Updated] Ideal MP4 Slicer for Mac Boost Your Vlog Game</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-views-magnify-impact-youtube-marketing-essentials/"><u>[Updated] Maximize Views, Magnify Impact (YouTube Marketing Essentials)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/fraudulent-fronts-navigating-the-minefield-of-fake-youtube-viewers/"><u>Fraudulent Fronts Navigating the Minefield of Fake YouTube Viewers</u></a></li>
+<li><a href="https://win-data.techidaily.com/guide-to-reversing-flipbook-orientation-mastering-rtl-display-using-flipbuilder-tutorials/"><u>Guide to Reversing Flipbook Orientation: Mastering RTL Display Using FlipBuilder Tutorials</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-can-you-modify-flipwindow-assistance-ratios-on-flipbuildercom/"><u>How Can You Modify FlipWindow Assistance Ratios on flipbuilder.com?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-honor-v-purse-by-drfone-android/"><u>How to Bypass FRP from Honor V Purse?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-oppo-reno-9a-phone-by-drfone-android/"><u>How to Unlock a Network Locked Oppo Reno 9A Phone?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-frame-by-frame-magic-best-video-screenshots/"><u>In 2024, Frame-by-Frame Magic Best Video Screenshots</u></a></li>
+<li><a href="https://win-data.techidaily.com/is-it-feasible-to-embed-your-business-emblem-in-flipbook-projects-with-flipbuilder/"><u>Is It Feasible to Embed Your Business Emblem in FlipBook Projects with FlipBuilder?</u></a></li>
+<li><a href="https://win-data.techidaily.com/mastering-seamless-pdf-navigation-adding-bookmarks-in-flipbook-software-tutorial/"><u>Mastering Seamless PDF Navigation: Adding Bookmarks in FlipBook Software Tutorial</u></a></li>
+<li><a href="https://win-data.techidaily.com/mastering-the-art-of-self-running-digital-flipbooks-easy-steps-using-flipbuilder-tool/"><u>Mastering the Art of Self-Running Digital Flipbooks: Easy Steps Using FlipBuilder Tool</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-the-art-of-transferring-instagram-footage-to-pcmac/"><u>Mastering the Art of Transferring Instagram Footage to PC/Mac</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-understanding-the-pros-and-cons-of-fitbit-charge-ticks-is-it-a-good-choice-for-you/"><u>The Ultimate Guide to Understanding the Pros and Cons of Fitbit Charge Ticks - Is It a Good Choice for You?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Automatic OneDrive Sync with Windows 11: Unauthorized Backups Explored | TechSpotted"
-date: 2024-09-19T01:00:27.868Z
-updated: 2024-09-20T02:54:15.177Z
+date: 2024-09-22T19:57:44.422Z
+updated: 2024-09-25T20:05:30.410Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,19 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -122,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +199,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-acclaimed-20-open-source-pubg-thumbnail-bundles/"><u>[New] Acclaimed 20 Open Source PUBG Thumbnail Bundles</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-craft-a-symphony-for-screens-mastering-music-editing-in-canva-for-2024/"><u>[New] Craft a Symphony for Screens Mastering Music Editing in Canva for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-efficient-live-gaming-broadcasting-on-xbox/"><u>[New] In 2024, Efficient Live Gaming Broadcasting on Xbox</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-enhance-your-tiktok-footage-advanced-filters-for-2024/"><u>[Updated] Enhance Your TikTok Footage Advanced Filters for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-snap-a-caption-seamless-integration-of-text-on-windows-and-mac-pics/"><u>[Updated] In 2024, Snap a Caption Seamless Integration of Text on Windows & Mac Pics</u></a></li>
+<li><a href="https://win-data.techidaily.com/free-and-premium-ui-dashboard-kit-for-react-developers-using-material-ui-by-creative-tim/"><u>Free & Premium UI Dashboard Kit for React Developers Using Material-UI by Creative Tim</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-collaborative-innovation-in-brand-and-media-synergy/"><u>In 2024, Collaborative Innovation in Brand and Media Synergy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-horizon-to-heavens-photo-taking-on-mobile/"><u>In 2024, Horizon to Heavens Photo-Taking on Mobile</u></a></li>
+<li><a href="https://win-data.techidaily.com/pro-version-unlocked-advanced-react-and-creative-tim-powered-by-muses-exclusive-ant-design-admin-suite/"><u>Pro Version Unlocked: Advanced React and Creative Tim Powered by Muse's Exclusive Ant Design Admin Suite</u></a></li>
+<li><a href="https://win-data.techidaily.com/pro-version-unlocked-muse-vue-with-advanced-ant-design-ui-kit-ultimate-dashboard-by-creative-tim/"><u>Pro Version Unlocked: Muse Vue with Advanced Ant Design UI Kit | Ultimate Dashboard by Creative Tim</u></a></li>
+<li><a href="https://win-data.techidaily.com/professional-and-advanced-material-ui-dashboard-with-vision-pro-edition-powered-by-react/"><u>Professional & Advanced Material-UI Dashboard with Vision - Pro Edition, Powered by React</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-6-plus-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 6 Plus</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Enhancements: Microsoft Boosts Security From Day One - In-Depth Analysis by TechGuru"
-date: 2024-09-17T05:17:37.286Z
-updated: 2024-09-19T20:44:00.873Z
+date: 2024-09-20T16:13:06.307Z
+updated: 2024-09-25T17:55:00.449Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -122,28 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -185,3 +193,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-record-edit-and-produce-high-quality-webcam-videos/"><u>[New] How to Record, Edit and Produce High-Quality Webcam Videos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-adapting-your-favorite-songs-from-spotify-to-youtube-music-service/"><u>[Updated] Adapting Your Favorite Songs From Spotify to YouTube Music Service</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-alert-latest-windows-updates-could-escalate-after-hours-stress-at-work-insights-from-zdnet/"><u>1. Alert: Latest Windows Updates Could Escalate After-Hours Stress at Work - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-selecting-premier-sound-editors-for-youtube-producers/"><u>2024 Approved Selecting Premier Sound Editors for YouTube Producers</u></a></li>
+<li><a href="https://win-data.techidaily.com/a-decade-on-microsofts-past-mobile-blunders-continue-to-impact-it/"><u>A Decade On, Microsoft's Past Mobile Blunders Continue to Impact It</u></a></li>
+<li><a href="https://win-data.techidaily.com/appreciation-for-choosing-the-latest-update-splash-version-20/"><u>Appreciation for Choosing the Latest Update: Splash Version 2.0</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/chatgpt-plus-top-5-compelling-benefits-of-upgrading-your-experience/"><u>ChatGPT Plus: Top 5 Compelling Benefits of Upgrading Your Experience</u></a></li>
+<li><a href="https://win-data.techidaily.com/comprehensive-guide-the-interactive-features-of-the-rcu-app/"><u>Comprehensive Guide: The Interactive Features of the RCU App</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-photo-editing-tricks-unveiling-iphones-hidden-features/"><u>Free Photo Editing Tricks Unveiling iPhone's Hidden Features</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-integrate-live-streaming-footage-into-gaming-sessions-using-the-action-software/"><u>How to Integrate Live Streaming Footage Into Gaming Sessions Using the Action Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-find-x7-ultra-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Oppo Find X7 Ultra Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/resolving-the-critical-issue-of-error-code-107-a-step-by-step-guide/"><u>Resolving the Critical Issue of Error Code 107 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/save-big-on-your-microsoft-surface-pro-by-boosting-storage-capacity-with-these-simple-tips-from-zdnet/"><u>Save Big on Your Microsoft Surface Pro by Boosting Storage Capacity with These Simple Tips From ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/stream-like-a-pro-on-youtube-best-webcams-reviewed-for-2024/"><u>Stream Like a Pro on YouTube Best Webcams Reviewed for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-essence-of-predictive-ai/"><u>Understanding the Essence of Predictive AI</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Master Efficient System Administration: Save $16 on Automation Using Windows PowerShell - Insights From ZDNet"
-date: 2024-09-13T17:44:09.965Z
-updated: 2024-09-19T21:21:57.391Z
+date: 2024-09-19T00:52:59.631Z
+updated: 2024-09-25T20:52:06.305Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -116,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -128,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +193,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-harness-the-power-of-iphoneipad-for-top-tier-travel-and-interview-podcasts/"><u>[Updated] Harness the Power of iPhone/iPad for Top-Tier Travel & Interview Podcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-kinetic-keywords-animation-mastery-for-social-media-captions/"><u>2024 Approved Kinetic Keywords Animation Mastery for Social Media Captions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-prime-online-symphony-sessions/"><u>2024 Approved Prime Online Symphony Sessions</u></a></li>
+<li><a href="https://win-data.techidaily.com/access-vmwares-fusion-and-workstation-pro-at-no-cost-for-individual-users-a-comprehensive-guide/"><u>Access VMware's Fusion & Workstation Pro at No Cost for Individual Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/activate-total-freedom-with-windows-11s-hidden-admin-powers-a-step-by-step-guide-to-enabling-and-understanding-god-mode/"><u>Activate Total Freedom with Windows 11'S Hidden Admin Powers: A Step-by-Step Guide to Enabling and Understanding God Mode</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decode-and-listen-srt-files-in-winosx/"><u>Decode and Listen SRT Files in Win/OSX</u></a></li>
+<li><a href="https://win-data.techidaily.com/expert-insight-top-recommended-windows-laptops-from-best-buys-finest/"><u>Expert Insight: Top Recommended Windows Laptops From Best Buy's Finest</u></a></li>
+<li><a href="https://win-data.techidaily.com/free-windows-10-upgrade-period-ended-heres-what-you-need-to-know/"><u>Free Windows 10 Upgrade Period Ended: Here's What You Need To Know</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-access-files-without-software-top-5-methods-for-opening-documents-in-windows-techadvice/"><u>How To Access Files Without Software: Top 5 Methods For Opening Documents In Windows | TechAdvice</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-leading-graphics-tech-for-uhd-videography/"><u>In 2024, Leading Graphics Tech for UHD Videography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-virtual-vanguard-10-most-liked-youtubers/"><u>In 2024, Virtual Vanguard 10 Most Liked YouTubers</u></a></li>
+<li><a href="https://win-data.techidaily.com/master-quick-start-guide-simplify-your-duties-as-a-sysadmin-using-powershell-on-windows-only-16/"><u>Master Quick-Start Guide: Simplify Your Duties as a Sysadmin Using PowerShell on Windows, Only $16!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-10-photography-image-recovery-solutions-advantages-and-disadvantages/"><u>Top 10 Photography Image Recovery Solutions : Advantages & Disadvantages</u></a></li>
+</ul></div>
+

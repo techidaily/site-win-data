@@ -1,7 +1,7 @@
 ---
 title: "Massive Outage Impacting Thousands: Inside the Microsoft 365 Disruption Detailed by ZDNet"
-date: 2024-09-13T23:27:29.462Z
-updated: 2024-09-19T23:37:28.823Z
+date: 2024-09-24T22:43:56.588Z
+updated: 2024-09-25T19:33:21.773Z
 tags:
   - microsoft
 categories:
@@ -112,10 +112,37 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-audience-connection-implementing-a-triplet-of-copywriting-tactics-in-fb-ads/"><u>[New] Audience Connection Implementing a Triplet of Copywriting Tactics in FB Ads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-journey-to-visual-vigor-a-beginners-guidebook/"><u>[New] Journey to Visual Vigor A Beginner's Guidebook</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlocking-the-secrets-of-youtubes-shorts-revenue-sharing-for-2024/"><u>[New] Unlocking the Secrets of YouTube’s Shorts Revenue Sharing for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-behind-the-headset-todays-vr-tomorrows-trials/"><u>[Updated] In 2024, Behind the Headset Today's VR, Tomorrow's Trials</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximizing-moolah-how-to-monetize-videos-on-the-social-network-giant/"><u>[Updated] In 2024, Maximizing Moolah How to Monetize Videos on the Social Network Giant</u></a></li>
+<li><a href="https://win-data.techidaily.com/2022s-premier-desk-selection-expert-picks-by-zdnet-review/"><u>2022'S Premier Desk Selection: Expert Picks by ZDNet Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-edge-it-right-a-list-of-top-borders-in-social-media-photography/"><u>2024 Approved Edge It Right A List of Top Borders in Social Media Photography</u></a></li>
+<li><a href="https://win-data.techidaily.com/arm-vs-intel-in-surface-pro-understanding-the-complexity-of-choice-tech-insights-by-zdnet/"><u>Arm Vs. Intel in Surface Pro - Understanding the Complexity of Choice | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/best-practices-for-configuring-and-measuring-fb-instream-ads/"><u>Best Practices for Configuring and Measuring FB Instream Ads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-toshiba-laptop-drivers-download-and-installation-instructions-for-windows-pcs/"><u>Get the Latest Toshiba Laptop Drivers: Download and Installation Instructions for Windows PCs</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-move-your-windows-upgrade-credit-from-old-laptop-to-new-desktop-a-step-by-step-guide/"><u>How to Move Your Windows Upgrade Credit From Old Laptop to New Desktop: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-s23plus-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy S23+ Phones</u></a></li>
+<li><a href="https://win-data.techidaily.com/simplifying-pc-maintenance-tame-your-windows-updates-with-these-3-simple-tricks-insights-from-zdnet/"><u>Simplifying PC Maintenance: Tame Your Windows Updates with These 3 Simple Tricks - Insights From ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-30plus-unbeatable-amazon-primeshop-lighted-wall-mount-tv-monitors-on-sale-get-them-before-theyre-gone/"><u>Top 30+ Unbeatable Amazon Primeshop Lighted Wall Mount TV Monitors on Sale – Get Them Before They're Gone!</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-5-ergonomic-desk-chairs-your-ultimate-guide-to-comfort-and-support/"><u>Top 5 Ergonomic Desk Chairs - Your Ultimate Guide to Comfort and Support</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-5-essential-gimp-tools-for-image-editing-mastery-techniques-and-tips-revealed/"><u>Top 5 Essential GIMP Tools for Image Editing Mastery: Techniques and Tips Revealed</u></a></li>
+<li><a href="https://win-data.techidaily.com/windows-10-troubles-on-the-rise-for-microsoft-critical-time-pressure-as-2024-approaches-zdnet-report/"><u>Windows 10 Troubles on the Rise for Microsoft - Critical Time Pressure as 2024 Approaches | ZDNet Report</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing Screenshots and Recording Your Screen on Windows 10 & 11 Using Native Applications"
-date: 2024-09-13T04:28:19.438Z
-updated: 2024-09-20T00:35:50.014Z
+date: 2024-09-20T21:49:21.862Z
+updated: 2024-09-25T23:22:13.965Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -164,3 +178,21 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-simplified-methods-for-google-meet-recordings/"><u>[New] In 2024, Simplified Methods for Google Meet Recordings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-winning-strategies-for-win-11s-crashy-photos-app/"><u>2024 Approved Winning Strategies for Win 11'S Crashy Photos App</u></a></li>
+<li><a href="https://win-data.techidaily.com/download-your-favorite-fakehub-videos-in-high-quality-formats-mp4-mov-and-avi-with-fakehub-downloader/"><u>Download Your Favorite FAKEhub Videos in High-Quality Formats: MP4, MOV & AVI with FAKEhub Downloader</u></a></li>
+<li><a href="https://win-data.techidaily.com/downloading-music-and-videos-from-torrents-on-your-pc-or-mac-a-comprehensive-tutorial/"><u>Downloading Music & Videos From Torrents on Your PC or Mac: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-data.techidaily.com/easy-video-conversion-with-pyvideo-save-youtube-content-as-mp4movavi-files/"><u>Easy Video Conversion with PyVideo: Save YouTube Content as MP4/MOV/AVI Files</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rprime-design-for-2024/"><u>EditorPrime Design for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/efficient-video-to-mp3-conversion-tools-for-mac-and-windows-users-seeking-mediahumans-rival-solutions/"><u>Efficient Video-to-MP3 Conversion Tools for Mac and Windows Users Seeking Mediahuman's Rival Solutions</u></a></li>
+<li><a href="https://win-data.techidaily.com/enviro-tutsplus-course-access-securely-download-educational-video-content-and-lessons/"><u>Enviro Tuts+ Course Access: Securely Download Educational Video Content and Lessons</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-realme-c67-4g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Realme C67 4G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-for-hiring-top-notch-video-professionals/"><u>In 2024, Secrets for Hiring Top-Notch Video Professionals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/innovative-classroom-strategies-using-video-for-immersive-learning/"><u>Innovative Classroom Strategies Using Video for Immersive Learning</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721917179129-unlocking-the-power-of-ai-with-openais-latest-gpt-hub-get-started-today/"><u>Unlocking the Power of AI with OpenAI's Latest GPT Hub - Get Started Today!</u></a></li>
+</ul></div>
+

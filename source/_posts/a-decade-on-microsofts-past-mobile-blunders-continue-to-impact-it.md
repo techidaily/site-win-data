@@ -1,7 +1,7 @@
 ---
 title: A Decade On, Microsoft's Past Mobile Blunders Continue to Impact It
-date: 2024-09-12T18:57:57.568Z
-updated: 2024-09-19T23:38:39.708Z
+date: 2024-09-18T17:02:50.946Z
+updated: 2024-09-25T17:55:35.738Z
 tags:
   - microsoft
 categories:
@@ -112,10 +112,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-effortless-viewing-tackling-instagram-video-issues/"><u>[New] In 2024, Effortless Viewing Tackling Instagram Video Issues</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-screening-the-modern-internet-best-capture-apps-reviewed-for-2024/"><u>[Updated] Screening the Modern Internet Best Capture Apps Reviewed for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-complete-cheat-sheet-for-negative-snap-playback-for-2024/"><u>[Updated] The Complete Cheat Sheet for Negative Snap Playback for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unveiling-3dr-a-personal-perspective-on-printing-alone-for-2024/"><u>[Updated] Unveiling '3DR' A Personal Perspective on Printing Alone for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/begin-your-editing-journey-adopting-movie-maker-for-w11-for-2024/"><u>Begin Your Editing Journey Adopting Movie Maker for W11 for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/creative-tims-elite-argon-pro-flutter-ui-kit-top-tier-swift-and-dart-framework-template/"><u>Creative Tim's Elite Argon Pro Flutter UI Kit: Top-Tier Swift & Dart Framework Template</u></a></li>
+<li><a href="https://win-data.techidaily.com/creative-tims-premium-bootstrap-114plus-admin-and-dashboard-templates/"><u>Creative Tim's Premium Bootstrap: 114+ Admin & Dashboard Templates</u></a></li>
+<li><a href="https://win-data.techidaily.com/creative-tims-top-vue-themes-with-tailwind-css-a-comprehensive-guide/"><u>Creative Tim's Top Vue Themes with Tailwind CSS: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/discover-the-leading-non-ghostly-creatives-by-timthemes-for-premium-websites/"><u>Discover the Leading Non-Ghostly Creatives by TimThemes for Premium Websites</u></a></li>
+<li><a href="https://win-data.techidaily.com/download-the-top-171plus-free-bootstrap-template-packs-from-creative-tim-enhance-your-project-today/"><u>Download the Top 171+ Free Bootstrap Template Packs From Creative Tim - Enhance Your Project Today!</u></a></li>
+<li><a href="https://win-data.techidaily.com/enhance-your-django-project-with-argon-dashboard-the-stylish-bootstrap-ve-4-admin-template-by-creative-tim/"><u>Enhance Your Django Project with Argon Dashboard - The Stylish Bootstrap Ve 4 Admin Template by Creative Tim</u></a></li>
+<li><a href="https://win-data.techidaily.com/enhance-your-projects-with-paper-a-premium-free-bootstrap-admin-template-by-creative-tim/"><u>Enhance Your Projects with 'Paper' - A Premium, FREE Bootstrap Admin Template by Creative Tim!</u></a></li>
+<li><a href="https://win-data.techidaily.com/experience-the-ultimate-control-with-now-ui-dashboard-pro-the-advanced-bootstrap-4-admin-suite-by-creative-tim/"><u>Experience the Ultimate Control with Now UI Dashboard Pro – The Advanced Bootstrap 4 Admin Suite by Creative Tim</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini with a Mask On</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-brief-snippet-analysis-for-beginners/"><u>In 2024, Brief Snippet Analysis for Beginners</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-banned-from-omegle-how-to-get-unbanned/"><u>New 2024 Approved Banned From Omegle? How to Get Unbanned?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-compilation-prime-top-10-android-apps-for-facebook-video-download-for-2024/"><u>Updated Compilation Prime Top 10 Android Apps for Facebook Video Download for 2024</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Find Any Lost Document Easily Using Microsoft's New AI-Powered Recall Feature for Eligible PCs | ZDNet Insights
-date: 2024-09-13T00:07:58.118Z
-updated: 2024-09-19T17:27:24.512Z
+date: 2024-09-19T16:13:38.216Z
+updated: 2024-09-25T20:40:02.600Z
 tags:
   - microsoft
 categories:
@@ -84,16 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -128,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -135,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -185,3 +193,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-proven-pathways-for-cutting-edge-obs-studio-edits-for-2024/"><u>[New] Proven Pathways for Cutting-Edge OBS Studio Edits for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-exploring-affordable-video-players-on-various-systems/"><u>[Updated] In 2024, Exploring Affordable Video Players on Various Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-monetization-assessment-creators-income-gauge/"><u>[Updated] Monetization Assessment Creators’ Income Gauge</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-top-quality-hdr-camera-brands-and-models/"><u>[Updated] Unveiling Top-Quality HDR Camera Brands and Models</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-taking-on-screen-capture-giants-how-bandicam-stacks-up-against-camtasia/"><u>2024 Approved Taking on Screen Capture Giants How Bandicam Stacks Up Against Camtasia</u></a></li>
+<li><a href="https://win-data.techidaily.com/automatic-onedrive-sync-with-windows-11-unauthorized-backups-explored-techspotted/"><u>Automatic OneDrive Sync with Windows 11: Unauthorized Backups Explored | TechSpotted</u></a></li>
+<li><a href="https://win-data.techidaily.com/copilotplus-pcs-unveiled-my-journey-through-all-new-artificial-intelligence-upgrades-and-their-promise/"><u>Copilot+ PCs Unveiled: My Journey Through All New Artificial Intelligence Upgrades and Their Promise</u></a></li>
+<li><a href="https://win-data.techidaily.com/exploring-every-latest-innovation-in-ai-for-copilotplus-desktops-am-i-convinced-by-the-buzz/"><u>Exploring Every Latest Innovation in AI for Copilot+ Desktops - Am I Convinced by the Buzz?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-k70e-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi K70E to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-130-music-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Nokia 130 Music to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-artisans-approach-integrating-typefaces-in-ae/"><u>In 2024, The Artisan's Approach Integrating Typefaces in AE</u></a></li>
+<li><a href="https://win-data.techidaily.com/mac-keyboard-customization-tips-how-to-adjust-the-command-key-settings/"><u>Mac Keyboard Customization Tips: How To Adjust The Command Key Settings</u></a></li>
+<li><a href="https://win-data.techidaily.com/massive-outage-impacting-thousands-inside-the-microsoft-365-disruption-detailed-by-zdnet/"><u>Massive Outage Impacting Thousands: Inside the Microsoft 365 Disruption Detailed by ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/microsoft-challenges-creativity-in-excel-how-i-responded-and-what-it-means-for-users/"><u>Microsoft Challenges Creativity in Excel: How I Responded & What It Means for Users</u></a></li>
+<li><a href="https://win-data.techidaily.com/windows-control-panel-remains-unaffected-in-microsofts-latest-update-insights-from-zdnet/"><u>Windows Control Panel Remains Unaffected in Microsoft’s Latest Update: Insights From ZDNet</u></a></li>
+</ul></div>
+

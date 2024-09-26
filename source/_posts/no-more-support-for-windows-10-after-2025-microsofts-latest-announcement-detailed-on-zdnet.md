@@ -1,7 +1,7 @@
 ---
 title: No More Support for Windows 10 After 2025? Microsoft's Latest Announcement Detailed on ZDNet
-date: 2024-09-17T19:41:55.455Z
-updated: 2024-09-19T19:31:33.367Z
+date: 2024-09-23T01:34:44.389Z
+updated: 2024-09-25T18:51:39.013Z
 tags:
   - windows
 categories:
@@ -33,6 +33,13 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -49,16 +56,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -66,13 +67,6 @@ Screenshot by Lance Whitney/ZDNET
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -85,6 +79,13 @@ Screenshot by Lance Whitney/ZDNET
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -103,24 +104,18 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -158,3 +153,22 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-your-video-game-youtube-production-mastery/"><u>[New] 2024 Approved Elevate Your Video Game YouTube Production Mastery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-story-complete-guide-for-2024/"><u>[New] Facebook Story Complete Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-longer-use-of-gopro-power-source/"><u>[New] Strategies for Longer Use of GoPro Power Source</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-how-to-add-audio-fade-in-effect/"><u>2024 Approved How to Add Audio Fade In Effect</u></a></li>
+<li><a href="https://win11.techidaily.com/a-window-into-windows-11-the-essentials-of-its-registry-data/"><u>A Window Into Windows 11: The Essentials of Its Registry Data</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-resolve-chrome-freezing-issues-on-windows-10/"><u>Quick Solutions: Resolve Chrome Freezing Issues on Windows 10</u></a></li>
+<li><a href="https://win-data.techidaily.com/sharing-flipbooks-through-email-with-attractive-covers-visible-in-the-message-body-discover-how-on-flipbuildercom/"><u>Sharing FlipBooks Through Email with Attractive Covers Visible in the Message Body? Discover How on FlipBuilder.com</u></a></li>
+<li><a href="https://win-data.techidaily.com/sharing-your-flipbook-creations-including-the-cover-image-within-an-email/"><u>Sharing Your FlipBook Creations: Including the Cover Image Within an Email</u></a></li>
+<li><a href="https://win-data.techidaily.com/speedy-distribution-of-marketing-materials-create-and-share-flipbooks-immediately-on-flipbuilder/"><u>Speedy Distribution of Marketing Materials - Create and Share Flipbooks Immediately on FlipBuilder</u></a></li>
+<li><a href="https://win-data.techidaily.com/start-your-personalized-button-collection-with-flipbuilder-design-and-print-easily-online/"><u>Start Your Personalized Button Collection with FlipBuilder - Design and Print Easily Online</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-integrating-new-designs-into-flipoffice-pro-software-tips-and-tricks-flipbuilder/"><u>Step-by-Step Guide: Integrating New Designs Into FlipOffice Pro Software - Tips & Tricks | FlipBuilder</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-oppo-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Oppo Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-coolest-way-to-keep-your-pc-frosty-a-review-of-the-pricey-yet-powerful-thermaltake-massive-tm-laptop-cooler/"><u>Unboxing the Coolest Way to Keep Your PC Frosty - A Review of the Pricey Yet Powerful Thermaltake Massive TM Laptop Cooler</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-vivo-y78plus-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Vivo Y78+</u></a></li>
+</ul></div>
+
