@@ -1,7 +1,7 @@
 ---
 title: "Avoid Data Loss: Build a Robust Recovery Drive for Windows Computers in Just 4 Simple Steps | ZDNET"
-date: 2024-09-18T21:39:42.346Z
-updated: 2024-09-25T22:07:07.075Z
+date: 2024-09-26T14:36:02.954Z
+updated: 2024-09-30T07:08:53.392Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -75,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -102,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -149,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -202,17 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-archive-instagram-movies-a-comprehensive-pc-and-mac-approach/"><u>[New] In 2024, How to Archive Instagram Movies A Comprehensive PC & Mac Approach</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-integrating-picture-in-picture-the-essentials-of-ms-edge/"><u>[Updated] Integrating Picture-in-Picture The Essentials of MS Edge</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-level-up-your-playtime-examining-kinemaster-on-android/"><u>[Updated] Level Up Your Playtime Examining KineMaster on Android</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-gratuitous-high-quality-ideas-for-profitable-slideshows/"><u>2024 Approved Gratuitous, High-Quality Ideas for Profitable Slideshows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-15-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 15 Plus? Heres the Best Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-web-control-panel-adjustments-in-windows-11/"><u>Mastering Web Control Panel Adjustments in Windows 11</u></a></li>
-<li><a href="https://win-data.techidaily.com/organizing-images-before-conversion-a-guide-to-making-flipbooks-with-flipbuildercom/"><u>Organizing Images Before Conversion: A Guide to Making Flipbooks with FlipBuilder.com</u></a></li>
-<li><a href="https://win-data.techidaily.com/run-your-own-interactive-books-instantly-convert-exe-files-with-ease-using-flipbuilder/"><u>Run Your Own Interactive Books Instantly - Convert EXE Files with Ease Using FlipBuilder!</u></a></li>
-<li><a href="https://win-data.techidaily.com/sharing-flipbooks-through-email-with-attractive-covers-visible-in-the-message-body-discover-how-on-flipbuildercom/"><u>Sharing FlipBooks Through Email with Attractive Covers Visible in the Message Body? Discover How on FlipBuilder.com</u></a></li>
-<li><a href="https://win-data.techidaily.com/sharing-your-flipbook-creations-including-the-cover-image-within-an-email/"><u>Sharing Your FlipBook Creations: Including the Cover Image Within an Email</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-insiders-guide-to-time-lagged-masterpieces-with-your-android-phone-for-2024/"><u>The Insider's Guide to Time-Lagged Masterpieces with Your Android Phone for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/the-ultimate-viewing-experience-insights-on-eizos-4kcg318-for-2024/"><u>The Ultimate Viewing Experience – Insights on EIZO’s 4KCG318 for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-cutting-edge-video-processing-free-hd1080p-from-ff-videos/"><u>[New] 2024 Approved Cutting Edge Video Processing Free HD/1080P From FF Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-essential-guide-to-compositing-using-blending-modes/"><u>[New] Essential Guide to Compositing Using Blending Modes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-expanding-networks-integrating-youtube-and-facebook/"><u>[Updated] In 2024, Expanding Networks Integrating YouTube and Facebook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-infinix-note-30-vip-racing-edition-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Infinix Note 30 VIP Racing Edition Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/access-vmwares-fusion-and-workstation-pro-at-no-cost-for-individual-users-a-comprehensive-guide/"><u>Access VMware's Fusion & Workstation Pro at No Cost for Individual Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/activate-total-freedom-with-windows-11s-hidden-admin-powers-a-step-by-step-guide-to-enabling-and-understanding-god-mode/"><u>Activate Total Freedom with Windows 11'S Hidden Admin Powers: A Step-by-Step Guide to Enabling and Understanding God Mode</u></a></li>
+<li><a href="https://win-data.techidaily.com/expert-insight-top-recommended-windows-laptops-from-best-buys-finest/"><u>Expert Insight: Top Recommended Windows Laptops From Best Buy's Finest</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-move-your-windows-upgrade-credit-from-old-laptop-to-new-desktop-a-step-by-step-guide/"><u>How to Move Your Windows Upgrade Credit From Old Laptop to New Desktop: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-lava-blaze-2-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Lava Blaze 2 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-magic-vs-2-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Honor Magic Vs 2</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-s23-tactical-edition-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Tactical Edition Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/simplifying-pc-maintenance-tame-your-windows-updates-with-these-3-simple-tricks-insights-from-zdnet/"><u>Simplifying PC Maintenance: Tame Your Windows Updates with These 3 Simple Tricks - Insights From ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-5-essential-gimp-tools-for-image-editing-mastery-techniques-and-tips-revealed/"><u>Top 5 Essential GIMP Tools for Image Editing Mastery: Techniques and Tips Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/tutorial-eliminare-le-macchie-dal-tuo-album-fotografico-strumenti-per-lediting-delle-foto/"><u>Tutorial: Eliminare Le Macchie Dal Tuo Album Fotografico - Strumenti per L'Editing Delle Foto</u></a></li>
 </ul></div>
 

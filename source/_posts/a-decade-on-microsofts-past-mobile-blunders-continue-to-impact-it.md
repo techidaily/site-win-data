@@ -1,7 +1,7 @@
 ---
 title: A Decade On, Microsoft's Past Mobile Blunders Continue to Impact It
-date: 2024-09-18T17:02:50.946Z
-updated: 2024-09-25T17:55:35.738Z
+date: 2024-09-26T16:05:05.019Z
+updated: 2024-09-30T14:44:46.969Z
 tags:
   - microsoft
 categories:
@@ -114,29 +114,28 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-effortless-viewing-tackling-instagram-video-issues/"><u>[New] In 2024, Effortless Viewing Tackling Instagram Video Issues</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-screening-the-modern-internet-best-capture-apps-reviewed-for-2024/"><u>[Updated] Screening the Modern Internet Best Capture Apps Reviewed for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-complete-cheat-sheet-for-negative-snap-playback-for-2024/"><u>[Updated] The Complete Cheat Sheet for Negative Snap Playback for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unveiling-3dr-a-personal-perspective-on-printing-alone-for-2024/"><u>[Updated] Unveiling '3DR' A Personal Perspective on Printing Alone for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/begin-your-editing-journey-adopting-movie-maker-for-w11-for-2024/"><u>Begin Your Editing Journey Adopting Movie Maker for W11 for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-elite-argon-pro-flutter-ui-kit-top-tier-swift-and-dart-framework-template/"><u>Creative Tim's Elite Argon Pro Flutter UI Kit: Top-Tier Swift & Dart Framework Template</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-premium-bootstrap-114plus-admin-and-dashboard-templates/"><u>Creative Tim's Premium Bootstrap: 114+ Admin & Dashboard Templates</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-top-vue-themes-with-tailwind-css-a-comprehensive-guide/"><u>Creative Tim's Top Vue Themes with Tailwind CSS: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/discover-the-leading-non-ghostly-creatives-by-timthemes-for-premium-websites/"><u>Discover the Leading Non-Ghostly Creatives by TimThemes for Premium Websites</u></a></li>
-<li><a href="https://win-data.techidaily.com/download-the-top-171plus-free-bootstrap-template-packs-from-creative-tim-enhance-your-project-today/"><u>Download the Top 171+ Free Bootstrap Template Packs From Creative Tim - Enhance Your Project Today!</u></a></li>
-<li><a href="https://win-data.techidaily.com/enhance-your-django-project-with-argon-dashboard-the-stylish-bootstrap-ve-4-admin-template-by-creative-tim/"><u>Enhance Your Django Project with Argon Dashboard - The Stylish Bootstrap Ve 4 Admin Template by Creative Tim</u></a></li>
-<li><a href="https://win-data.techidaily.com/enhance-your-projects-with-paper-a-premium-free-bootstrap-admin-template-by-creative-tim/"><u>Enhance Your Projects with 'Paper' - A Premium, FREE Bootstrap Admin Template by Creative Tim!</u></a></li>
-<li><a href="https://win-data.techidaily.com/experience-the-ultimate-control-with-now-ui-dashboard-pro-the-advanced-bootstrap-4-admin-suite-by-creative-tim/"><u>Experience the Ultimate Control with Now UI Dashboard Pro – The Advanced Bootstrap 4 Admin Suite by Creative Tim</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini with a Mask On</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-brief-snippet-analysis-for-beginners/"><u>In 2024, Brief Snippet Analysis for Beginners</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-banned-from-omegle-how-to-get-unbanned/"><u>New 2024 Approved Banned From Omegle? How to Get Unbanned?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-compilation-prime-top-10-android-apps-for-facebook-video-download-for-2024/"><u>Updated Compilation Prime Top 10 Android Apps for Facebook Video Download for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-your-social-reach-with-dual-display-facebook-streaming-for-2024/"><u>[Updated] Maximizing Your Social Reach with Dual Display Facebook Streaming for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-prime-7-cameras-unbeatable-in-underwater-shooting-for-2024/"><u>[Updated] Prime 7 Cameras Unbeatable In Underwater Shooting for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-alert-latest-windows-updates-could-escalate-after-hours-stress-at-work-insights-from-zdnet/"><u>1. Alert: Latest Windows Updates Could Escalate After-Hours Stress at Work - Insights From ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-phone-with-funimate-the-ultimate-apk-guide/"><u>2024 Approved Transform Your Phone with Funimate - The Ultimate APK Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/appreciation-for-choosing-the-latest-update-splash-version-20/"><u>Appreciation for Choosing the Latest Update: Splash Version 2.0</u></a></li>
+<li><a href="https://win-data.techidaily.com/comprehensive-guide-the-interactive-features-of-the-rcu-app/"><u>Comprehensive Guide: The Interactive Features of the RCU App</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/convert-wma-audio-files-free-ultimate-guide-to-no-cost-file-format-transformation/"><u>Convert WMA Audio Files Free: Ultimate Guide to No-Cost File Format Transformation</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-integrate-live-streaming-footage-into-gaming-sessions-using-the-action-software/"><u>How to Integrate Live Streaming Footage Into Gaming Sessions Using the Action Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-moto-z2-masterclass-smartphone-smarts-explored/"><u>In 2024, Moto Z2 Masterclass Smartphone Smarts Explored</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-webcams-designed-for-smooth-zoom-conferencing-for-2024/"><u>Optimal Webcams Designed for Smooth Zoom Conferencing for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/resolving-the-critical-issue-of-error-code-107-a-step-by-step-guide/"><u>Resolving the Critical Issue of Error Code 107 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/swift-access-to-brother-hl-3170cdw-driver-software/"><u>Swift Access to Brother HL-3170cdw Driver Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-experts-guide-to-discord-streaming/"><u>The Expert's Guide to Discord Streaming</u></a></li>
+<li><a href="https://win-data.techidaily.com/the-ultimate-tutorial-on-securely-acquiring-and-transforming-bollywood-films-to-widely-supported-video-files-such-as-mp4-mov-and-avi/"><u>The Ultimate Tutorial on Securely Acquiring and Transforming Bollywood Films to Widely-Supported Video Files Such as MP4, MOV, and AVI</u></a></li>
+<li><a href="https://win-data.techidaily.com/ultimate-technique-how-can-you-save-vodpod-video-content/"><u>Ultimate Technique: How Can You Save VodPod Video Content?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vintage-visions-older-tech-modern-memories/"><u>Vintage Visions Older Tech, Modern Memories</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

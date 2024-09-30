@@ -1,7 +1,7 @@
 ---
 title: Flash Toolbar Icon Substitution Guide - FlipBuilder Tutorials
-date: 2024-09-25T01:01:47.441Z
-updated: 2024-09-25T23:33:01.499Z
+date: 2024-09-24T22:38:45.531Z
+updated: 2024-09-29T21:46:33.287Z
 tags:
   - product
 categories:
@@ -91,6 +91,19 @@ Video Tutorial of Creating Page Flip eBook
 14. 13.Export and save settings for future uses.
 15. 14.Save and Load your project.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## II. Page-flipping multiple PDF eBook features
 
 With the page-flipping ebook you have created, your book readers will be able to:
@@ -123,23 +136,17 @@ With the page-flipping ebook you have created, your book readers will be able to
 [![60%_off_package](https://www.flipbuilder.com/page-flip-ebook/../images/cuoxiao2.jpg)](https://order.shareit.com/cart/add?vendorid=200280251&PRODUCT[300949035]=1) 
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Flash Player Required
@@ -147,10 +154,10 @@ With the page-flipping ebook you have created, your book readers will be able to
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/b123.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Refund Policy
@@ -158,19 +165,6 @@ With the page-flipping ebook you have created, your book readers will be able to
 We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back Guarantee！
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/pro_06_05.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -187,19 +181,21 @@ We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-how-to-record-league-of-legends/"><u>[New] 2024 Approved How to Record League of Legends</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-from-good-to-great-a-vlog-on-incredible-instagrams/"><u>[Updated] 2024 Approved From Good to Great A Vlog on Incredible Instagrams</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-into-the-heart-of-windows-10-flawless-media-import-techniques/"><u>2024 Approved Into the Heart of Windows 10 Flawless Media Import Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audacity-wisdom-achieving-fluid-audio-transitions/"><u>Audacity Wisdom Achieving Fluid Audio Transitions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/configuring-your-echo-dot-a-simple-walkthrough-into-setup-mode/"><u>Configuring Your Echo Dot: A Simple Walkthrough Into Setup Mode</u></a></li>
-<li><a href="https://win-data.techidaily.com/effortless-photo-and-image-format-conversion-made-simple-with-our-professional-complimentary-image-converter-software/"><u>Effortless Photo & Image Format Conversion Made Simple with Our Professional, Complimentary Image Converter Software</u></a></li>
-<li><a href="https://win-data.techidaily.com/guide-to-adding-hyperlinks-within-a-flip-based-ebook-using-flipbuilder/"><u>Guide to Adding Hyperlinks Within a Flip-Based eBook Using FlipBuilder</u></a></li>
-<li><a href="https://win-data.techidaily.com/guide-to-reversing-flipbook-orientation-mastering-rtl-display-using-flipbuilder-tutorials/"><u>Guide to Reversing Flipbook Orientation: Mastering RTL Display Using FlipBuilder Tutorials</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-can-you-modify-flipwindow-assistance-ratios-on-flipbuildercom/"><u>How Can You Modify FlipWindow Assistance Ratios on flipbuilder.com?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/is-it-feasible-to-embed-your-business-emblem-in-flipbook-projects-with-flipbuilder/"><u>Is It Feasible to Embed Your Business Emblem in FlipBook Projects with FlipBuilder?</u></a></li>
-<li><a href="https://win-data.techidaily.com/mastering-seamless-pdf-navigation-adding-bookmarks-in-flipbook-software-tutorial/"><u>Mastering Seamless PDF Navigation: Adding Bookmarks in FlipBook Software Tutorial</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-of-both-worlds-free-and-paid-3d-animation-software-options/"><u>Updated The Best of Both Worlds Free and Paid 3D Animation Software Options</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-sneak-peek-into-facebooks-off-activity-tracking-is-it-safe/"><u>[New] 2024 Approved Sneak Peek Into Facebook's Off-Activity Tracking – Is It Safe?</u></a></li>
+<li><a href="https://win-data.techidaily.com/avoid-data-loss-build-a-robust-recovery-drive-for-windows-computers-in-just-4-simple-steps-zdnet/"><u>Avoid Data Loss: Build a Robust Recovery Drive for Windows Computers in Just 4 Simple Steps | ZDNET</u></a></li>
+<li><a href="https://win-data.techidaily.com/comparing-top-ai-assistants-chatgpt-microsoft-copilot-and-gemini-who-reigns-supreme/"><u>Comparing Top AI Assistants: ChatGPT, Microsoft Copilot & Gemini – Who Reigns Supreme?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/discover-every-aspect-of-io-visual-logging/"><u>Discover Every Aspect of IO Visual Logging</u></a></li>
+<li><a href="https://win-data.techidaily.com/educational-tech-breakthrough-how-dedicated-devices-running-on-windows-amoled-specialized-launch-highlighted-in-a-zdnet-exclusive/"><u>Educational Tech Breakthrough: How Dedicated Devices Running on Windows Amoled | Specialized Launch Highlighted in a ZDNet Exclusive</u></a></li>
+<li><a href="https://win-data.techidaily.com/find-any-lost-document-easily-using-microsofts-new-ai-powered-recall-feature-for-eligible-pcs-zdnet-insights/"><u>Find Any Lost Document Easily Using Microsoft's New AI-Powered Recall Feature for Eligible PCs | ZDNet Insights</u></a></li>
+<li><a href="https://win-data.techidaily.com/get-your-microsoft-office-suite-on-sale-buy-project-pro-and-visio-pro-at-a-steal-with-zdnet/"><u>Get Your Microsoft Office Suite on Sale: Buy Project Pro and Visio Pro at a Steal with ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-note-12-proplus-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi Note 12 Pro+ 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jest-jammer-photo-assembler/"><u>In 2024, Jest Jammer Photo Assembler</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-bottom-line-how-much-do-podcasters-take-home-for-2024/"><u>The Bottom Line How Much Do Podcasters Take Home for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/the-tech-shift-in-iot-how-microsoft-contrasts-with-googles-exit-strategy/"><u>The Tech Shift in IoT: How Microsoft Contrasts with Google's Exit Strategy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-the-secret-to-fixing-iphone-auto-brightness-follow-these-7-steps/"><u>Unlock the Secret to Fixing iPhone Auto-Brightness: Follow These 7 Steps</u></a></li>
+<li><a href="https://win-data.techidaily.com/unpacking-happiness-in-the-workplace-a-microsoft-official-explains-why-tech-trumps-human-interactions-according-to-zdnet/"><u>Unpacking Happiness in the Workplace: A Microsoft Official Explains Why Tech Trumps Human Interactions, According to ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-tecno-pova-5-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Tecno Pova 5 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1725286698439-2024-5/"><u>무료 영상 익스포지터: 2024년의 5가지 신제품 - 초보자에게도 좋은 선택</u></a></li>
 </ul></div>
 

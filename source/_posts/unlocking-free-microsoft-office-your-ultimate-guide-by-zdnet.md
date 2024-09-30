@@ -1,7 +1,7 @@
 ---
 title: "Unlocking FREE Microsoft Office: Your Ultimate Guide by ZDNet"
-date: 2024-09-24T16:45:29.307Z
-updated: 2024-09-25T19:28:52.243Z
+date: 2024-09-29T04:00:08.750Z
+updated: 2024-09-29T16:31:50.813Z
 tags:
   - microsoft
 categories:
@@ -63,13 +63,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -91,10 +84,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +128,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,16 +202,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-masterful-media-panels-ideal-screens-for-editors/"><u>[Updated] 2024 Approved Masterful Media Panels Ideal Screens for Editors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-visions-to-reality-vrs-historical-journey/"><u>2024 Approved Visions to Reality VR's Historical Journey</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-enable-printing-on-your-flipbook-pages-a-guide-using-flipbuilder/"><u>How to Enable Printing on Your Flipbook Pages - A Guide Using FlipBuilder</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-identify-and-harness-the-power-of-exclusive-content-on-flipbuilder/"><u>How to Identify and Harness the Power of Exclusive Content on FlipBuilder</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unlocking-instagrams-potential-successful-post-tactics/"><u>In 2024, Unlocking Instagram's Potential Successful Post Tactics</u></a></li>
-<li><a href="https://win-data.techidaily.com/protecting-access-to-your-digital-books-on-flipbook-an-in-depth-password-setup-tutorial/"><u>Protecting Access to Your Digital Books on FlipBook: An In-Depth Password Setup Tutorial</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/rookie-recording-assessment-guide-for-2024/"><u>Rookie Recording Assessment Guide for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/simultaneous-conversion-of-multiple-powerpoint-presentations-to-interactive-flipbooks-using-flipbuilders-feature-rich-platform/"><u>Simultaneous Conversion of Multiple PowerPoint Presentations to Interactive Flipbooks Using FlipBuilder's Feature-Rich Platform</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-importing-custom-themes-into-flipbook-using-flipbuilder/"><u>Step-by-Step Guide: Importing Custom Themes Into FlipBook Using FlipBuilder</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-best-17-window-based-software-solutions-for-high-quality-stichotype-pano-images-by-movavi/"><u>The Best 17 Window-Based Software Solutions for High-Quality Stichotype Pano Images by Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-dive-into-a-world-of-timelessness-crafting-slow-motion-videos-using-mobile-apps-for-2024/"><u>[New] Dive Into a World of Timelessness Crafting Slow Motion Videos Using Mobile Apps for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/get-your-microsoft-office-suite-on-sale-buy-project-pro-and-visio-pro-at-a-steal-with-zdnet/"><u>Get Your Microsoft Office Suite on Sale: Buy Project Pro and Visio Pro at a Steal with ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-overcome-directx-graphic-device-initialization-issues/"><u>How to Successfully Overcome DirectX Graphic Device Initialization Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-screenprime-pro-for-advanced-users/"><u>In 2024, ScreenPrime Pro for Advanced Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-swift-video-and-picture-retrieval-guide/"><u>In 2024, Swift Video and Picture Retrieval Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/microsoft-365-suffers-outage-amidst-ddos-assault-the-complete-report-by-zdnet/"><u>Microsoft 365 Suffers Outage Amidst DDoS Assault - The Complete Report by ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/microsoft-teams-unveiled-combined-solution-for-professional-private-and-educational-use-on-zdnet/"><u>Microsoft Teams Unveiled - Combined Solution for Professional, Private & Educational Use on ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/revolutionize-coding-with-microsofts-latest-innovation-the-ultimate-ai-copy-and-paste-feature-zdnet/"><u>Revolutionize Coding with Microsoft's Latest Innovation: The Ultimate AI Copy-and-Paste Feature | ZDNET</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solution-strategies-for-addressing-the-comctl3-dll-error-on-your-pc/"><u>Solution Strategies for Addressing the Comctl3^ DLL Error on Your PC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-rated-free-video-editing-tools-for-mp4-files/"><u>Updated In 2024, Top-Rated Free Video Editing Tools for MP4 Files</u></a></li>
 </ul></div>
 

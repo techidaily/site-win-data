@@ -1,7 +1,7 @@
 ---
 title: "How To Access Files Without Software: Top 5 Methods For Opening Documents In Windows | TechAdvice"
-date: 2024-09-24T18:47:05.800Z
-updated: 2024-09-25T18:14:41.749Z
+date: 2024-09-25T11:46:16.116Z
+updated: 2024-09-30T15:37:39.081Z
 tags:
   - windows
 categories:
@@ -33,18 +33,24 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -61,13 +67,6 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
@@ -75,10 +74,16 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -86,6 +91,19 @@ Screenshot by Lance Whitney/ZDNET
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -98,18 +116,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -156,15 +174,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-online-channel-name-creation-tips-and-tricks/"><u>[New] 2024 Approved Mastering Online Channel Name Creation Tips & Tricks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-expert-strategies-for-live-streaming-using-obs/"><u>[New] Expert Strategies for Live Streaming Using OBS</u></a></li>
-<li><a href="https://win-data.techidaily.com/create-your-own-virtual-book-with-flipbuilder-a-guide-for-command-line-enthusiasts/"><u>Create Your Own Virtual Book with FlipBuilder - A Guide for Command Line Enthusiasts</u></a></li>
-<li><a href="https://win-data.techidaily.com/creating-engaging-picture-storytelling-from-your-digital-books-using-visualease-software/"><u>Creating Engaging Picture Storytelling From Your Digital Books Using VisualEase Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-xcover-7-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://win-data.techidaily.com/easy-tips-for-saving-your-flipboard-visuals-as-pdf-documents/"><u>Easy Tips for Saving Your Flipboard Visuals as PDF Documents</u></a></li>
-<li><a href="https://win-data.techidaily.com/expanding-pdf-sections-to-double-page-views-using-flipbuilders-techniques/"><u>Expanding PDF Sections to Double-Page Views Using FlipBuilder's Techniques</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expert-fix-combat-macs-kernel-error/"><u>Expert Fix: Combat Mac's Kernel Error</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-innovative-photoplusmusic-recorder-software-of-the-year/"><u>In 2024, Innovative Photo+Music Recorder Software of the Year</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-affordable-online-photo-edits-of-the-year/"><u>Ultimate Guide to Affordable Online Photo Edits of the Year</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevate-valorant-skills-with-an-all-star-zero-price-voice-modifier/"><u>[New] 2024 Approved Elevate Valorant Skills with an All-Star, Zero-Price Voice Modifier</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capture-and-zoom-the-essence-of-videography-heres-how/"><u>[New] Capture and Zoom the Essence of Videography, Here's How</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/arryminatis-income-blueprint-journey-through-2023-for-2024/"><u>[New] CarryMinati's Income Blueprint Journey Through 2023 for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-s18e-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo S18e FRP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/iconic-anime-intros-the-ultimate-collection-for-2024/"><u>Iconic Anime Intros The Ultimate Collection for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/microsoft-365-suffers-outage-amidst-ddos-assault-the-complete-report-by-zdnet/"><u>Microsoft 365 Suffers Outage Amidst DDoS Assault - The Complete Report by ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/microsoft-teams-unveiled-combined-solution-for-professional-private-and-educational-use-on-zdnet/"><u>Microsoft Teams Unveiled - Combined Solution for Professional, Private & Educational Use on ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ic-play-writing-and-producing-humor-videos/"><u>Parodic Play Writing and Producing Humor Videos</u></a></li>
+<li><a href="https://win-data.techidaily.com/revolutionize-coding-with-microsofts-latest-innovation-the-ultimate-ai-copy-and-paste-feature-zdnet/"><u>Revolutionize Coding with Microsoft's Latest Innovation: The Ultimate AI Copy-and-Paste Feature | ZDNET</u></a></li>
+<li><a href="https://win-data.techidaily.com/the-insider-scoop-why-microsofts-latest-surface-laptop-studio-left-me-green-with-jealousy-zdnet/"><u>The Insider Scoop: Why Microsoft's Latest Surface Laptop Studio Left Me Green with Jealousy | ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functional-control-center-on-iphone/"><u>Troubleshooting Guide: How to Fix a Non-Functional Control Center on iPhone</u></a></li>
 </ul></div>
 

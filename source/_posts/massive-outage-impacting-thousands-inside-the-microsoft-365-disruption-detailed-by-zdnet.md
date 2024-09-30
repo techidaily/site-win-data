@@ -1,7 +1,7 @@
 ---
 title: "Massive Outage Impacting Thousands: Inside the Microsoft 365 Disruption Detailed by ZDNet"
-date: 2024-09-24T22:43:56.588Z
-updated: 2024-09-25T19:33:21.773Z
+date: 2024-09-26T21:39:56.359Z
+updated: 2024-09-30T00:38:24.270Z
 tags:
   - microsoft
 categories:
@@ -114,35 +114,28 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-audience-connection-implementing-a-triplet-of-copywriting-tactics-in-fb-ads/"><u>[New] Audience Connection Implementing a Triplet of Copywriting Tactics in FB Ads</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-journey-to-visual-vigor-a-beginners-guidebook/"><u>[New] Journey to Visual Vigor A Beginner's Guidebook</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nlocking-the-secrets-of-youtubes-shorts-revenue-sharing-for-2024/"><u>[New] Unlocking the Secrets of YouTube’s Shorts Revenue Sharing for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-behind-the-headset-todays-vr-tomorrows-trials/"><u>[Updated] In 2024, Behind the Headset Today's VR, Tomorrow's Trials</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximizing-moolah-how-to-monetize-videos-on-the-social-network-giant/"><u>[Updated] In 2024, Maximizing Moolah How to Monetize Videos on the Social Network Giant</u></a></li>
-<li><a href="https://win-data.techidaily.com/2022s-premier-desk-selection-expert-picks-by-zdnet-review/"><u>2022'S Premier Desk Selection: Expert Picks by ZDNet Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-edge-it-right-a-list-of-top-borders-in-social-media-photography/"><u>2024 Approved Edge It Right A List of Top Borders in Social Media Photography</u></a></li>
-<li><a href="https://win-data.techidaily.com/arm-vs-intel-in-surface-pro-understanding-the-complexity-of-choice-tech-insights-by-zdnet/"><u>Arm Vs. Intel in Surface Pro - Understanding the Complexity of Choice | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/best-practices-for-configuring-and-measuring-fb-instream-ads/"><u>Best Practices for Configuring and Measuring FB Instream Ads</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-toshiba-laptop-drivers-download-and-installation-instructions-for-windows-pcs/"><u>Get the Latest Toshiba Laptop Drivers: Download and Installation Instructions for Windows PCs</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-move-your-windows-upgrade-credit-from-old-laptop-to-new-desktop-a-step-by-step-guide/"><u>How to Move Your Windows Upgrade Credit From Old Laptop to New Desktop: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-s23plus-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy S23+ Phones</u></a></li>
-<li><a href="https://win-data.techidaily.com/simplifying-pc-maintenance-tame-your-windows-updates-with-these-3-simple-tricks-insights-from-zdnet/"><u>Simplifying PC Maintenance: Tame Your Windows Updates with These 3 Simple Tricks - Insights From ZDNet</u></a></li>
-<li><a href="https://win-data.techidaily.com/top-30plus-unbeatable-amazon-primeshop-lighted-wall-mount-tv-monitors-on-sale-get-them-before-theyre-gone/"><u>Top 30+ Unbeatable Amazon Primeshop Lighted Wall Mount TV Monitors on Sale – Get Them Before They're Gone!</u></a></li>
-<li><a href="https://win-data.techidaily.com/top-5-ergonomic-desk-chairs-your-ultimate-guide-to-comfort-and-support/"><u>Top 5 Ergonomic Desk Chairs - Your Ultimate Guide to Comfort and Support</u></a></li>
-<li><a href="https://win-data.techidaily.com/top-5-essential-gimp-tools-for-image-editing-mastery-techniques-and-tips-revealed/"><u>Top 5 Essential GIMP Tools for Image Editing Mastery: Techniques and Tips Revealed</u></a></li>
-<li><a href="https://win-data.techidaily.com/windows-10-troubles-on-the-rise-for-microsoft-critical-time-pressure-as-2024-approaches-zdnet-report/"><u>Windows 10 Troubles on the Rise for Microsoft - Critical Time Pressure as 2024 Approaches | ZDNet Report</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-layering-and-shifting-photo-letters/"><u>[New] Layering & Shifting Photo Letters</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-online-exposure-on-youtube-by-keeping-up-creative-commons-usage/"><u>[New] Maximizing Online Exposure on YouTube by Keeping Up Creative Commons Usage</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-gif-tool-guide-tips-from-the-experts/"><u>[Updated] In 2024, Essential GIF Tool Guide Tips From the Experts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-chromes-speed-effortlessly-a-step-by-step-guide-to-a-swift-browser-experience/"><u>Boost Chrome's Speed Effortlessly: A Step-by-Step Guide to a Swift Browser Experience</u></a></li>
+<li><a href="https://win-data.techidaily.com/convert-and-save-vgtv-downloads-as-mp4movavi-formats-on-pc-or-mac/"><u>Convert & Save VGTV Downloads as MP4/MOV/AVI Formats on PC or Mac</u></a></li>
+<li><a href="https://win-data.techidaily.com/convert-and-save-your-favorites-streamline-playlists-on-simfy-with-multiple-audio-formats/"><u>Convert & Save Your Favorites: Streamline Playlists on Simfy with Multiple Audio Formats</u></a></li>
+<li><a href="https://win-data.techidaily.com/discover-the-top-substitute-for-snaptube-in-just-a-click-compatible-with-windows-and-mac-os/"><u>Discover the Top Substitute for SnapTube in Just a Click – Compatible with Windows & Mac OS!</u></a></li>
+<li><a href="https://win-data.techidaily.com/download-movies-and-tv-shows-from-tnaflix-your-ultimate-guide/"><u>Download Movies & TV Shows From TNAFlix: Your Ultimate Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/download-your-favorite-fakehub-videos-in-high-quality-formats-mp4-mov-and-avi-with-fakehub-downloader/"><u>Download Your Favorite FAKEhub Videos in High-Quality Formats: MP4, MOV & AVI with FAKEhub Downloader</u></a></li>
+<li><a href="https://win-data.techidaily.com/downloading-music-and-videos-from-torrents-on-your-pc-or-mac-a-comprehensive-tutorial/"><u>Downloading Music & Videos From Torrents on Your PC or Mac: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-data.techidaily.com/easy-video-conversion-with-pyvideo-save-youtube-content-as-mp4movavi-files/"><u>Easy Video Conversion with PyVideo: Save YouTube Content as MP4/MOV/AVI Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-motorola-edge-40-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Motorola Edge 40.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-redmi-k70-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Redmi K70 Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/phishing-email-how-to-spot-and-avoid-it-2024-tips/"><u>Phishing Email | How to Spot & Avoid It [2024 Tips]</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

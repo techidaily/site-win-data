@@ -1,7 +1,7 @@
 ---
 title: Exploring Every Latest Innovation in AI for Copilot+ Desktops - Am I Convinced by the Buzz?
-date: 2024-09-20T21:22:17.234Z
-updated: 2024-09-26T00:32:51.793Z
+date: 2024-09-25T16:44:27.591Z
+updated: 2024-09-29T22:41:42.248Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,28 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +202,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-humble-beginnings-surging-subscribers-and-views-in-youtube-world/"><u>[New] 2024 Approved From Humble Beginnings Surging Subscribers & Views in Youtube World</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-best-mc-housing-plans-for-vibrant-villages-for-2024/"><u>[New] Best MC Housing Plans for Vibrant Villages for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-conquer-your-screen-top-10-simple-youtube-projects-for-all-creators-for-2024/"><u>[Updated] Conquer Your Screen Top 10 Simple YouTube Projects for All Creators for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-methods-to-resuscitate-windows-photo-viewer-on-latest-os-for-2024/"><u>[Updated] Methods to Resuscitate Windows Photo Viewer on Latest OS for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/boost-engagement-by-allowing-readers-to-share-your-digital-brochures-flipbooks-across-facebook-twitter-and-googleplus/"><u>Boost Engagement by Allowing Readers to Share Your Digital Brochures (Flipbooks) Across Facebook, Twitter & Google+</u></a></li>
-<li><a href="https://win-data.techidaily.com/create-your-own-virtual-book-with-flipbuilder-a-guide-for-command-line-enthusiasts/"><u>Create Your Own Virtual Book with FlipBuilder - A Guide for Command Line Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fading-techniques-for-aural-balance/"><u>Fading Techniques for Aural Balance</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/la-structure-corporelle-revelee-parts-in-french/"><u>La Structure Corporelle Révélée: Parts in French</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-redmi-note-13-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi Redmi Note 13 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://win-data.techidaily.com/professional-design-ultimate-free-bootstrap-vue-admin-theme-and-elegant-paper-style/"><u>Professional Design, Ultimate Free Bootstrap Vue Admin Theme, and Elegant Paper Style.</u></a></li>
-<li><a href="https://win-data.techidaily.com/professional-pro-edition-of-nextjs-material-kit-by-creative-tim-unlock-advanced-material-ui-design/"><u>Professional Pro Edition of NextJS Material Kit by Creative Tim - Unlock Advanced Material-UI Design</u></a></li>
-<li><a href="https://win-data.techidaily.com/professional-vue-black-dashboard-exclusive-premium-bootstrap-4-admin-suite-from-creative-tim/"><u>Professional Vue Black Dashboard: Exclusive Premium Bootstrap 4 Admin Suite From Creative Tim</u></a></li>
-<li><a href="https://win-data.techidaily.com/professional-vue-now-ui-suite-premium-pro-version-from-creative-tim/"><u>Professional Vue Now UI Suite – Premium Pro Version From Creative Tim</u></a></li>
-<li><a href="https://win-data.techidaily.com/the-ultimate-guide-to-spooky-ghost-website-designs-with-premium-templates-free-trials/"><u>The Ultimate Guide to Spooky Ghost Website Designs with Premium Templates (Free Trials)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/trouble-adding-mp4-to-imovie-discover-how-to-successfully-integrate-your-video/"><u>Trouble Adding MP4 to iMovie? Discover How to Successfully Integrate Your Video!</u></a></li>
-<li><a href="https://win-data.techidaily.com/vue-now-pro-ui-dashboard-advanced-admin-panel-with-bootstrap-4-created-by-creative-tim-and-coded-by-cristi-jora/"><u>Vue Now Pro UI Dashboard - Advanced Admin Panel with Bootstrap 4, Created by Creative Tim & Coded by Cristi Jora</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/what-to-do-when-you-encounter-jvmdll-file-missing-issues/"><u>What To Do When You Encounter JVM.DLL File Missing Issues</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-ultimate-roku-guide-to-facebook-live-streams-for-2024/"><u>[Updated] The Ultimate Roku Guide to Facebook Live Streams for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-tips-for-efficient-film-recording-on-pc-and-mobile-for-2024/"><u>[Updated] Top Tips for Efficient Film Recording on PC & Mobile for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/automatic-onedrive-sync-with-windows-11-unauthorized-backups-explored-techspotted/"><u>Automatic OneDrive Sync with Windows 11: Unauthorized Backups Explored | TechSpotted</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-examination-a-full-picture-of-bublcams-360-degree-scope/"><u>Complete Examination A Full Picture of Bublcam's 360-Degree Scope</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290304717-dvdmacand/"><u>DVDをMacでマジレーサ―最高のリッピングツール&使い方詳しく解説！</u></a></li>
+<li><a href="https://win-data.techidaily.com/find-any-lost-document-easily-using-microsofts-new-ai-powered-recall-feature-for-eligible-pcs-zdnet-insights/"><u>Find Any Lost Document Easily Using Microsoft's New AI-Powered Recall Feature for Eligible PCs | ZDNet Insights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/microsoft-unveils-new-android-and-ios-releases-of-dall-e-the-innovative-ai-image-generation-tool/"><u>Microsoft Unveils New Android & iOS Releases of DALL-E: The Innovative AI Image Generation Tool</u></a></li>
+<li><a href="https://win-data.techidaily.com/the-tech-shift-in-iot-how-microsoft-contrasts-with-googles-exit-strategy/"><u>The Tech Shift in IoT: How Microsoft Contrasts with Google's Exit Strategy</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-missing-nspr4dll-files-on-your-computer-step-by-step-fixes/"><u>Troubleshooting 'Missing' nspr4.dll Files on Your Computer – Step-by-Step Fixes</u></a></li>
 </ul></div>
 

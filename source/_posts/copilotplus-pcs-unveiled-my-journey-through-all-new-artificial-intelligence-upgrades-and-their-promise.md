@@ -1,7 +1,7 @@
 ---
 title: "Copilot+ PCs Unveiled: My Journey Through All New Artificial Intelligence Upgrades and Their Promise"
-date: 2024-09-25T00:21:23.395Z
-updated: 2024-09-26T00:33:56.532Z
+date: 2024-09-26T19:52:41.766Z
+updated: 2024-09-30T15:49:19.761Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,13 +62,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,16 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-direct-engagement-or-mass-distribution-twitch-and-youtube-contrast/"><u>[New] Direct Engagement or Mass Distribution? Twitch & YouTube Contrast</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-efficient-video-marketing-incorporating-timestamps-effectively/"><u>[Updated] In 2024, Efficient Video Marketing Incorporating Timestamps Effectively</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-luminance-hd-evaluation-the-ultimate-decision/"><u>2024 Approved Luminance-HD Evaluation The Ultimate Decision?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a23-5g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy A23 5G?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unleash-the-power-of-natural-and-artificentic-lights-on-iphone/"><u>In 2024, Unleash the Power of Natural and Artificentic Lights on iPhone</u></a></li>
-<li><a href="https://win-data.techidaily.com/microsoft-teams-unveiled-combined-solution-for-professional-private-and-educational-use-on-zdnet/"><u>Microsoft Teams Unveiled - Combined Solution for Professional, Private & Educational Use on ZDNet</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-this-article-shows-5-different-factors-to-compare-tivo-with-comcast-in-order-to-explain-who-wins-the-dvr-battle-in-the-end-for-2024/"><u>New This Article Shows 5 Different Factors to Compare TiVo with Comcast in Order to Explain Who Wins the DVR Battle in the End for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/revolutionize-coding-with-microsofts-latest-innovation-the-ultimate-ai-copy-and-paste-feature-zdnet/"><u>Revolutionize Coding with Microsoft's Latest Innovation: The Ultimate AI Copy-and-Paste Feature | ZDNET</u></a></li>
-<li><a href="https://win-data.techidaily.com/the-insider-scoop-why-microsofts-latest-surface-laptop-studio-left-me-green-with-jealousy-zdnet/"><u>The Insider Scoop: Why Microsoft's Latest Surface Laptop Studio Left Me Green with Jealousy | ZDNet</u></a></li>
-<li><a href="https://win-data.techidaily.com/transforming-traditional-workspaces-into-high-productivity-hubs-the-success-story-of-a-revamped-office/"><u>Transforming Traditional Workspaces Into High-Productivity Hubs - The Success Story of a Revamped Office</u></a></li>
-<li><a href="https://win-data.techidaily.com/unpacking-happiness-in-the-workplace-a-microsoft-official-explains-why-tech-trumps-human-interactions-according-to-zdnet/"><u>Unpacking Happiness in the Workplace: A Microsoft Official Explains Why Tech Trumps Human Interactions, According to ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-a-pro-sports-youtube-feed-on-macos/"><u>[New] 2024 Approved Crafting a Pro Sports YouTube Feed on MacOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/s-paying-monthly-for-youtubes-unlimited-access-a-good-deal/"><u>[New] Is Paying Monthly for YouTube's Unlimited Access a Good Deal?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-master-the-art-of-screenshot-and-video-edits-top-8-mobile-choices/"><u>[New] Master the Art of Screenshot and Video Edits – Top 8 Mobile Choices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-quick-easy-fun-4-steps-to-showcasing-your-favorite-gifs-on-instagram-for-2024/"><u>[New] Quick, Easy, Fun 4 Steps to Showcasing Your Favorite GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capturing-the-action-a-twitch-broadcasters-handbook-for-2024/"><u>[Updated] Capturing the Action A Twitch Broadcaster's Handbook for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-explore-eco-films-learn-and-innovate-with-yts-green-screens/"><u>[Updated] Explore Eco-Films Learn & Innovate with YT's Green Screens</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unveiling-wintv-magic-compre-written-guide-to-capturing-live-on-windows-pc/"><u>[Updated] Unveiling WinTV Magic Compre Written Guide to Capturing Live on Windows PC</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-download-full-library-of-films-in-multiple-formats-from-fandor-mp4-mov-avi-and-more/"><u>1. Download Full Library of Films in Multiple Formats From Fandor: MP4, MOV, AVI, and More!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/deciphering-your-social-media-shadows-privacy-on-facebook/"><u>Deciphering Your Social Media Shadows Privacy on Facebook</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-for-downloading-and-format-shifting-master-pick-up-artist-university-lectures/"><u>Step-by-Step Tutorial for Downloading and Format Shifting Master Pick Up Artist University Lectures</u></a></li>
+<li><a href="https://win-data.techidaily.com/transferring-hyperlinks-from-powerpoint-presentations-into-flipbook-format-a-comprehensive-guide/"><u>Transferring Hyperlinks From PowerPoint Presentations Into FlipBook Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/transform-your-3d-models-with-ease-convert-chm-into-engaging-ebook-format-using-flipchm-software-by-flipbuildercom/"><u>Transform Your 3D Models with Ease! Convert CHM Into Engaging eBook Format Using FlipCHM Software by FlipBuilder.com</u></a></li>
+<li><a href="https://win-data.techidaily.com/troubleshooting-the-search-feature-malfunction-on-flipbuilder-how-to-fix/"><u>Troubleshooting the Search Feature Malfunction on FlipBuilder - How To Fix</u></a></li>
 </ul></div>
 

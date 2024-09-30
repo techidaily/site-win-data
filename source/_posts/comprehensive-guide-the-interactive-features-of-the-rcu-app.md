@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: The Interactive Features of the RCU App"
-date: 2024-09-19T18:31:05.589Z
-updated: 2024-09-25T20:36:56.571Z
+date: 2024-09-24T11:24:02.617Z
+updated: 2024-09-29T17:36:08.997Z
 tags:
   - product
 categories:
@@ -24,6 +24,13 @@ Action! add-on
 
 ## Action! RCU App Overview
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Full control within a finger's reach
 
 Use Action! Remote Control Unit to make your recording and streaming even more comfortable and easier. The functionality of our RCU App will let you focus on your gameplay only - forget about hotkeys!
@@ -35,17 +42,10 @@ Use Action! Remote Control Unit to make your recording and streaming even more c
 ![Start, stop and pause video recordings](https://mirillis.com/res/old/media/images/product/action_rcu/l1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1. Start, stop and pause video recordings
@@ -60,6 +60,13 @@ Control your stream session with your Android device just by tapping one button 
 
 ![Display webcams preview](https://mirillis.com/res/old/media/images/product/action_rcu/l3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3. Display webcams preview
 
 Use you mobile device to preview your webcam. You can use it instead of HUD version or see it on both Android device and Windows computer.
@@ -67,10 +74,10 @@ Use you mobile device to preview your webcam. You can use it instead of HUD vers
 ![Display FPS information](https://mirillis.com/res/old/media/images/product/action_rcu/l4.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4. Display FPS information
@@ -80,10 +87,10 @@ Control all the FPS information from your Android mobile device. The RCU App wil
 ![Display video recording time](https://mirillis.com/res/old/media/images/product/action_rcu/l5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5. Display video recording time
@@ -92,13 +99,6 @@ Keep an eye on the time of the video you are recording on your mobile device. Re
 
 ![Display 3D engine (DX8/9/10/11,12 OpenGL or Windows Aero)](https://mirillis.com/res/old/media/images/product/action_rcu/l6.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6. Display 3D engine (DX8/9/10/11,12 OpenGL or Windows Aero)
 
 Action! RCU shows you the information on graphic engine that you are currently using.
@@ -106,10 +106,16 @@ Action! RCU shows you the information on graphic engine that you are currently u
 ![Display free disk space](https://mirillis.com/res/old/media/images/product/action_rcu/l7.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7. Display free disk space
@@ -131,20 +137,20 @@ Do not let yourself to spoil your gameplay video because of lack of free space o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-snort-spree-top-10-viral-laughs-online/"><u>[New] 2024 Approved Snort Spree Top 10 Viral Laughs Online</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-from-tiktok-to-instagram-strategies-to-amplify-your-reels-virality/"><u>[New] From TikTok to Instagram Strategies to Amplify Your Reel's Virality</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-harmony-hub-innovations-showcased/"><u>[Updated] In 2024, Harmony Hub Innovations Showcased</u></a></li>
-<li><a href="https://win-blog.techidaily.com/10-ways-to-get-rid-of-battlefield-5-lagging/"><u>10 Ways to Get Rid of Battlefield 5 Lagging</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-revolutionary-performance-with-the-arm-powered-2n-apple-mac-mini-review-of-2020/"><u>Experience Revolutionary Performance with the ARM-Powered 2N Apple Mac Mini Review of 2020!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-12-mini-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 12 mini without Security Questions?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-guide-dall-e-webp-to-standard-image-formats/"><u>Quick Guide: DALL-E WebP to Standard Image Formats</u></a></li>
-<li><a href="https://win-data.techidaily.com/speedy-distribution-of-marketing-materials-create-and-share-flipbooks-immediately-on-flipbuilder/"><u>Speedy Distribution of Marketing Materials - Create and Share Flipbooks Immediately on FlipBuilder</u></a></li>
-<li><a href="https://win-data.techidaily.com/start-your-personalized-button-collection-with-flipbuilder-design-and-print-easily-online/"><u>Start Your Personalized Button Collection with FlipBuilder - Design and Print Easily Online</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-integrating-new-designs-into-flipoffice-pro-software-tips-and-tricks-flipbuilder/"><u>Step-by-Step Guide: Integrating New Designs Into FlipOffice Pro Software - Tips & Tricks | FlipBuilder</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-tutorials-flipping-images-effortlessly-using-flipbuilder-for-macos-users/"><u>Step-by-Step Tutorials: Flipping Images Effortlessly Using FlipBuilder for macOS Users</u></a></li>
-<li><a href="https://discover-great.techidaily.com/top-rated-windows-11-video-editing-software-reviewed/"><u>Top-Rated Windows 11 Video Editing Software Reviewed</u></a></li>
-<li><a href="https://win-data.techidaily.com/transferring-hyperlinks-from-powerpoint-presentations-into-flipbook-format-a-comprehensive-guide/"><u>Transferring Hyperlinks From PowerPoint Presentations Into FlipBook Format: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/transform-your-3d-models-with-ease-convert-chm-into-engaging-ebook-format-using-flipchm-software-by-flipbuildercom/"><u>Transform Your 3D Models with Ease! Convert CHM Into Engaging eBook Format Using FlipCHM Software by FlipBuilder.com</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-complete-motion-survey-2023/"><u>[Updated] 2024 Approved Complete Motion Survey 2023</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-advanced-bootstrap-admin-panel-complimentary-bootstrap-5-design-suite-by-creative-tim/"><u>1. Advanced Bootstrap Admin Panel: Complimentary Bootstrap 5 Design Suite by Creative Tim</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva/"><u>2024 Approved Pushing Boundaries of Editing How to Erase Image Borders on Canva</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-of-speed-instant-background-cleanse-techniques/"><u>2024 Approved Secrets of Speed Instant Background Cleanse Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oppo-a2-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-meizu-21-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Meizu 21.</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/nocturnal-landscapes-on-your-iphone-for-2024/"><u>Nocturnal Landscapes on Your iPhone for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-synergy-integrating-auto-gpt-into-ubuntu/"><u>Seamless Synergy: Integrating Auto-GPT Into Ubuntu</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-capturing-screenshots-and-recording-your-screen-on-windows-10-and-11-using-native-applications/"><u>Step-by-Step Guide: Capturing Screenshots and Recording Your Screen on Windows 10 & 11 Using Native Applications</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-reverting-from-windows-11-back-to-windows-10-with-a-twist-pcworld/"><u>Step-by-Step Guide: Reverting From Windows 11 Back to Windows 10 with a Twist | PCWorld</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-gaming-minis-perfect-for-competitive-play/"><u>Top Gaming Minis: Perfect for Competitive Play</u></a></li>
+<li><a href="https://win-data.techidaily.com/unlock-the-power-of-windows-11-to-rapidly-close-frozen-applications-for-a-smoother-user-experience/"><u>Unlock the Power of Windows 11 to Rapidly Close Frozen Applications for a Smoother User Experience</u></a></li>
+<li><a href="https://win-data.techidaily.com/unnecessary-cost-why-investing-in-antivirus-software-might-not-be-worth-it-insights-from-zdnet/"><u>Unnecessary Cost: Why Investing in Antivirus Software Might Not Be Worth It - Insights From ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/upgrading-made-easy-shifting-your-windows-license-from-previous-device-to-latest-purchase-insider-tips-and-tricks/"><u>Upgrading Made Easy: Shifting Your Windows License From Previous Device to Latest Purchase - Insider Tips & Tricks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comparing Top AI Assistants: ChatGPT, Microsoft Copilot & Gemini – Who Reigns Supreme?"
-date: 2024-09-25T00:51:59.466Z
-updated: 2024-09-25T20:47:09.478Z
+date: 2024-09-22T22:11:27.938Z
+updated: 2024-09-30T08:48:08.887Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,14 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems/"><u>[New] 2024 Approved Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-11-best-streaming-audio-recorders/"><u>[Updated] 11 Best Streaming Audio Recorders</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/efficient-academic-research-via-ai-solutions/"><u>Efficient Academic Research via AI Solutions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-free-to-paid-subscriber-count-surpasses-500-for-2024/"><u>From Free to Paid Subscriber Count Surpasses 500 for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/speedy-distribution-of-marketing-materials-create-and-share-flipbooks-immediately-on-flipbuilder/"><u>Speedy Distribution of Marketing Materials - Create and Share Flipbooks Immediately on FlipBuilder</u></a></li>
-<li><a href="https://win-data.techidaily.com/start-your-personalized-button-collection-with-flipbuilder-design-and-print-easily-online/"><u>Start Your Personalized Button Collection with FlipBuilder - Design and Print Easily Online</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-integrating-new-designs-into-flipoffice-pro-software-tips-and-tricks-flipbuilder/"><u>Step-by-Step Guide: Integrating New Designs Into FlipOffice Pro Software - Tips & Tricks | FlipBuilder</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-tutorials-flipping-images-effortlessly-using-flipbuilder-for-macos-users/"><u>Step-by-Step Tutorials: Flipping Images Effortlessly Using FlipBuilder for macOS Users</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-gaming-display-breakdown-asrock-pg2nqft2a-monitor-at-a-whopping-180hz-is-it-worth-it/"><u>Ultimate Gaming Display Breakdown: ASRock PG2nQFT2a Monitor at a Whopping 180Hz - Is It Worth It?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-graphicgenius-suite/"><u>[New] In 2024, GraphicGenius Suite</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-visuals-saving-and-downloading-on-smartphones/"><u>[New] Twitter's Visuals Saving and Downloading on Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-video-editing-for-instagram-incorporating-background-music-effortlessly/"><u>DIY Video Editing for Instagram: Incorporating Background Music Effortlessly</u></a></li>
+<li><a href="https://win-data.techidaily.com/free-windows-10-upgrade-period-ended-heres-what-you-need-to-know/"><u>Free Windows 10 Upgrade Period Ended: Here's What You Need To Know</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-access-files-without-software-top-5-methods-for-opening-documents-in-windows-techadvice/"><u>How To Access Files Without Software: Top 5 Methods For Opening Documents In Windows | TechAdvice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-samsung-galaxy-m34-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Samsung Galaxy M34?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-pro-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 Pro to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/master-quick-start-guide-simplify-your-duties-as-a-sysadmin-using-powershell-on-windows-only-16/"><u>Master Quick-Start Guide: Simplify Your Duties as a Sysadmin Using PowerShell on Windows, Only $16!</u></a></li>
+<li><a href="https://win-data.techidaily.com/master-system-administration-automation-on-windows-using-powershell-enroll-now-for-only-16/"><u>Master System Administration Automation on Windows Using PowerShell - Enroll Now for Only $16!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/master-the-cleanup-process-efficient-methods-for-removing-facebook-messages-on-smartphones-iphoneandroid/"><u>Master the Cleanup Process: Efficient Methods for Removing Facebook Messages on Smartphones (iPhone/Android)</u></a></li>
+<li><a href="https://win-data.techidaily.com/microsoft-surface-duo-2-first-impressions-a-tale-of-bafflement-and-curiosity-after-2-weeks-zdnet-insights/"><u>Microsoft Surface Duo 2 First Impressions - A Tale of Bafflement & Curiosity After 2 Weeks | ZDNet Insights</u></a></li>
+<li><a href="https://win-data.techidaily.com/no-more-support-for-windows-10-after-2025-microsofts-latest-announcement-detailed-on-zdnet/"><u>No More Support for Windows 10 After 2025? Microsoft's Latest Announcement Detailed on ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/restore-accidentally-deleted-files-on-windows-11-step-by-step-guide/"><u>Restore Accidentally Deleted Files on Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-chatgpt-even-if-you-dont-have-an-account-discover-5-methods/"><u>Unlock the Power of ChatGPT Even If You Don't Have an Account - Discover 5 Methods</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-cut-trim-and-edit-the-best-free-and-paid-android-video-editors/"><u>Updated 2024 Approved Cut, Trim, and Edit The Best Free and Paid Android Video Editors</u></a></li>
 </ul></div>
 
