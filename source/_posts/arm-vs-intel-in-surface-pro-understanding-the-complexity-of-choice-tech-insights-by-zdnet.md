@@ -1,7 +1,7 @@
 ---
 title: Arm Vs. Intel in Surface Pro - Understanding the Complexity of Choice | Tech Insights by ZDNet
-date: 2024-09-27T19:16:12.216Z
-updated: 2024-09-30T15:31:53.942Z
+date: 2024-09-29T20:38:22.697Z
+updated: 2024-10-05T21:02:43.359Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-boring-to-breathtaking-the-transformation-of-channel-titles/"><u>[New] 2024 Approved From Boring to Breathtaking The Transformation of Channel Titles</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/remier-cutting-suites-on-linux-systems/"><u>[New] Premier Cutting Suites on Linux Systems</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-swift-snap-reinstatement-techniques-for-2024/"><u>[Updated] Swift Snap Reinstatement Techniques for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-6-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 6</u></a></li>
-<li><a href="https://driver-error.techidaily.com/correcting-malfunctioning-inf-installation-clause/"><u>Correcting Malfunctioning INF Installation Clause</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-c300-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia C300 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-convert-and-save-adult-content-videos-as-mp4-mkv-or-flac-from-hclips-platform/"><u>How to Convert and Save Adult Content Videos as MP4, MKV or FLAC From Hclips Platform</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-convert-and-save-kickstarter-project-videos-in-high-quality-mp4-format/"><u>How To Convert and Save Kickstarter Project Videos in High-Quality MP4 Format</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-fix-videograbgy-issues-top-software-options-that-work-like-a-charm/"><u>How to Fix VideoGrabgy Issues? Top Software Options That Work Like a Charm!</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-save-and-convert-videos-from-dnatube-into-mp4movavi-using-our-easy-guide/"><u>How To Save and Convert Videos From DNATube Into MP4/MOV/AVI Using Our Easy Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-transfer-vgtv-content-into-multiple-video-formats-for-both-mac-and-pc-users/"><u>How to Transfer VGTV Content Into Multiple Video Formats for Both Mac and PC Users</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max Passcode Screen?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unlocking-the-power-of-capturing-facetime-calls/"><u>Unlocking the Power of Capturing FaceTime Calls</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-elevate-views-with-science-backed-timing-tactics/"><u>[Updated] In 2024, Elevate Views with Science-Backed Timing Tactics</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/comparing-apples-giants-a-detailed-analysis-of-iphone-x-and-iphone-7/"><u>Comparing Apple's Giants: A Detailed Analysis of iPhone X and iPhone 7</u></a></li>
+<li><a href="https://win-data.techidaily.com/easy-steps-to-revert-your-iphone-xs-to-a-previous-backup/"><u>Easy Steps to Revert Your iPhone XS to a Previous Backup</u></a></li>
+<li><a href="https://fox-info.techidaily.com/leading-marketplaces-for-bespoke-wrapping-marvels-for-2024/"><u>Leading Marketplaces for Bespoke Wrapping Marvels for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-visuals-and-minimize-space-transform-dvd-to-h265-for-stellar-quality-and-smaller-files/"><u>Maximize Visuals & Minimize Space - Transform DVD to H.265 For Stellar Quality and Smaller Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/save-big-on-labor-day-get-enhanced-security-with-a-blink-outdoor-4-camera-and-floodlight-system-at-just-80-limited-time-deal/"><u>Save Big on Labor Day! Get Enhanced Security with a Blink Outdoor 4-Camera and Floodlight System at Just $80 - Limited Time Deal.</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-to-recording-video-gameplay-on-your-android-device/"><u>Step-by-Step Guide to Recording Video Gameplay on Your Android Device</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-reflecting-your-iphone-screen-onto-a-sony-television/"><u>Step-by-Step Guide: Reflecting Your iPhone Screen Onto a Sony Television</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-fleeting-feed-of-fb-shorts-for-2024/"><u>The Fleeting Feed of FB Shorts for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-screen-capture-tools-purchase-options-and-comparisons/"><u>Top Screen Capture Tools: Purchase Options and Comparisons</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-substitutes-for-spotify-fresh-and-exciting-music-services-await/"><u>Top Substitutes for Spotify – Fresh & Exciting Music Services Await!</u></a></li>
+<li><a href="https://win-data.techidaily.com/troubleshooting-ios-12s-screen-recording-feature-expert-tips-and-solutions/"><u>Troubleshooting iOS 12'S Screen Recording Feature: Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-uncover-your-windows-10-taskbar-no-more-hidden/"><u>Troubleshooting Tips: Uncover Your Windows 10 Taskbar (No More Hidden)</u></a></li>
+<li><a href="https://win-data.techidaily.com/ultimate-image-organizer-the-premier-android-gallery-solution/"><u>Ultimate Image Organizer: The Premier Android Gallery Solution</u></a></li>
 </ul></div>
 

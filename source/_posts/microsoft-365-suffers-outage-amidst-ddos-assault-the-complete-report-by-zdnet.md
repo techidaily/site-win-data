@@ -1,7 +1,7 @@
 ---
 title: Microsoft 365 Suffers Outage Amidst DDoS Assault - The Complete Report by ZDNet
-date: 2024-09-29T15:06:14.484Z
-updated: 2024-09-30T06:53:27.369Z
+date: 2024-10-02T19:01:18.028Z
+updated: 2024-10-05T16:08:36.976Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,21 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-echoes-of-chuckles-parody-playlists/"><u>[Updated] In 2024, Echoes of Chuckles Parody Playlists</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-unlocking-elite-status-navigating-the-premium-world-of-disconitro/"><u>[Updated] In 2024, Unlocking Elite Status Navigating the Premium World of DiscoNitro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-simplifying-the-image-blur-process-for-iphone-enthusiasts/"><u>[Updated] Simplifying the Image Blur Process for iPhone Enthusiasts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/clarifying-concepts-behind-4k-extraordinary-definition/"><u>Clarifying Concepts Behind 4K Extraordinary Definition</u></a></li>
-<li><a href="https://win-data.techidaily.com/enhance-your-django-project-with-argon-dashboard-the-stylish-bootstrap-ve-4-admin-template-by-creative-tim/"><u>Enhance Your Django Project with Argon Dashboard - The Stylish Bootstrap Ve 4 Admin Template by Creative Tim</u></a></li>
-<li><a href="https://win-data.techidaily.com/enhance-your-projects-with-paper-a-premium-free-bootstrap-admin-template-by-creative-tim/"><u>Enhance Your Projects with 'Paper' - A Premium, FREE Bootstrap Admin Template by Creative Tim!</u></a></li>
-<li><a href="https://win-data.techidaily.com/experience-the-ultimate-control-with-now-ui-dashboard-pro-the-advanced-bootstrap-4-admin-suite-by-creative-tim/"><u>Experience the Ultimate Control with Now UI Dashboard Pro – The Advanced Bootstrap 4 Admin Suite by Creative Tim</u></a></li>
-<li><a href="https://win-data.techidaily.com/free-and-premium-ui-dashboard-kit-for-react-developers-using-material-ui-by-creative-tim/"><u>Free & Premium UI Dashboard Kit for React Developers Using Material-UI by Creative Tim</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-p40-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Itel P40 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/laughter-in-the-clouds-iphone/"><u>Laughter in the Clouds (iPhone)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-speed-with-premium-controller-add-ons/"><u>Mastering Speed with Premium Controller Add-Ons</u></a></li>
-<li><a href="https://win-data.techidaily.com/pro-version-unlocked-advanced-react-and-creative-tim-powered-by-muses-exclusive-ant-design-admin-suite/"><u>Pro Version Unlocked: Advanced React and Creative Tim Powered by Muse's Exclusive Ant Design Admin Suite</u></a></li>
-<li><a href="https://win-data.techidaily.com/pro-version-unlocked-muse-vue-with-advanced-ant-design-ui-kit-ultimate-dashboard-by-creative-tim/"><u>Pro Version Unlocked: Muse Vue with Advanced Ant Design UI Kit | Ultimate Dashboard by Creative Tim</u></a></li>
-<li><a href="https://win-data.techidaily.com/professional-and-advanced-material-ui-dashboard-with-vision-pro-edition-powered-by-react/"><u>Professional & Advanced Material-UI Dashboard with Vision - Pro Edition, Powered by React</u></a></li>
-<li><a href="https://win11.techidaily.com/smooth-conversations-testing-microphones-and-cameras-in-windows/"><u>Smooth Conversations: Testing Microphones & Cameras in Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/travel-friendly-bluetooth-audio-system-your-ultimate-companion-for-easy-journeys/"><u>Travel-Friendly Bluetooth Audio System - Your Ultimate Companion for Easy Journeys</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-grid-artistry-at-its-peak-the-definitive-10-for-insta-posts/"><u>[New] 2024 Approved Grid Artistry at Its Peak The Definitive 10 for Insta Posts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-maintaining-meetings-in-google-recorder-for-2024/"><u>[Updated] Maintaining Meetings in Google Recorder for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/convert-and-save-vgtv-downloads-as-mp4movavi-formats-on-pc-or-mac/"><u>Convert & Save VGTV Downloads as MP4/MOV/AVI Formats on PC or Mac</u></a></li>
+<li><a href="https://win-data.techidaily.com/convert-and-save-your-favorites-streamline-playlists-on-simfy-with-multiple-audio-formats/"><u>Convert & Save Your Favorites: Streamline Playlists on Simfy with Multiple Audio Formats</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-audio-revolution-from-srt-to-xmlssattml/"><u>Digital Audio Revolution From SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://win-data.techidaily.com/discover-the-top-substitute-for-snaptube-in-just-a-click-compatible-with-windows-and-mac-os/"><u>Discover the Top Substitute for SnapTube in Just a Click – Compatible with Windows & Mac OS!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/diy-pc-repairs-for-a-smooth-armored-core-6-gaming-experience-on-windows-systems/"><u>DIY PC Repairs for a Smooth Armored Core 6 Gaming Experience on Windows Systems</u></a></li>
+<li><a href="https://win-data.techidaily.com/download-movies-and-tv-shows-from-tnaflix-your-ultimate-guide/"><u>Download Movies & TV Shows From TNAFlix: Your Ultimate Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/download-your-favorite-fakehub-videos-in-high-quality-formats-mp4-mov-and-avi-with-fakehub-downloader/"><u>Download Your Favorite FAKEhub Videos in High-Quality Formats: MP4, MOV & AVI with FAKEhub Downloader</u></a></li>
+<li><a href="https://win-data.techidaily.com/downloading-music-and-videos-from-torrents-on-your-pc-or-mac-a-comprehensive-tutorial/"><u>Downloading Music & Videos From Torrents on Your PC or Mac: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-guide-converting-and-burning-wmv-files-onto-dvd-using-winx-dvd-creator/"><u>Free Guide: Converting & Burning WMV Files Onto DVD Using WinX DVD Creator</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-hidden-potential-5-underused-features-of-chatgpt-you-need-to-know-about/"><u>Unlocking Hidden Potential: 5 Underused Features of ChatGPT You Need to Know About</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-next-for-google-uncovering-rumored-pricing-launch-dates-and-specs-of-the-upcoming-pixel-model/"><u>What's Next for Google: Uncovering Rumored Pricing, Launch Dates & Specs of the Upcoming Pixel Model</u></a></li>
 </ul></div>
 

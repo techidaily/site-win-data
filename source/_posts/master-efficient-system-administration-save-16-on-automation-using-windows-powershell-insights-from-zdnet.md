@@ -1,7 +1,7 @@
 ---
 title: "Master Efficient System Administration: Save $16 on Automation Using Windows PowerShell - Insights From ZDNet"
-date: 2024-09-24T17:35:55.240Z
-updated: 2024-09-29T21:47:24.033Z
+date: 2024-10-01T17:31:36.841Z
+updated: 2024-10-06T00:40:27.359Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,16 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,13 +142,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -153,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,19 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-reddits-hidden-gems-5-tips-for-novices-to-master-engagement-metrics/"><u>[New] Reddit's Hidden Gems 5 Tips for Novices to Master Engagement Metrics</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cost-effective-travel-charger-transforms-long-journecks-smart-savings-by-zdnet/"><u>Cost-Effective Travel Charger Transforms Long Journecks | Smart Savings by ZDNet</u></a></li>
-<li><a href="https://win-data.techidaily.com/efficient-video-to-mp3-conversion-tools-for-mac-and-windows-users-seeking-mediahumans-rival-solutions/"><u>Efficient Video-to-MP3 Conversion Tools for Mac and Windows Users Seeking Mediahuman's Rival Solutions</u></a></li>
-<li><a href="https://win-data.techidaily.com/enviro-tutsplus-course-access-securely-download-educational-video-content-and-lessons/"><u>Enviro Tuts+ Course Access: Securely Download Educational Video Content and Lessons</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/exclusive-deal-on-alienware-aurora-r16-high-performance-rtx-4080-super-core-i9-cpu-plus-enjoy-a-50aturday/"><u>Exclusive Deal on Alienware Aurora R16: High-Performance RTX 4080 Super, Core I9 CPU + Enjoy a $50Aturday</u></a></li>
-<li><a href="https://win-data.techidaily.com/experience-unlimited-entertainment-get-your-favorite-tv-shows-and-movies-via-openload-download-platform/"><u>Experience Unlimited Entertainment: Get Your Favorite TV Shows & Movies via OPENLOAD Download Platform</u></a></li>
-<li><a href="https://win-data.techidaily.com/extract-and-convert-itunes-television-content-into-various-video-formats-using-the-ittf-downloader-tool/"><u>Extract and Convert iTunes Television Content Into Various Video Formats Using the ITTF Downloader Tool</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-delays-a-strategic-move/"><u>Game Delays: A Strategic Move?</u></a></li>
-<li><a href="https://win-data.techidaily.com/get-metacafe-for-desktop-top-streaming-apps-for-mac-and-windows-users/"><u>Get Metacafe for Desktop: Top Streaming Apps for Mac & Windows Users</u></a></li>
-<li><a href="https://win-data.techidaily.com/guide-converting-awaan-video-files-into-multiple-formats-mp4-mov-avi-for-pc-and-mac/"><u>Guide: Converting Awaan Video Files Into Multiple Formats (MP4, MOV, AVI) for PC & Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-echoes-in-motion-mac-for-sound-artists/"><u>In 2024, Echoes in Motion Mac for Sound Artists</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-f15-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy F15 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-is-avs-video-editor-worth-it-an-honest-review-for-2024/"><u>New Is AVS Video Editor Worth It? An Honest Review for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-8-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 8 Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-in-depth-video-metrics-at-your-fingertips-social-blade-for-youtube/"><u>[New] 2024 Approved In-Depth Video Metrics at Your Fingertips Social Blade for YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-instagram-connection-posting-video-content/"><u>[New] In 2024, YouTube-Instagram Connection Posting Video Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-10-best-trending-background-music-for-youtube-shorts/"><u>[Updated] 2024 Approved The 10 Best Trending Background Music for YouTube Shorts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-neuroscience-insights-enhance-effective-corporate-governance/"><u>[Updated] How Neuroscience Insights Enhance Effective Corporate Governance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-maintaining-meetings-in-google-recorder/"><u>[Updated] In 2024, Maintaining Meetings in Google Recorder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-ios-apps-to-play-your-favorite-psp-games/"><u>Best iOS Apps to Play Your Favorite PSP Games</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-iphone-13-mini-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From iPhone 13 mini</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-keep-your-presentations-current-a-guide-to-powerpoint-updates/"><u>How to Keep Your Presentations Current: A Guide to PowerPoint Updates</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/revolutionizing-portability-a-comprehensive-review-of-the-acer-swift-edge-ultra-lightweight-4k-oled-laptop-unveiled/"><u>Revolutionizing Portability: A Comprehensive Review of the Acer Swift Edge - Ultra-Lightweight 4K OLED Laptop Unveiled</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-to-recording-video-gameplay-on-your-android-device/"><u>Step-by-Step Guide to Recording Video Gameplay on Your Android Device</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-capturing-screenshots-and-recording-your-screen-on-windows-10-and-11-using-native-applications/"><u>Step-by-Step Guide: Capturing Screenshots and Recording Your Screen on Windows 10 & 11 Using Native Applications</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-reflecting-your-iphone-screen-onto-a-sony-television/"><u>Step-by-Step Guide: Reflecting Your iPhone Screen Onto a Sony Television</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-reverting-from-windows-11-back-to-windows-10-with-a-twist-pcworld/"><u>Step-by-Step Guide: Reverting From Windows 11 Back to Windows 10 with a Twist | PCWorld</u></a></li>
+<li><a href="https://network-issues.techidaily.com/system-recovery-correcting-graphics-driver-errors/"><u>System Recovery: Correcting Graphics Driver Errors</u></a></li>
+<li><a href="https://win-data.techidaily.com/troubleshooting-ios-12s-screen-recording-feature-expert-tips-and-solutions/"><u>Troubleshooting iOS 12'S Screen Recording Feature: Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-data.techidaily.com/unlock-the-power-of-windows-11-to-rapidly-close-frozen-applications-for-a-smoother-user-experience/"><u>Unlock the Power of Windows 11 to Rapidly Close Frozen Applications for a Smoother User Experience</u></a></li>
+<li><a href="https://win-data.techidaily.com/unnecessary-cost-why-investing-in-antivirus-software-might-not-be-worth-it-insights-from-zdnet/"><u>Unnecessary Cost: Why Investing in Antivirus Software Might Not Be Worth It - Insights From ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/upgrading-made-easy-shifting-your-windows-license-from-previous-device-to-latest-purchase-insider-tips-and-tricks/"><u>Upgrading Made Easy: Shifting Your Windows License From Previous Device to Latest Purchase - Insider Tips & Tricks</u></a></li>
 </ul></div>
 

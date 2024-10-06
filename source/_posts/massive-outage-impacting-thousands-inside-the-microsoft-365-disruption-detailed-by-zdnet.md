@@ -1,7 +1,7 @@
 ---
 title: "Massive Outage Impacting Thousands: Inside the Microsoft 365 Disruption Detailed by ZDNet"
-date: 2024-09-26T21:39:56.359Z
-updated: 2024-09-30T00:38:24.270Z
+date: 2024-09-30T21:46:39.391Z
+updated: 2024-10-05T20:32:33.241Z
 tags:
   - microsoft
 categories:
@@ -114,28 +114,29 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-layering-and-shifting-photo-letters/"><u>[New] Layering & Shifting Photo Letters</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-online-exposure-on-youtube-by-keeping-up-creative-commons-usage/"><u>[New] Maximizing Online Exposure on YouTube by Keeping Up Creative Commons Usage</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-gif-tool-guide-tips-from-the-experts/"><u>[Updated] In 2024, Essential GIF Tool Guide Tips From the Experts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/boost-chromes-speed-effortlessly-a-step-by-step-guide-to-a-swift-browser-experience/"><u>Boost Chrome's Speed Effortlessly: A Step-by-Step Guide to a Swift Browser Experience</u></a></li>
-<li><a href="https://win-data.techidaily.com/convert-and-save-vgtv-downloads-as-mp4movavi-formats-on-pc-or-mac/"><u>Convert & Save VGTV Downloads as MP4/MOV/AVI Formats on PC or Mac</u></a></li>
-<li><a href="https://win-data.techidaily.com/convert-and-save-your-favorites-streamline-playlists-on-simfy-with-multiple-audio-formats/"><u>Convert & Save Your Favorites: Streamline Playlists on Simfy with Multiple Audio Formats</u></a></li>
-<li><a href="https://win-data.techidaily.com/discover-the-top-substitute-for-snaptube-in-just-a-click-compatible-with-windows-and-mac-os/"><u>Discover the Top Substitute for SnapTube in Just a Click – Compatible with Windows & Mac OS!</u></a></li>
-<li><a href="https://win-data.techidaily.com/download-movies-and-tv-shows-from-tnaflix-your-ultimate-guide/"><u>Download Movies & TV Shows From TNAFlix: Your Ultimate Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/download-your-favorite-fakehub-videos-in-high-quality-formats-mp4-mov-and-avi-with-fakehub-downloader/"><u>Download Your Favorite FAKEhub Videos in High-Quality Formats: MP4, MOV & AVI with FAKEhub Downloader</u></a></li>
-<li><a href="https://win-data.techidaily.com/downloading-music-and-videos-from-torrents-on-your-pc-or-mac-a-comprehensive-tutorial/"><u>Downloading Music & Videos From Torrents on Your PC or Mac: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-data.techidaily.com/easy-video-conversion-with-pyvideo-save-youtube-content-as-mp4movavi-files/"><u>Easy Video Conversion with PyVideo: Save YouTube Content as MP4/MOV/AVI Files</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-motorola-edge-40-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Motorola Edge 40.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-redmi-k70-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Redmi K70 Devices</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-90-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/phishing-email-how-to-spot-and-avoid-it-2024-tips/"><u>Phishing Email | How to Spot & Avoid It [2024 Tips]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-guide-to-crafting-stellar-podcast-sneak-peeks/"><u>[New] A Comprehensive Guide to Crafting Stellar Podcast Sneak Peeks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-becoming-a-master-of-instagrams-video-dialogue-dynamics/"><u>[Updated] 2024 Approved Becoming a Master of Instagram's Video Dialogue Dynamics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevate-your-youtube-profitability-anywhere-anytime/"><u>[Updated] Elevate Your Youtube Profitability Anywhere, Anytime</u></a></li>
+<li><a href="https://win-data.techidaily.com/expert-insight-top-recommended-windows-laptops-from-best-buys-finest/"><u>Expert Insight: Top Recommended Windows Laptops From Best Buy's Finest</u></a></li>
+<li><a href="https://win-data.techidaily.com/free-windows-10-upgrade-period-ended-heres-what-you-need-to-know/"><u>Free Windows 10 Upgrade Period Ended: Here's What You Need To Know</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-m-audio-fast-track-driver-here-for-windows-11-7881/"><u>Get Your M-Audio Fast Track Driver Here for Windows 11, 7/8/8.1!</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-access-files-without-software-top-5-methods-for-opening-documents-in-windows-techadvice/"><u>How To Access Files Without Software: Top 5 Methods For Opening Documents In Windows | TechAdvice</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-behind-the-scenes-music-insights-for-ig/"><u>In 2024, Behind the Scenes Music Insights for IG</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y27-4g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y27 4G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p40plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P40+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/master-quick-start-guide-simplify-your-duties-as-a-sysadmin-using-powershell-on-windows-only-16/"><u>Master Quick-Start Guide: Simplify Your Duties as a Sysadmin Using PowerShell on Windows, Only $16!</u></a></li>
+<li><a href="https://win-data.techidaily.com/master-system-administration-automation-on-windows-using-powershell-enroll-now-for-only-16/"><u>Master System Administration Automation on Windows Using PowerShell - Enroll Now for Only $16!</u></a></li>
+<li><a href="https://win-data.techidaily.com/microsoft-surface-duo-2-first-impressions-a-tale-of-bafflement-and-curiosity-after-2-weeks-zdnet-insights/"><u>Microsoft Surface Duo 2 First Impressions - A Tale of Bafflement & Curiosity After 2 Weeks | ZDNet Insights</u></a></li>
+<li><a href="https://win-data.techidaily.com/no-more-support-for-windows-10-after-2025-microsofts-latest-announcement-detailed-on-zdnet/"><u>No More Support for Windows 10 After 2025? Microsoft's Latest Announcement Detailed on ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/restore-accidentally-deleted-files-on-windows-11-step-by-step-guide/"><u>Restore Accidentally Deleted Files on Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-pathway-to-aural-brilliance-incorporating-and-fine-tuning-sounds-in-canvas-for-2024/"><u>The Pathway to Aural Brilliance Incorporating & Fine-Tuning Sounds in Canvas for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-solving-windows-11-audio-problems-in-just-5-easy-steps/"><u>Ultimate Guide: Solving Windows 11 Audio Problems in Just 5 Easy Steps</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

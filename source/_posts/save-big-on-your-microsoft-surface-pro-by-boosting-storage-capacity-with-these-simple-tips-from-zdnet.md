@@ -1,7 +1,7 @@
 ---
 title: Save Big on Your Microsoft Surface Pro by Boosting Storage Capacity with These Simple Tips From ZDNet
-date: 2024-09-27T10:10:25.848Z
-updated: 2024-09-30T11:41:41.531Z
+date: 2024-09-30T00:29:26.792Z
+updated: 2024-10-05T23:40:30.820Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,17 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-ultimate-list-of-accessibility-8-premium-free-mp3-grabber-apps-android/"><u>[New] In 2024, Ultimate List of Accessibility 8 Premium Free MP3 Grabber Apps (Android)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-select-alternative-save-area-for-mac-pics/"><u>[Updated] 2024 Approved Select Alternative Save Area for Mac Pics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-grasping-the-metaverse-a-look-at-6-in-depth-illustrations/"><u>[Updated] Grasping the Metaverse A Look at 6 In-Depth Illustrations</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-how-to-secure-free-fcp-software-for-2024/"><u>[Updated] How to Secure Free FCP Software for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/access-vmwares-fusion-and-workstation-pro-at-no-cost-for-individual-users-a-comprehensive-guide/"><u>Access VMware's Fusion & Workstation Pro at No Cost for Individual Users: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/activate-total-freedom-with-windows-11s-hidden-admin-powers-a-step-by-step-guide-to-enabling-and-understanding-god-mode/"><u>Activate Total Freedom with Windows 11'S Hidden Admin Powers: A Step-by-Step Guide to Enabling and Understanding God Mode</u></a></li>
-<li><a href="https://facebook.techidaily.com/disband-your-digital-haven-on-facebook-quickly/"><u>Disband Your Digital Haven on Facebook Quickly</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-lava-yuva-3-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lava Yuva 3 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-move-your-windows-upgrade-credit-from-old-laptop-to-new-desktop-a-step-by-step-guide/"><u>How to Move Your Windows Upgrade Credit From Old Laptop to New Desktop: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-lag-in-apex-legends-steps-to-solve-connection-woes/"><u>Overcoming Lag in Apex Legends: Steps to Solve Connection Woes</u></a></li>
-<li><a href="https://win-data.techidaily.com/simplifying-pc-maintenance-tame-your-windows-updates-with-these-3-simple-tricks-insights-from-zdnet/"><u>Simplifying PC Maintenance: Tame Your Windows Updates with These 3 Simple Tricks - Insights From ZDNet</u></a></li>
-<li><a href="https://win-data.techidaily.com/top-5-essential-gimp-tools-for-image-editing-mastery-techniques-and-tips-revealed/"><u>Top 5 Essential GIMP Tools for Image Editing Mastery: Techniques and Tips Revealed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-most-listened-to-hits-on-spotify-for-2024/"><u>[New] Most Listened to Hits on Spotify for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-essential-art-of-editing-boost-your-instagram-videography/"><u>[Updated] In 2024, The Essential Art of Editing Boost Your Instagram Videography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-best-websites-for-downloading-skype-ringtone/"><u>2024 Approved Best Websites For Downloading Skype Ringtone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-powered-attacks-on-banks-and-computers-how-safe-are-we-from-cybercriminals-using-tools-like-chatgpt/"><u>AI-Powered Attacks on Banks and Computers: How Safe Are We From Cybercriminals Using Tools Like ChatGPT?</u></a></li>
+<li><a href="https://discover-best.techidaily.com/dvd-9/"><u>DVD、動画、音声ファイルの完全マスタリング - 9ページ集約ガイドで学ぶ！</u></a></li>
+<li><a href="https://win-data.techidaily.com/expanding-pdf-sections-to-double-page-views-using-flipbuilders-techniques/"><u>Expanding PDF Sections to Double-Page Views Using FlipBuilder's Techniques</u></a></li>
+<li><a href="https://win-data.techidaily.com/exploring-book-creation-options-what-types-of-books-can-you-design-using-flip-office-on-flipbuildercom/"><u>Exploring Book Creation Options: What Types of Books Can You Design Using Flip Office on flipbuilder.com?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-gmail-accounts-to-the-outlook-app-on-windows/"><u>How to Add Gmail Accounts to the Outlook App on Windows</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-enable-printing-on-your-flipbook-pages-a-guide-using-flipbuilder/"><u>How to Enable Printing on Your Flipbook Pages - A Guide Using FlipBuilder</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-identify-and-harness-the-power-of-exclusive-content-on-flipbuilder/"><u>How to Identify and Harness the Power of Exclusive Content on FlipBuilder</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-14-pro-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 14 Pro From Your Apple ID</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-8-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 8 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/protecting-access-to-your-digital-books-on-flipbook-an-in-depth-password-setup-tutorial/"><u>Protecting Access to Your Digital Books on FlipBook: An In-Depth Password Setup Tutorial</u></a></li>
+<li><a href="https://win-data.techidaily.com/simultaneous-conversion-of-multiple-powerpoint-presentations-to-interactive-flipbooks-using-flipbuilders-feature-rich-platform/"><u>Simultaneous Conversion of Multiple PowerPoint Presentations to Interactive Flipbooks Using FlipBuilder's Feature-Rich Platform</u></a></li>
 </ul></div>
 

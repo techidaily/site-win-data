@@ -1,7 +1,7 @@
 ---
 title: "Comparing Top AI Assistants: ChatGPT, Microsoft Copilot & Gemini – Who Reigns Supreme?"
-date: 2024-09-22T22:11:27.938Z
-updated: 2024-09-30T08:48:08.887Z
+date: 2024-10-02T22:02:12.448Z
+updated: 2024-10-05T20:17:01.190Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-graphicgenius-suite/"><u>[New] In 2024, GraphicGenius Suite</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-visuals-saving-and-downloading-on-smartphones/"><u>[New] Twitter's Visuals Saving and Downloading on Smartphones</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-video-editing-for-instagram-incorporating-background-music-effortlessly/"><u>DIY Video Editing for Instagram: Incorporating Background Music Effortlessly</u></a></li>
-<li><a href="https://win-data.techidaily.com/free-windows-10-upgrade-period-ended-heres-what-you-need-to-know/"><u>Free Windows 10 Upgrade Period Ended: Here's What You Need To Know</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-access-files-without-software-top-5-methods-for-opening-documents-in-windows-techadvice/"><u>How To Access Files Without Software: Top 5 Methods For Opening Documents In Windows | TechAdvice</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-samsung-galaxy-m34-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Samsung Galaxy M34?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-pro-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 Pro to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/master-quick-start-guide-simplify-your-duties-as-a-sysadmin-using-powershell-on-windows-only-16/"><u>Master Quick-Start Guide: Simplify Your Duties as a Sysadmin Using PowerShell on Windows, Only $16!</u></a></li>
-<li><a href="https://win-data.techidaily.com/master-system-administration-automation-on-windows-using-powershell-enroll-now-for-only-16/"><u>Master System Administration Automation on Windows Using PowerShell - Enroll Now for Only $16!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/master-the-cleanup-process-efficient-methods-for-removing-facebook-messages-on-smartphones-iphoneandroid/"><u>Master the Cleanup Process: Efficient Methods for Removing Facebook Messages on Smartphones (iPhone/Android)</u></a></li>
-<li><a href="https://win-data.techidaily.com/microsoft-surface-duo-2-first-impressions-a-tale-of-bafflement-and-curiosity-after-2-weeks-zdnet-insights/"><u>Microsoft Surface Duo 2 First Impressions - A Tale of Bafflement & Curiosity After 2 Weeks | ZDNet Insights</u></a></li>
-<li><a href="https://win-data.techidaily.com/no-more-support-for-windows-10-after-2025-microsofts-latest-announcement-detailed-on-zdnet/"><u>No More Support for Windows 10 After 2025? Microsoft's Latest Announcement Detailed on ZDNet</u></a></li>
-<li><a href="https://win-data.techidaily.com/restore-accidentally-deleted-files-on-windows-11-step-by-step-guide/"><u>Restore Accidentally Deleted Files on Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-chatgpt-even-if-you-dont-have-an-account-discover-5-methods/"><u>Unlock the Power of ChatGPT Even If You Don't Have an Account - Discover 5 Methods</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-cut-trim-and-edit-the-best-free-and-paid-android-video-editors/"><u>Updated 2024 Approved Cut, Trim, and Edit The Best Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-embracing-authenticity-in-video-marketing-through-clients-words/"><u>[New] 2024 Approved Embracing Authenticity in Video Marketing Through Clients' Words</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tactics-for-increasing-campaign-efficiency-with-smart-hashtag-usage-on-fb-for-2024/"><u>[New] Tactics for Increasing Campaign Efficiency with Smart Hashtag Usage on FB for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-quick-start-recording-audio-on-windows-11/"><u>2024 Approved Quick Start Recording Audio on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone XS Max</u></a></li>
+<li><a href="https://win-data.techidaily.com/mastering-seamless-pdf-navigation-adding-bookmarks-in-flipbook-software-tutorial/"><u>Mastering Seamless PDF Navigation: Adding Bookmarks in FlipBook Software Tutorial</u></a></li>
+<li><a href="https://win-data.techidaily.com/mastering-the-art-of-self-running-digital-flipbooks-easy-steps-using-flipbuilder-tool/"><u>Mastering the Art of Self-Running Digital Flipbooks: Easy Steps Using FlipBuilder Tool</u></a></li>
+<li><a href="https://win-data.techidaily.com/navigating-to-specific-content-on-flipbuildercom/"><u>Navigating to Specific Content on FlipBuilder.com</u></a></li>
+<li><a href="https://win-data.techidaily.com/organizing-images-before-conversion-a-guide-to-making-flipbooks-with-flipbuildercom/"><u>Organizing Images Before Conversion: A Guide to Making Flipbooks with FlipBuilder.com</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/reviving-the-disappearing-video-icon-on-fb-watch-platform-for-2024/"><u>Reviving the Disappearing Video Icon on FB Watch Platform for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/run-your-own-interactive-books-instantly-convert-exe-files-with-ease-using-flipbuilder/"><u>Run Your Own Interactive Books Instantly - Convert EXE Files with Ease Using FlipBuilder!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-preserving-driver-files-for-windows-1110-systems/"><u>Step-by-Step Tutorial: Preserving Driver Files for Windows 11/10 Systems</u></a></li>
 </ul></div>
 

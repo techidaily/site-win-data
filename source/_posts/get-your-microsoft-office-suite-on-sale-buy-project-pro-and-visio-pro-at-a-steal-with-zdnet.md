@@ -1,7 +1,7 @@
 ---
 title: "Get Your Microsoft Office Suite on Sale: Buy Project Pro and Visio Pro at a Steal with ZDNet"
-date: 2024-09-29T10:22:02.495Z
-updated: 2024-09-30T00:06:57.614Z
+date: 2024-10-03T16:28:11.434Z
+updated: 2024-10-05T18:16:58.512Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,16 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,21 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-addressing-video-lag-on-photo-booth-experience/"><u>[New] Addressing Video Lag on Photo Booth Experience</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-optimal-video-posting-frequency-for-increased-youtube-popularity/"><u>[Updated] Optimal Video Posting Frequency for Increased YouTube Popularity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-new-age-of-virtual-reality/"><u>[Updated] Unveiling the New Age of Virtual Reality</u></a></li>
-<li><a href="https://win-data.techidaily.com/1-complimentary-vueui-pack-by-creative-tim-with-tailwind-css-and-vuejs-effortless-web-designs/"><u>1. Complimentary VueUI Pack by Creative Tim with Tailwind CSS & VueJS - Effortless Web Designs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-a1x-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo A1x 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-argon-premium-open-source-bootstrap-4-control-panel-free/"><u>Creative Tim's Argon: Premium, Open-Source Bootstrap 4 Control Panel (Free)</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-elite-argon-pro-flutter-ui-kit-top-tier-swift-and-dart-framework-template/"><u>Creative Tim's Elite Argon Pro Flutter UI Kit: Top-Tier Swift & Dart Framework Template</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-premium-bootstrap-114plus-admin-and-dashboard-templates/"><u>Creative Tim's Premium Bootstrap: 114+ Admin & Dashboard Templates</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-top-vue-themes-with-tailwind-css-a-comprehensive-guide/"><u>Creative Tim's Top Vue Themes with Tailwind CSS: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/discover-the-leading-non-ghostly-creatives-by-timthemes-for-premium-websites/"><u>Discover the Leading Non-Ghostly Creatives by TimThemes for Premium Websites</u></a></li>
-<li><a href="https://win-data.techidaily.com/download-the-top-171plus-free-bootstrap-template-packs-from-creative-tim-enhance-your-project-today/"><u>Download the Top 171+ Free Bootstrap Template Packs From Creative Tim - Enhance Your Project Today!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-infinix-smart-8-hd-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Infinix Smart 8 HD Location | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reset-and-refresh-fixing-common-issues-in-final-cut-pro-x-for-2024/"><u>Reset and Refresh Fixing Common Issues in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-cpu-thermal-pastes-of-2024-a-comprehensive-review-of-90-brands/"><u>Top-Ranked CPU Thermal Pastes of 2024: A Comprehensive Review of 90 Brands</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tt560-lights-up-consistent-power-effortless-setup/"><u>TT560 Lights Up: Consistent Power, Effortless Setup</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-propel-your-artistic-journey-the-ultimate-10-android-drawing-tools/"><u>[New] Propel Your Artistic Journey The Ultimate 10 Android Drawing Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-elite-9-access-privileged-video-downloads-for-2024/"><u>[Updated] Elite 9 Access Privileged Video Downloads for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-download-full-library-of-films-in-multiple-formats-from-fandor-mp4-mov-avi-and-more/"><u>1. Download Full Library of Films in Multiple Formats From Fandor: MP4, MOV, AVI, and More!</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-easy-guide-to-downloading-dotsub-content-videos-and-subtitles/"><u>1. Easy Guide to Downloading DotSub Content: Videos & Subtitles</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-hidive-video-extractor-and-converter-easily-convert-and-save-your-favorite-shows-from-hidivecom-in-various-formats/"><u>1. Hidive Video Extractor & Converter: Easily Convert and Save Your Favorite Shows From hidive.com in Various Formats</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-stream-your-favorite-tunes-effortless-music-video-downloads-from-musicplayon/"><u>1. Stream Your Favorite Tunes: Effortless Music Video Downloads From MusicPlayOn</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-channel-titles-that-shine-how-to-innovate/"><u>2024 Approved Channel Titles That Shine How to Innovate</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-sony-vegas-youtube-video-editing-basics/"><u>2024 Approved Mastering Sony Vegas YouTube Video Editing Basics</u></a></li>
+<li><a href="https://win-data.techidaily.com/best-free-downloads-top-substitutes-for-savevid-on-mac-and-windows/"><u>Best Free Downloads: Top Substitutes for SaveVid on Mac & Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-next-level-performance-with-corsair-mp600-mini-1tb-ssd-the-ultimate-review-of-the-markets-best-m2-nvme-solution/"><u>Experience Next-Level Performance with Corsair MP600 Mini 1TB SSD - The Ultimate Review of the Market's Best M.2 NVMe Solution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-to-restore-iphone-flashlight-functionality-a-12-point-plan/"><u>Expert Tips to Restore iPhone Flashlight Functionality - A 12 Point Plan</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-download-and-save-the-way-of-the-master-in-multiple-video-file-types/"><u>How to Download and Save 'The Way of the Master' In Multiple Video File Types</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-joining-google-meet-from-computerphone/"><u>In 2024, Joining Google Meet From Computer/Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-a-guide-to-reading-qr-codes/"><u>Mastering Windows: A Guide to Reading QR Codes</u></a></li>
+<li><a href="https://win-data.techidaily.com/transform-your-3d-models-with-ease-convert-chm-into-engaging-ebook-format-using-flipchm-software-by-flipbuildercom/"><u>Transform Your 3D Models with Ease! Convert CHM Into Engaging eBook Format Using FlipCHM Software by FlipBuilder.com</u></a></li>
+<li><a href="https://win-data.techidaily.com/troubleshooting-the-search-feature-malfunction-on-flipbuilder-how-to-fix/"><u>Troubleshooting the Search Feature Malfunction on FlipBuilder - How To Fix</u></a></li>
 </ul></div>
 

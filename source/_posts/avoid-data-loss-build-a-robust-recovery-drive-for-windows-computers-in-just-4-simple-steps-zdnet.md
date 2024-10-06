@@ -1,7 +1,7 @@
 ---
 title: "Avoid Data Loss: Build a Robust Recovery Drive for Windows Computers in Just 4 Simple Steps | ZDNET"
-date: 2024-09-26T14:36:02.954Z
-updated: 2024-09-30T07:08:53.392Z
+date: 2024-09-30T20:57:22.588Z
+updated: 2024-10-05T21:44:30.897Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-cutting-edge-video-processing-free-hd1080p-from-ff-videos/"><u>[New] 2024 Approved Cutting Edge Video Processing Free HD/1080P From FF Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-essential-guide-to-compositing-using-blending-modes/"><u>[New] Essential Guide to Compositing Using Blending Modes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-expanding-networks-integrating-youtube-and-facebook/"><u>[Updated] In 2024, Expanding Networks Integrating YouTube and Facebook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-infinix-note-30-vip-racing-edition-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Infinix Note 30 VIP Racing Edition Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/access-vmwares-fusion-and-workstation-pro-at-no-cost-for-individual-users-a-comprehensive-guide/"><u>Access VMware's Fusion & Workstation Pro at No Cost for Individual Users: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/activate-total-freedom-with-windows-11s-hidden-admin-powers-a-step-by-step-guide-to-enabling-and-understanding-god-mode/"><u>Activate Total Freedom with Windows 11'S Hidden Admin Powers: A Step-by-Step Guide to Enabling and Understanding God Mode</u></a></li>
-<li><a href="https://win-data.techidaily.com/expert-insight-top-recommended-windows-laptops-from-best-buys-finest/"><u>Expert Insight: Top Recommended Windows Laptops From Best Buy's Finest</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-move-your-windows-upgrade-credit-from-old-laptop-to-new-desktop-a-step-by-step-guide/"><u>How to Move Your Windows Upgrade Credit From Old Laptop to New Desktop: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-lava-blaze-2-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Lava Blaze 2 5G</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-magic-vs-2-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Honor Magic Vs 2</u></a></li>
-<li><a href="https://howto.techidaily.com/samsung-galaxy-s23-tactical-edition-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Tactical Edition Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/simplifying-pc-maintenance-tame-your-windows-updates-with-these-3-simple-tricks-insights-from-zdnet/"><u>Simplifying PC Maintenance: Tame Your Windows Updates with These 3 Simple Tricks - Insights From ZDNet</u></a></li>
-<li><a href="https://win-data.techidaily.com/top-5-essential-gimp-tools-for-image-editing-mastery-techniques-and-tips-revealed/"><u>Top 5 Essential GIMP Tools for Image Editing Mastery: Techniques and Tips Revealed</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/tutorial-eliminare-le-macchie-dal-tuo-album-fotografico-strumenti-per-lediting-delle-foto/"><u>Tutorial: Eliminare Le Macchie Dal Tuo Album Fotografico - Strumenti per L'Editing Delle Foto</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-guide-to-recovering-stopped-fb-livestreams/"><u>[Updated] 2024 Approved Guide to Recovering Stopped FB Livestreams</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-enhance-engagement-mastering-template-based-video-description-writing/"><u>[Updated] Enhance Engagement Mastering Template-Based Video Description Writing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-vr-manipulators-to-try-now/"><u>[Updated] Premier VR Manipulators to Try Now</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-demystifying-viewer-statistics-on-instagram-images/"><u>2024 Approved Demystifying Viewer Statistics on Instagram Images</u></a></li>
+<li><a href="https://win-data.techidaily.com/effortless-photo-and-image-format-conversion-made-simple-with-our-professional-complimentary-image-converter-software/"><u>Effortless Photo & Image Format Conversion Made Simple with Our Professional, Complimentary Image Converter Software</u></a></li>
+<li><a href="https://win-data.techidaily.com/flash-toolbar-icon-substitution-guide-flipbuilder-tutorials/"><u>Flash Toolbar Icon Substitution Guide - FlipBuilder Tutorials</u></a></li>
+<li><a href="https://win-data.techidaily.com/guide-to-adding-hyperlinks-within-a-flip-based-ebook-using-flipbuilder/"><u>Guide to Adding Hyperlinks Within a Flip-Based eBook Using FlipBuilder</u></a></li>
+<li><a href="https://win-data.techidaily.com/guide-to-reversing-flipbook-orientation-mastering-rtl-display-using-flipbuilder-tutorials/"><u>Guide to Reversing Flipbook Orientation: Mastering RTL Display Using FlipBuilder Tutorials</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-can-you-modify-flipwindow-assistance-ratios-on-flipbuildercom/"><u>How Can You Modify FlipWindow Assistance Ratios on flipbuilder.com?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-13t-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi 13T online without jailbreak</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-efficient-techniques-for-distributing-youtube-videos-via-facebook/"><u>In 2024, Efficient Techniques for Distributing YouTube Videos via Facebook</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/innovative-techniques-in-business-language-training/"><u>Innovative Techniques in Business Language Training</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/integrating-timestamps-in-youtube-content/"><u>Integrating Timestamps in YouTube Content</u></a></li>
+<li><a href="https://win-data.techidaily.com/is-it-feasible-to-embed-your-business-emblem-in-flipbook-projects-with-flipbuilder/"><u>Is It Feasible to Embed Your Business Emblem in FlipBook Projects with FlipBuilder?</u></a></li>
 </ul></div>
 
