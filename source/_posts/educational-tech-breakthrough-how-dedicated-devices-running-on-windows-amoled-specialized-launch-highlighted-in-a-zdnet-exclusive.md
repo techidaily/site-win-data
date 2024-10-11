@@ -1,7 +1,7 @@
 ---
 title: "Educational Tech Breakthrough: How Dedicated Devices Running on Windows Amoled | Specialized Launch Highlighted in a ZDNet Exclusive"
-date: 2024-09-30T23:04:55.811Z
-updated: 2024-10-06T00:45:06.938Z
+date: 2024-10-08T16:05:17.357Z
+updated: 2024-10-11T16:02:20.598Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,18 +142,18 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,21 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-ultimate-guide-to-podcast-names-plus-50plus-podcast-name-ideas/"><u>[New] In 2024, Ultimate Guide to Podcast Names (Plus 50+ Podcast Name Ideas)</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-sound-logging-our-selection-of-11-precision-gadgets-for-2024/"><u>[New] Mastering Sound Logging Our Selection of 11 Precision Gadgets for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-characters-that-convert-ideal-story-strategies/"><u>[Updated] In 2024, Characters That Convert Ideal Story Strategies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-brainy-brigade-top-11-quiz-channels/"><u>2024 Approved Brainy Brigade Top 11 Quiz Channels</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-creating-a-narrative-structure/"><u>2024 Approved Creating a Narrative Structure</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-v27-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo V27 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722967189649-fast-track-get-your-amd-ryzen-5-2600-gpu-drivers-installed-today/"><u>Fast Track: Get Your AMD Ryzen 5 2600 GPU Drivers Installed Today!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/sharing-flipbooks-through-email-with-attractive-covers-visible-in-the-message-body-discover-how-on-flipbuildercom/"><u>Sharing FlipBooks Through Email with Attractive Covers Visible in the Message Body? Discover How on FlipBuilder.com</u></a></li>
-<li><a href="https://win-data.techidaily.com/sharing-your-flipbook-creations-including-the-cover-image-within-an-email/"><u>Sharing Your FlipBook Creations: Including the Cover Image Within an Email</u></a></li>
-<li><a href="https://win-data.techidaily.com/speedy-distribution-of-marketing-materials-create-and-share-flipbooks-immediately-on-flipbuilder/"><u>Speedy Distribution of Marketing Materials - Create and Share Flipbooks Immediately on FlipBuilder</u></a></li>
-<li><a href="https://win-data.techidaily.com/start-your-personalized-button-collection-with-flipbuilder-design-and-print-easily-online/"><u>Start Your Personalized Button Collection with FlipBuilder - Design and Print Easily Online</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-integrating-new-designs-into-flipoffice-pro-software-tips-and-tricks-flipbuilder/"><u>Step-by-Step Guide: Integrating New Designs Into FlipOffice Pro Software - Tips & Tricks | FlipBuilder</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-tutorials-flipping-images-effortlessly-using-flipbuilder-for-macos-users/"><u>Step-by-Step Tutorials: Flipping Images Effortlessly Using FlipBuilder for macOS Users</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-14-cooperative-mobile-apps-fun-multiplayer-experiences-on-android/"><u>Top 14 Cooperative Mobile Apps: Fun Multiplayer Experiences on Android</u></a></li>
-<li><a href="https://win-data.techidaily.com/transferring-hyperlinks-from-powerpoint-presentations-into-flipbook-format-a-comprehensive-guide/"><u>Transferring Hyperlinks From PowerPoint Presentations Into FlipBook Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-engaging-audiences-the-path-to-instagram-video-fame-for-2024/"><u>[New] Engaging Audiences The Path to Instagram Video Fame for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-next-gen-patient-rehabilitation-tools/"><u>[Updated] Next-Gen Patient Rehabilitation Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-revenue-verification-confirming-pro-rated-earnings/"><u>[Updated] YouTube Revenue Verification Confirming Pro-Rated Earnings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-compelling-choices-macs-excellent-snipping-tools/"><u>2024 Approved Compelling Choices Mac's Excellent Snipping Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-diligent-duplication-in-the-world-of-insta/"><u>2024 Approved Diligent Duplication in the World of Insta</u></a></li>
+<li><a href="https://win-data.techidaily.com/a-step-by-step-guide-to-harnessing-apowermirrors-desktop-functionality-for-seamless-display-mirroring/"><u>A Step-by-Step Guide to Harnessing ApowerMirror's Desktop Functionality for Seamless Display Mirroring</u></a></li>
+<li><a href="https://win-data.techidaily.com/best-choice-of-digital-sticker-design-tools-for-whatsapp-users/"><u>Best Choice of Digital Sticker Design Tools for WhatsApp Users</u></a></li>
+<li><a href="https://win-data.techidaily.com/casttingo-membership-agreement-understanding-your-service-contract/"><u>Casttingo Membership Agreement: Understanding Your Service Contract</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhance-your-sites-user-experience-with-advanced-tracking/"><u>Cookiebot: Enhance Your Site's User Experience with Advanced Tracking</u></a></li>
+<li><a href="https://win-data.techidaily.com/cost-free-strategies-for-creating-engaging-video-lessons/"><u>Cost-Free Strategies for Creating Engaging Video Lessons</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722970581589-hassle-free-installation-of-ricoh-mp-c3003-printer-drivers-click-to-download/"><u>Hassle-Free Installation of Ricoh MP C3003 Printer Drivers – Click to Download!</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-produce-free-educational-video-guides-easily/"><u>How to Produce Free Educational Video Guides Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/seamless-broadcasting-ultimate-tips-for-live-stream-success-on-the-web/"><u>Seamless Broadcasting: Ultimate Tips for Live Stream Success on the Web</u></a></li>
+<li><a href="https://win-data.techidaily.com/unlocking-your-music-collection-converting-drm-protected-wma-files-into-high-quality-mp3/"><u>Unlocking Your Music Collection: Converting DRM-Protected WMA Files Into High-Quality MP3</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mobile-app-roundup-best-mp4-to-mp3-converters-for-2024/"><u>Updated Mobile App Roundup Best MP4 to MP3 Converters for 2024</u></a></li>
 </ul></div>
 

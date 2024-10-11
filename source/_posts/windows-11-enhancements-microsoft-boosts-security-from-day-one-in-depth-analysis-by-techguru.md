@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Enhancements: Microsoft Boosts Security From Day One - In-Depth Analysis by TechGuru"
-date: 2024-10-03T00:59:54.944Z
-updated: 2024-10-05T21:52:04.193Z
+date: 2024-10-06T16:06:32.768Z
+updated: 2024-10-11T16:00:22.997Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,17 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-dji-writes-gaming-history-air-versus-spark-in-the-spotlight/"><u>[Updated] 2024 Approved DJI’ Writes Gaming History Air Versus Spark in the Spotlight</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-webcams-for-podcast/"><u>[Updated] In 2024, Best Webcams for Podcast</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-13-simplified-pathways-to-cash-outdoors-reddit-community/"><u>2024 Approved 13 Simplified Pathways to Cash Outdoors Reddit Community</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capturing-the-essence-of-sims-gaming/"><u>Capturing the Essence of Sims Gaming</u></a></li>
-<li><a href="https://win-data.techidaily.com/copilotplus-pcs-unveiled-my-journey-through-all-new-artificial-intelligence-upgrades-and-their-promise/"><u>Copilot+ PCs Unveiled: My Journey Through All New Artificial Intelligence Upgrades and Their Promise</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-sony-xperia-1-v-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Sony Xperia 1 V Phone that is Locked?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-itel-p55t-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Itel P55T to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/mac-keyboard-customization-tips-how-to-adjust-the-command-key-settings/"><u>Mac Keyboard Customization Tips: How To Adjust The Command Key Settings</u></a></li>
-<li><a href="https://win-data.techidaily.com/massive-outage-impacting-thousands-inside-the-microsoft-365-disruption-detailed-by-zdnet/"><u>Massive Outage Impacting Thousands: Inside the Microsoft 365 Disruption Detailed by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-the-ultimate-password-solutions-on-your-pc-with-these-tools/"><u>Uncover the Ultimate Password Solutions on Your PC with These Tools</u></a></li>
-<li><a href="https://win-data.techidaily.com/windows-control-panel-remains-unaffected-in-microsofts-latest-update-insights-from-zdnet/"><u>Windows Control Panel Remains Unaffected in Microsoft’s Latest Update: Insights From ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-perplexing-perspective-shifts-in-instagram-video-feeds/"><u>[New] Perplexing Perspective Shifts in Instagram Video Feeds</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-premier-mac-programming-options-excluding-bandicam/"><u>[New] Premier Mac Programming Options Excluding Bandicam</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-choosing-the-ideal-output-format-html-zip-exe-or-dvd-a-comprehensive-guide-flipbuildercom/"><u>1) Choosing the Ideal Output Format: HTML, ZIP, EXE, or DVD - A Comprehensive Guide [FlipBuilder.com]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-become-a-meme-wizard-with-these-9gag-strategies/"><u>2024 Approved Become a Meme Wizard with These 9GAG Strategies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-down-barriers-to-affordable-editing-power/"><u>2024 Approved Breaking Down Barriers to Affordable Editing Power</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-and-easy-iphone-methods-to-download-podcasts-anywhere/"><u>2024 Approved Quick and Easy iPhone Methods to Download Podcasts Anywhere</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/choosing-the-right-format-html-zip-exe-or-dvd-a-comprehensive-guide-flipbuilder/"><u>Choosing the Right Format: HTML, ZIP, EXE, or DVD – A Comprehensive Guide | FlipBuilder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/essential-writing-habits-for-successful-fb-campaigns-for-2024/"><u>Essential Writing Habits for Successful FB Campaigns for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/exploring-book-creation-options-what-types-of-books-can-you-design-using-flip-office-on-flipbuildercom/"><u>Exploring Book Creation Options: What Types of Books Can You Design Using Flip Office on flipbuilder.com?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/template-to-trendsetter-gamer-channel-banners-guide/"><u>From Template to Trendsetter Gamer Channel Banners Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-enable-printing-on-your-flipbook-pages-a-guide-using-flipbuilder/"><u>How to Enable Printing on Your Flipbook Pages - A Guide Using FlipBuilder</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-identify-and-harness-the-power-of-exclusive-content-on-flipbuilder/"><u>How to Identify and Harness the Power of Exclusive Content on FlipBuilder</u></a></li>
+<li><a href="https://win-data.techidaily.com/protecting-access-to-your-digital-books-on-flipbook-an-in-depth-password-setup-tutorial/"><u>Protecting Access to Your Digital Books on FlipBook: An In-Depth Password Setup Tutorial</u></a></li>
+<li><a href="https://win-data.techidaily.com/simultaneous-conversion-of-multiple-powerpoint-presentations-to-interactive-flipbooks-using-flipbuilders-feature-rich-platform/"><u>Simultaneous Conversion of Multiple PowerPoint Presentations to Interactive Flipbooks Using FlipBuilder's Feature-Rich Platform</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-importing-custom-themes-into-flipbook-using-flipbuilder/"><u>Step-by-Step Guide: Importing Custom Themes Into FlipBook Using FlipBuilder</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xbox-360-emulation-resolved-armored/"><u>Xbox 360 Emulation Resolved - Armored</u></a></li>
 </ul></div>
 

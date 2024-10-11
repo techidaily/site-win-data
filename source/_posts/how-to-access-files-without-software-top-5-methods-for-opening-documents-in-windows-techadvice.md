@@ -1,7 +1,7 @@
 ---
 title: "How To Access Files Without Software: Top 5 Methods For Opening Documents In Windows | TechAdvice"
-date: 2024-10-01T19:09:07.129Z
-updated: 2024-10-05T21:25:59.826Z
+date: 2024-10-04T16:05:54.863Z
+updated: 2024-10-11T16:07:24.301Z
 tags:
   - windows
 categories:
@@ -40,10 +40,16 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
@@ -61,31 +67,11 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -94,10 +80,16 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -111,11 +103,25 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -162,24 +168,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-premiers-choice-the-very-best-12-gps-integrated-camcorders/"><u>[New] Premier's Choice The Very Best 12 GPS-Integrated Camcorders</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-live-chat-to-large-screen-upload-twitch-streams-to-youtube/"><u>[Updated] In 2024, From Live Chat to Large Screen Upload Twitch Streams to YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-taking-command-with-custom-character-sounds-in-free-fire-no-expense-involved/"><u>[Updated] Taking Command with Custom Character Sounds in Free Fire - No Expense Involved</u></a></li>
-<li><a href="https://win-data.techidaily.com/become-a-pro-at-body-race-on-your-computer-a-comprehensive-guide/"><u>Become a Pro at Body Race on Your Computer - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/best-legal-sites-offering-free-e-books-top-picks/"><u>Best Legal Sites Offering Free E-Books: Top Picks</u></a></li>
-<li><a href="https://win-data.techidaily.com/bulk-iphone-picture-archiving-strategies-safeguarding-memories-with-ease/"><u>Bulk iPhone Picture Archiving Strategies: Safeguarding Memories with Ease</u></a></li>
-<li><a href="https://win-data.techidaily.com/discover-the-most-popular-online-platforms-for-free-mp3-conversion-and-downloads-today/"><u>Discover the Most Popular Online Platforms for Free MP3 Conversion and Downloads Today!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/epson-xp-410-driver-downloads-for-windows-step-by-step/"><u>Epson XP-410 Driver Downloads for Windows Step-by-Step</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Xiaomi Redmi 12 5G</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-to-recording-video-gameplay-on-your-android-device/"><u>Step-by-Step Guide to Recording Video Gameplay on Your Android Device</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-syncing-your-oppo-smartphone-with-computer/"><u>Step-by-Step Guide: Syncing Your Oppo Smartphone with Computer</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-transferring-data-from-your-iphone-to-a-pc-with-windows-10/"><u>Step-by-Step Guide: Transferring Data From Your iPhone to a PC with Windows 10</u></a></li>
-<li><a href="https://win-data.techidaily.com/streaming-made-simple-projecting-content-from-huawei-p50-onto-your-television-set/"><u>Streaming Made Simple: Projecting Content From Huawei P50 Onto Your Television Set</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-benefits-of-taking-a-break-from-the-follow-game/"><u>The Benefits of Taking a Break From the 'Follow' Game</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/understanding-ip-in-instagram-rhythms/"><u>Understanding IP in Instagram Rhythms</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-xiaomi-13t-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Xiaomi 13T</u></a></li>
-<li><a href="https://win-data.techidaily.com/watch-the-2022-world-cup-on-your-computer-using-your-smartphone/"><u>Watch the 2022 World Cup on Your Computer Using Your Smartphone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-your-step-by-step-plan-to-start-a-food-critique-blog-or-channel/"><u>[New] Your Step-by-Step Plan to Start a Food Critique Blog or Channel</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-no-fee-guide-converting-skype-to-mp3/"><u>[Updated] No-Fee Guide Converting Skype to Mp3</u></a></li>
+<li><a href="https://win-data.techidaily.com/a-step-by-step-guide-to-harnessing-apowermirrors-desktop-functionality-for-seamless-display-mirroring/"><u>A Step-by-Step Guide to Harnessing ApowerMirror's Desktop Functionality for Seamless Display Mirroring</u></a></li>
+<li><a href="https://win-data.techidaily.com/casttingo-membership-agreement-understanding-your-service-contract/"><u>Casttingo Membership Agreement: Understanding Your Service Contract</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-13-pro-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 13 Pro to Windows PC With Ease? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-video-glitch-how-to-spot-and-fix/"><u>In 2024, Facebook Video Glitch How to Spot & Fix</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-your-smart-tv-how-to-enjoy-hulu-on-samsung-sony-vizio-and-lg-devices/"><u>Live Streaming with Your Smart TV: How to Enjoy Hulu On Samsung, Sony, Vizio, and LG Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-your-home-network-with-the-advanced-features-of-the-linksys-ea9500-router/"><u>Mastering Your Home Network with the Advanced Features of the Linksys EA9500 Router</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-pin-security-windows-10-and-11-expansion-guide/"><u>Maximizing PIN Security: Windows 10 & 11 Expansion Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/seamless-broadcasting-ultimate-tips-for-live-stream-success-on-the-web/"><u>Seamless Broadcasting: Ultimate Tips for Live Stream Success on the Web</u></a></li>
+<li><a href="https://win-data.techidaily.com/unlocking-your-music-collection-converting-drm-protected-wma-files-into-high-quality-mp3/"><u>Unlocking Your Music Collection: Converting DRM-Protected WMA Files Into High-Quality MP3</u></a></li>
 </ul></div>
 

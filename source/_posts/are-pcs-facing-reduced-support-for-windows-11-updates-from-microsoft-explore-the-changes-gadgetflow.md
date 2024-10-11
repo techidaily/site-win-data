@@ -1,7 +1,7 @@
 ---
 title: Are PCs Facing Reduced Support for Windows 11 Updates From Microsoft? Explore the Changes | GadgetFlow
-date: 2024-10-01T22:30:39.936Z
-updated: 2024-10-05T20:13:30.945Z
+date: 2024-10-05T16:08:10.941Z
+updated: 2024-10-11T16:05:54.396Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +75,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -130,10 +129,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-beginners-guide-capturing-youtube-videos-as-screencasts-without-payment/"><u>[New] 2024 Approved Beginner's Guide Capturing YouTube Videos as Screencasts Without Payment</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[New] In 2024, Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-learn-video-editing-on-vimeo-a-budget-friendly-approach/"><u>[New] In 2024, Learn Video Editing on Vimeo A Budget-Friendly Approach</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-turbo-charging-your-vimeo-views/"><u>[Updated] Turbo-Charging Your Vimeo Views</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/avimpeg-4-convertifree/"><u>「オンラインで自由にAVIファイルをMPEG-4へ変換 – ConvertiFree」</u></a></li>
-<li><a href="https://win-data.techidaily.com/1-argon-dashboard-pro-advanced-chakra-ui-framework-enhanced-creativity-at-your-fingertips/"><u>1. Argon Dashboard Pro: Advanced Chakra UI Framework - Enhanced Creativity at Your Fingertips</u></a></li>
-<li><a href="https://win-data.techidaily.com/1-complimentary-vueui-pack-by-creative-tim-with-tailwind-css-and-vuejs-effortless-web-designs/"><u>1. Complimentary VueUI Pack by Creative Tim with Tailwind CSS & VueJS - Effortless Web Designs</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-argon-premium-open-source-bootstrap-4-control-panel-free/"><u>Creative Tim's Argon: Premium, Open-Source Bootstrap 4 Control Panel (Free)</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-elite-argon-pro-flutter-ui-kit-top-tier-swift-and-dart-framework-template/"><u>Creative Tim's Elite Argon Pro Flutter UI Kit: Top-Tier Swift & Dart Framework Template</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-premium-bootstrap-114plus-admin-and-dashboard-templates/"><u>Creative Tim's Premium Bootstrap: 114+ Admin & Dashboard Templates</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-top-vue-themes-with-tailwind-css-a-comprehensive-guide/"><u>Creative Tim's Top Vue Themes with Tailwind CSS: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/discover-the-leading-non-ghostly-creatives-by-timthemes-for-premium-websites/"><u>Discover the Leading Non-Ghostly Creatives by TimThemes for Premium Websites</u></a></li>
-<li><a href="https://win-data.techidaily.com/download-the-top-171plus-free-bootstrap-template-packs-from-creative-tim-enhance-your-project-today/"><u>Download the Top 171+ Free Bootstrap Template Packs From Creative Tim - Enhance Your Project Today!</u></a></li>
-<li><a href="https://win-data.techidaily.com/enhance-your-django-project-with-argon-dashboard-the-stylish-bootstrap-ve-4-admin-template-by-creative-tim/"><u>Enhance Your Django Project with Argon Dashboard - The Stylish Bootstrap Ve 4 Admin Template by Creative Tim</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evolving-computers-upgrading-from-win7-to-win11/"><u>Evolving Computers: Upgrading From Win7 To Win11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-stagnation-expert-advice-on-starting-your-witcher-3-journey-without-glitches/"><u>Fixing Stagnation: Expert Advice on Starting Your Witcher 3 Journey Without Glitches</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722972600375-get-the-latest-windows-7-wi-fi-driver-updates-now/"><u>Get the Latest Windows 7 Wi-Fi Driver Updates Now</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m14-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M14 5G Phone FRP Lock</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-fresh-hp-printer-drivers-on-your-pc-supports-windows-1011/"><u>Install Fresh HP Printer Drivers on Your PC - Supports Windows 10/11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-post-youtube-videos-as-instagram-stories/"><u>[New] In 2024, How to Post YouTube Videos as Instagram Stories</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-ultimate-mic-for-digital-content-makers/"><u>[New] In 2024, Ultimate Mic for Digital Content Makers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drone-trail-tech-your-number-1-picks-for-personal-use/"><u>Drone Trail Tech Your Number 1 Picks for Personal Use</u></a></li>
+<li><a href="https://win-data.techidaily.com/educational-tech-breakthrough-how-dedicated-devices-running-on-windows-amoled-specialized-launch-highlighted-in-a-zdnet-exclusive/"><u>Educational Tech Breakthrough: How Dedicated Devices Running on Windows Amoled | Specialized Launch Highlighted in a ZDNet Exclusive</u></a></li>
+<li><a href="https://win-data.techidaily.com/get-your-microsoft-office-suite-on-sale-buy-project-pro-and-visio-pro-at-a-steal-with-zdnet/"><u>Get Your Microsoft Office Suite on Sale: Buy Project Pro and Visio Pro at a Steal with ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-a-visual-editor-writes-guide-to-leveraging-luts-in-adobe-premiere-pro/"><u>In 2024, A Visual Editor' Writes Guide to Leveraging LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/microsoft-365-suffers-outage-amidst-ddos-assault-the-complete-report-by-zdnet/"><u>Microsoft 365 Suffers Outage Amidst DDoS Assault - The Complete Report by ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/microsoft-teams-unveiled-combined-solution-for-professional-private-and-educational-use-on-zdnet/"><u>Microsoft Teams Unveiled - Combined Solution for Professional, Private & Educational Use on ZDNet</u></a></li>
+<li><a href="https://win-data.techidaily.com/revolutionize-coding-with-microsofts-latest-innovation-the-ultimate-ai-copy-and-paste-feature-zdnet/"><u>Revolutionize Coding with Microsoft's Latest Innovation: The Ultimate AI Copy-and-Paste Feature | ZDNET</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
+<li><a href="https://win-data.techidaily.com/the-insider-scoop-why-microsofts-latest-surface-laptop-studio-left-me-green-with-jealousy-zdnet/"><u>The Insider Scoop: Why Microsoft's Latest Surface Laptop Studio Left Me Green with Jealousy | ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-action-recorder-the-thievery-t5-edition-for-2024/"><u>The Ultimate Action Recorder – The Thievery T5 Edition for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/transforming-traditional-workspaces-into-high-productivity-hubs-the-success-story-of-a-revamped-office/"><u>Transforming Traditional Workspaces Into High-Productivity Hubs - The Success Story of a Revamped Office</u></a></li>
 </ul></div>
 

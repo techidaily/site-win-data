@@ -1,7 +1,7 @@
 ---
 title: Arm Vs. Intel in Surface Pro - Understanding the Complexity of Choice | Tech Insights by ZDNet
-date: 2024-09-29T20:38:22.697Z
-updated: 2024-10-05T21:02:43.359Z
+date: 2024-10-09T16:04:37.734Z
+updated: 2024-10-11T16:08:14.067Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,16 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-elevate-views-with-science-backed-timing-tactics/"><u>[Updated] In 2024, Elevate Views with Science-Backed Timing Tactics</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/comparing-apples-giants-a-detailed-analysis-of-iphone-x-and-iphone-7/"><u>Comparing Apple's Giants: A Detailed Analysis of iPhone X and iPhone 7</u></a></li>
-<li><a href="https://win-data.techidaily.com/easy-steps-to-revert-your-iphone-xs-to-a-previous-backup/"><u>Easy Steps to Revert Your iPhone XS to a Previous Backup</u></a></li>
-<li><a href="https://fox-info.techidaily.com/leading-marketplaces-for-bespoke-wrapping-marvels-for-2024/"><u>Leading Marketplaces for Bespoke Wrapping Marvels for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-visuals-and-minimize-space-transform-dvd-to-h265-for-stellar-quality-and-smaller-files/"><u>Maximize Visuals & Minimize Space - Transform DVD to H.265 For Stellar Quality and Smaller Files</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/save-big-on-labor-day-get-enhanced-security-with-a-blink-outdoor-4-camera-and-floodlight-system-at-just-80-limited-time-deal/"><u>Save Big on Labor Day! Get Enhanced Security with a Blink Outdoor 4-Camera and Floodlight System at Just $80 - Limited Time Deal.</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-to-recording-video-gameplay-on-your-android-device/"><u>Step-by-Step Guide to Recording Video Gameplay on Your Android Device</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-reflecting-your-iphone-screen-onto-a-sony-television/"><u>Step-by-Step Guide: Reflecting Your iPhone Screen Onto a Sony Television</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-fleeting-feed-of-fb-shorts-for-2024/"><u>The Fleeting Feed of FB Shorts for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-screen-capture-tools-purchase-options-and-comparisons/"><u>Top Screen Capture Tools: Purchase Options and Comparisons</u></a></li>
-<li><a href="https://win-data.techidaily.com/top-substitutes-for-spotify-fresh-and-exciting-music-services-await/"><u>Top Substitutes for Spotify – Fresh & Exciting Music Services Await!</u></a></li>
-<li><a href="https://win-data.techidaily.com/troubleshooting-ios-12s-screen-recording-feature-expert-tips-and-solutions/"><u>Troubleshooting iOS 12'S Screen Recording Feature: Expert Tips & Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-uncover-your-windows-10-taskbar-no-more-hidden/"><u>Troubleshooting Tips: Uncover Your Windows 10 Taskbar (No More Hidden)</u></a></li>
-<li><a href="https://win-data.techidaily.com/ultimate-image-organizer-the-premier-android-gallery-solution/"><u>Ultimate Image Organizer: The Premier Android Gallery Solution</u></a></li>
+<li><a href="https://win-data.techidaily.com/appreciation-for-choosing-the-latest-update-splash-version-20/"><u>Appreciation for Choosing the Latest Update: Splash Version 2.0</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-infinix-smart-8-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Smart 8 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-oneplus-nord-3-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from OnePlus Nord 3 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-instructions-for-playing-spotify-content-on-your-homepod-device/"><u>Step-by-Step Instructions for Playing Spotify Content on Your HomePod Device</u></a></li>
+<li><a href="https://facebook.techidaily.com/stop-all-comments-mastering-the-art-of-silence-in-facebook-feeds/"><u>Stop All Comments: Mastering the Art of Silence in Facebook Feeds</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-6s-plus-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://win-data.techidaily.com/the-ultimate-tutorial-on-securely-acquiring-and-transforming-bollywood-films-to-widely-supported-video-files-such-as-mp4-mov-and-avi/"><u>The Ultimate Tutorial on Securely Acquiring and Transforming Bollywood Films to Widely-Supported Video Files Such as MP4, MOV, and AVI</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-best-no-cost-software-update-applications-you-should-try/"><u>Top 11 Best No-Cost Software Update Applications You Should Try</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/udvikle-din-microsoft-windows-10-4-tekniker-for-skaermede-optimalisering/"><u>Udvikle Din Microsoft Windows 10 - 4 Tekniker for Skærmede Optimalisering</u></a></li>
+<li><a href="https://win-data.techidaily.com/ultimate-technique-how-can-you-save-vodpod-video-content/"><u>Ultimate Technique: How Can You Save VodPod Video Content?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-ultimate-audio-adjustment-guide-for-electronics-for-2024/"><u>Updated Ultimate Audio Adjustment Guide for Electronics for 2024</u></a></li>
 </ul></div>
 

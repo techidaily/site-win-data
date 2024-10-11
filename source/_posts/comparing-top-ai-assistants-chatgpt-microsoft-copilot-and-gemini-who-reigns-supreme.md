@@ -1,7 +1,7 @@
 ---
 title: "Comparing Top AI Assistants: ChatGPT, Microsoft Copilot & Gemini – Who Reigns Supreme?"
-date: 2024-10-02T22:02:12.448Z
-updated: 2024-10-05T20:17:01.190Z
+date: 2024-10-04T16:08:11.434Z
+updated: 2024-10-11T16:00:12.344Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,16 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-embracing-authenticity-in-video-marketing-through-clients-words/"><u>[New] 2024 Approved Embracing Authenticity in Video Marketing Through Clients' Words</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-tactics-for-increasing-campaign-efficiency-with-smart-hashtag-usage-on-fb-for-2024/"><u>[New] Tactics for Increasing Campaign Efficiency with Smart Hashtag Usage on FB for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-quick-start-recording-audio-on-windows-11/"><u>2024 Approved Quick Start Recording Audio on Windows 11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone XS Max</u></a></li>
-<li><a href="https://win-data.techidaily.com/mastering-seamless-pdf-navigation-adding-bookmarks-in-flipbook-software-tutorial/"><u>Mastering Seamless PDF Navigation: Adding Bookmarks in FlipBook Software Tutorial</u></a></li>
-<li><a href="https://win-data.techidaily.com/mastering-the-art-of-self-running-digital-flipbooks-easy-steps-using-flipbuilder-tool/"><u>Mastering the Art of Self-Running Digital Flipbooks: Easy Steps Using FlipBuilder Tool</u></a></li>
-<li><a href="https://win-data.techidaily.com/navigating-to-specific-content-on-flipbuildercom/"><u>Navigating to Specific Content on FlipBuilder.com</u></a></li>
-<li><a href="https://win-data.techidaily.com/organizing-images-before-conversion-a-guide-to-making-flipbooks-with-flipbuildercom/"><u>Organizing Images Before Conversion: A Guide to Making Flipbooks with FlipBuilder.com</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/reviving-the-disappearing-video-icon-on-fb-watch-platform-for-2024/"><u>Reviving the Disappearing Video Icon on FB Watch Platform for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/run-your-own-interactive-books-instantly-convert-exe-files-with-ease-using-flipbuilder/"><u>Run Your Own Interactive Books Instantly - Convert EXE Files with Ease Using FlipBuilder!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-preserving-driver-files-for-windows-1110-systems/"><u>Step-by-Step Tutorial: Preserving Driver Files for Windows 11/10 Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-a-visual-voyage-with-toolwiz-comprerande-review-2023-edition-for-2024/"><u>[New] A Visual Voyage with Toolwiz Comprerande Review, 2023 Edition for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-hear-the-hd-story-from-youtube-to-twitters-vids/"><u>[New] In 2024, Hear the HD Story From YouTube to Twitter's Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-tech-triad-analysis-understanding-the-intersection-of-vr-ar-and-mr/"><u>[New] Tech Triad Analysis Understanding the Intersection of VR, AR & MR</u></a></li>
+<li><a href="https://win-data.techidaily.com/comparing-apples-giants-a-detailed-analysis-of-iphone-x-and-iphone-7/"><u>Comparing Apple's Giants: A Detailed Analysis of iPhone X and iPhone 7</u></a></li>
+<li><a href="https://win-data.techidaily.com/easy-steps-to-revert-your-iphone-xs-to-a-previous-backup/"><u>Easy Steps to Revert Your iPhone XS to a Previous Backup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortlessly-resolve-fifa-19s-directx-troubles-with-these-effective-solutions/"><u>Effortlessly Resolve FIFA 19'S DirectX Troubles with These Effective Solutions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovo-tab-p11-pro-assessment-impressive-features-with-minor-downfalls/"><u>Lenovo Tab P11 Pro Assessment: Impressive Features with Minor Downfalls</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/seamless-printer-function-release/"><u>Seamless Printer Function Release</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/secrets-to-profit-from-youtube-shorts-fundamentals-and-earning-prospects/"><u>Secrets to Profit From Youtube Shorts Fundamentals and Earning Prospects</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-to-recording-video-gameplay-on-your-android-device/"><u>Step-by-Step Guide to Recording Video Gameplay on Your Android Device</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-reflecting-your-iphone-screen-onto-a-sony-television/"><u>Step-by-Step Guide: Reflecting Your iPhone Screen Onto a Sony Television</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175721551-toms-tech-insights-expert-reviews-and-guides/"><u>Tom's Tech Insights: Expert Reviews and Guides</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-substitutes-for-spotify-fresh-and-exciting-music-services-await/"><u>Top Substitutes for Spotify – Fresh & Exciting Music Services Await!</u></a></li>
+<li><a href="https://win-data.techidaily.com/troubleshooting-ios-12s-screen-recording-feature-expert-tips-and-solutions/"><u>Troubleshooting iOS 12'S Screen Recording Feature: Expert Tips & Solutions</u></a></li>
+<li><a href="https://win-data.techidaily.com/ultimate-image-organizer-the-premier-android-gallery-solution/"><u>Ultimate Image Organizer: The Premier Android Gallery Solution</u></a></li>
+<li><a href="https://win-data.techidaily.com/upgrading-made-easy-shifting-your-windows-license-from-previous-device-to-latest-purchase-insider-tips-and-tricks/"><u>Upgrading Made Easy: Shifting Your Windows License From Previous Device to Latest Purchase - Insider Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-isnt-my-receiver-working-expert-tips-for-fixing-sound-problems/"><u>Why Isn't My Receiver Working? Expert Tips for Fixing Sound Problems</u></a></li>
 </ul></div>
 
