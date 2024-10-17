@@ -1,7 +1,7 @@
 ---
 title: "Exploring VMware Horizon Flex: A Comprehensive Guide to Its Power and Versatility"
-date: 2024-10-09T16:15:43.971Z
-updated: 2024-10-11T16:05:32.341Z
+date: 2024-10-14T16:47:45.932Z
+updated: 2024-10-17T16:28:36.484Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/eab7c14eabafe1a185466727235bc20b8846ab28dbbd2f320ca581d507972f83.jpg
@@ -67,10 +67,10 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix winload.efi missing
@@ -92,13 +92,6 @@ Best free bootable media creation tool
 Step 1\. Download this software and open it. Click **Tools** and then choose **Create Bootable Media**.
 
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
@@ -126,6 +119,13 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
@@ -142,13 +142,6 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -156,13 +149,6 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -186,7 +172,21 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Exercise caution to avoid potential system errors when using this command.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 5\. Repair EFI Boot Loader
 
@@ -238,20 +238,13 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -266,16 +259,16 @@ Was the provided information useful? Your vote is important to us!
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -297,6 +290,13 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -308,16 +308,10 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -335,22 +329,21 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ultimate-list-of-androids-gb-compatible-simulators/"><u>[Updated] 2024 Approved Ultimate List of Android's GB-Compatible Simulators</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastery-in-making-sense-top-6-persuasive-video-types/"><u>[Updated] Mastery in Making Sense Top 6 Persuasive Video Types</u></a></li>
-<li><a href="https://win-data.techidaily.com/1-alert-latest-windows-updates-could-escalate-after-hours-stress-at-work-insights-from-zdnet/"><u>1. Alert: Latest Windows Updates Could Escalate After-Hours Stress at Work - Insights From ZDNet</u></a></li>
-<li><a href="https://win-data.techidaily.com/a-decade-on-microsofts-past-mobile-blunders-continue-to-impact-it/"><u>A Decade On, Microsoft's Past Mobile Blunders Continue to Impact It</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/a-step-by-step-approach-to-yt-channel-descriptors-for-2024/"><u>A Step-by-Step Approach to YT Channel Descriptors for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/appreciation-for-choosing-the-latest-update-splash-version-20/"><u>Appreciation for Choosing the Latest Update: Splash Version 2.0</u></a></li>
-<li><a href="https://win-data.techidaily.com/comprehensive-guide-the-interactive-features-of-the-rcu-app/"><u>Comprehensive Guide: The Interactive Features of the RCU App</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-transform-mxf-files-into-mp3-audio-movavi/"><u>Free Online Converter: Transform MXF Files Into MP3 Audio - Movavi</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-integrate-live-streaming-footage-into-gaming-sessions-using-the-action-software/"><u>How to Integrate Live Streaming Footage Into Gaming Sessions Using the Action Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-iphone-silhouette-photos/"><u>In 2024, The Ultimate Guide to iPhone Silhouette Photos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-hidden-details-roblox-closeup-secrets/"><u>In 2024, Unlocking Hidden Details Roblox Closeup Secrets</u></a></li>
-<li><a href="https://win-data.techidaily.com/resolving-the-critical-issue-of-error-code-107-a-step-by-step-guide/"><u>Resolving the Critical Issue of Error Code 107 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/save-big-on-your-microsoft-surface-pro-by-boosting-storage-capacity-with-these-simple-tips-from-zdnet/"><u>Save Big on Your Microsoft Surface Pro by Boosting Storage Capacity with These Simple Tips From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-lost-ark-non-launching-issue-comprehensive-guide-users/"><u>Troubleshoot Lost Ark Non-Launching Issue: Comprehensive Guide Users</u></a></li>
-<li><a href="https://win-data.techidaily.com/ultimate-technique-how-can-you-save-vodpod-video-content/"><u>Ultimate Technique: How Can You Save VodPod Video Content?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-tips-for-seamless-embedding-of-youtube-playlists-on-a-website/"><u>[New] Quick Tips for Seamless Embedding of YouTube Playlists on a Website</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-cutting-edge-recording-gear-the-ultimate-voice-recorders-2023/"><u>[Updated] 2024 Approved Cutting-Edge Recording Gear The Ultimate Voice Recorders 2023</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-proactive-measures-to-save-and-secure-your-classroom-talks-on-macos/"><u>[Updated] 2024 Approved Proactive Measures to Save and Secure Your Classroom Talks on MacOS</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-samsung-galaxy-a25-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Samsung Galaxy A25 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/ssd-202/"><u>最新型号 SSD 转换工具列表202</u></a></li>
+<li><a href="https://win-data.techidaily.com/comment-resetter-son-ordinateur-sous-windows-11-en-quatre-etapes-simples/"><u>Comment Resetter Son Ordinateur Sous Windows 11 en Quatre Étapes Simples</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/cutting-edge-font-creators-for-discord-on-the-go/"><u>Cutting-Edge Font Creators for Discord on the Go</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/effortless-text-labeling-on-video-in-windows-photos/"><u>Effortless Text Labeling on Video in Windows Photos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/enhance-your-iphone-wi-fi-connection-eight-effective-solutions-for-faster-internet/"><u>Enhance Your iPhone Wi-Fi Connection: Eight Effective Solutions for Faster Internet</u></a></li>
+<li><a href="https://win-data.techidaily.com/guia-integral-maximizando-el-uso-de-windows-file-recovery-en-el-sistema-operativo-windows-11/"><u>Guía Integral: Maximizando El Uso De Windows File Recovery en El Sistema Operativo Windows 11</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-move-iphone-notes-directly-between-devices-no-pc-required/"><u>How to Move iPhone Notes Directly Between Devices - No PC Required</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-a15-4g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy A15 4G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/migrar-tu-os-usando-aomei-backupper-para-otro-tipo-de-hardware-tutorial-completo/"><u>Migrar Tu OS Usando AOMEI Backupper Para Otro Tipo De Hardware – Tutorial Completo</u></a></li>
+<li><a href="https://win-data.techidaily.com/scambia-facile-i-tuoi-file-tra-microsoft-windows-10-e-windows-11-utilizzando-tre-metodi-efficienti/"><u>Scambia Facile I Tuoi File Tra Microsoft Windows 10 E Windows 11 Utilizzando Tre Metodi Efficienti</u></a></li>
+<li><a href="https://win-data.techidaily.com/ultimate-guide-to-free-file-copying-programs-unveiling-aomei-backupper/"><u>Ultimate Guide to Free File Copying Programs: Unveiling AOMEI Backupper</u></a></li>
+<li><a href="https://win-data.techidaily.com/ultimate-tutorial-on-migrating-windows-8-81-system-images-onto-a-different-ssdhdd/"><u>Ultimate Tutorial on Migrating Windows 8 / 8.1 System Images Onto a Different SSD/HDD</u></a></li>
 </ul></div>
 

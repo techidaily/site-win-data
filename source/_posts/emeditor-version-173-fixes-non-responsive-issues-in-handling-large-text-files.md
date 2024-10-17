@@ -1,7 +1,7 @@
 ---
 title: EmEditor Version 17.3 - Fixes Non-Responsive Issues in Handling Large Text Files
-date: 2024-10-08T16:11:54.211Z
-updated: 2024-10-11T16:04:18.603Z
+date: 2024-10-13T17:05:38.178Z
+updated: 2024-10-17T16:58:55.581Z
 tags:
   - product
 categories:
@@ -58,27 +58,35 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-mastering-game-capture-a-guide-to-using-obs/"><u>[New] Mastering Game Capture A Guide to Using OBS</u></a></li>
-<li><a href="https://win-data.techidaily.com/1-complimentary-vueui-pack-by-creative-tim-with-tailwind-css-and-vuejs-effortless-web-designs/"><u>1. Complimentary VueUI Pack by Creative Tim with Tailwind CSS & VueJS - Effortless Web Designs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-film-editing-expertise-exchange/"><u>2024 Approved Film Editing Expertise Exchange</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-similarities-unveiling-the-distinct-qualities-of-siri-and-chatgpt/"><u>Beyond Similarities: Unveiling the Distinct Qualities of Siri and ChatGPT</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-argon-premium-open-source-bootstrap-4-control-panel-free/"><u>Creative Tim's Argon: Premium, Open-Source Bootstrap 4 Control Panel (Free)</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-elite-argon-pro-flutter-ui-kit-top-tier-swift-and-dart-framework-template/"><u>Creative Tim's Elite Argon Pro Flutter UI Kit: Top-Tier Swift & Dart Framework Template</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-premium-bootstrap-114plus-admin-and-dashboard-templates/"><u>Creative Tim's Premium Bootstrap: 114+ Admin & Dashboard Templates</u></a></li>
-<li><a href="https://win-data.techidaily.com/creative-tims-top-vue-themes-with-tailwind-css-a-comprehensive-guide/"><u>Creative Tim's Top Vue Themes with Tailwind CSS: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/discover-the-leading-non-ghostly-creatives-by-timthemes-for-premium-websites/"><u>Discover the Leading Non-Ghostly Creatives by TimThemes for Premium Websites</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-narzo-60-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme Narzo 60 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-sparkling-ideas-crafting-creative-and-engaging-facebook-ads/"><u>In 2024, Sparkling Ideas Crafting Creative and Engaging Facebook Ads</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-precision-sound-engineering-harnessing-the-power-of-keyframes-for-audio-fade-insouts-in-filmora-mac-for-2024/"><u>New Precision Sound Engineering Harnessing the Power of Keyframes for Audio Fade-Ins/Outs in Filmora (Mac) for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-fixes-to-address-iphone-guide-mode-malfunctions-effectively/"><u>Quick Fixes to Address iPhone Guide Mode Malfunctions Effectively</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-solution-obtaining-and-setting-up-the-dell-mouse-driver-correctly/"><u>Ultimate Solution: Obtaining and Setting Up the Dell Mouse Driver Correctly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-az-screen-recorder-review-series/"><u>[New] 2024 Approved AZ Screen Recorder Review Series</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-dissecting-the-prospects-of-active-presenter-for-techies/"><u>[New] Dissecting the Prospects of Active Presenter for Techies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-effortless-audio-downloads-these-24-tools-split-youtube-sounds-for-2024/"><u>[New] Effortless Audio Downloads These 24 Tools Split YouTube Sounds for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-essential-tips-for-recording-movies-on-all-devices-for-2024/"><u>[New] Essential Tips for Recording Movies on All Devices for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>[New] Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-ppt-recording-process-explained-for-2024/"><u>[New] The Ultimate PPT Recording Process Explained for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-zany-tiktok-trials-the-ultimate-unusual-game-list/"><u>[Updated] Zany TikTok Trials The Ultimate Unusual Game List</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-digital-tools-for-photographic-based-media-conversion/"><u>2024 Approved Ideal Digital Tools for Photographic-Based Media Conversion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ethical-path-to-engaging-interviews/"><u>2024 Approved The Ethical Path to Engaging Interviews</u></a></li>
+<li><a href="https://win-data.techidaily.com/best-free-forensic-software-unveiled-a-side-by-side-review-for-optimal-data-retrieval/"><u>Best Free Forensic Software Unveiled: A Side-by-Side Review for Optimal Data Retrieval</u></a></li>
+<li><a href="https://win-data.techidaily.com/come-recuperare-i-messaggi-di-whatsapp-eliminati-sul-tuo-iphone-o-dispositivo-android/"><u>Come Recuperare I Messaggi Di WhatsApp Eliminati Sul Tuo iPhone O Dispositivo Android</u></a></li>
+<li><a href="https://win-data.techidaily.com/comprendre-pourquoi-onedrive-supprime-automatiquement-vos-fichiers-et-comment-les-proteger/"><u>Comprendre Pourquoi OneDrive Supprime Automatiquement Vos Fichiers Et Comment Les Protéger</u></a></li>
+<li><a href="https://win-data.techidaily.com/data-resurrection-methods-a-guide-to-restoring-lost-information-on-windows-11-systems/"><u>Data Resurrection Methods: A Guide to Restoring Lost Information on Windows 11 Systems</u></a></li>
+<li><a href="https://win-data.techidaily.com/distribuzione-di-file-multimedia-windows-11-su-piu-dispositivi-guida-rapida/"><u>Distribuzione Di File Multimedia Windows 11 Su Più Dispositivi - Guida Rapida</u></a></li>
+<li><a href="https://win-data.techidaily.com/guia-completa-como-proteger-tu-correspondencia-con-windows-live-mail-usando-la-mejor-solucion-de-respaldo/"><u>Guía Completa: Cómo Proteger Tu Correspondencia Con Windows Live Mail Usando La Mejor Solución De Respaldo</u></a></li>
+<li><a href="https://win-data.techidaily.com/probleme-de-carte-memoire-pourquoi-votre-carte-sd-est-vide-ou-incompatible-avec-le-systeme-de-fichiers/"><u>Problème De Carte Mémoire : Pourquoi Votre Carte SD Est Vide Ou Incompatible Avec Le Système De Fichiers</u></a></li>
+<li><a href="https://win-data.techidaily.com/sehr-einfach-regelmassige-sicherungen-mit-windows-1187-erklart-zwei-bewahrte-techniken/"><u>Sehr Einfach! Regelmäßige Sicherungen Mit Windows 11/8/7 Erklärt - Zwei Bewährte Techniken</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
