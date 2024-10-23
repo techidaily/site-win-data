@@ -1,7 +1,7 @@
 ---
 title: EmEditor Version 17.3 - Fixes Non-Responsive Issues in Handling Large Text Files
-date: 2024-10-13T17:05:38.178Z
-updated: 2024-10-17T16:58:55.581Z
+date: 2024-10-18T16:35:25.096Z
+updated: 2024-10-22T19:35:21.333Z
 tags:
   - product
 categories:
@@ -58,35 +58,25 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-az-screen-recorder-review-series/"><u>[New] 2024 Approved AZ Screen Recorder Review Series</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-dissecting-the-prospects-of-active-presenter-for-techies/"><u>[New] Dissecting the Prospects of Active Presenter for Techies</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-effortless-audio-downloads-these-24-tools-split-youtube-sounds-for-2024/"><u>[New] Effortless Audio Downloads These 24 Tools Split YouTube Sounds for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-essential-tips-for-recording-movies-on-all-devices-for-2024/"><u>[New] Essential Tips for Recording Movies on All Devices for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-game-optimized-screens-for-ps5-xbox-series-x-gamers/"><u>[New] Game-Optimized Screens for PS5, Xbox Series X Gamers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-ppt-recording-process-explained-for-2024/"><u>[New] The Ultimate PPT Recording Process Explained for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-zany-tiktok-trials-the-ultimate-unusual-game-list/"><u>[Updated] Zany TikTok Trials The Ultimate Unusual Game List</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-digital-tools-for-photographic-based-media-conversion/"><u>2024 Approved Ideal Digital Tools for Photographic-Based Media Conversion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ethical-path-to-engaging-interviews/"><u>2024 Approved The Ethical Path to Engaging Interviews</u></a></li>
-<li><a href="https://win-data.techidaily.com/best-free-forensic-software-unveiled-a-side-by-side-review-for-optimal-data-retrieval/"><u>Best Free Forensic Software Unveiled: A Side-by-Side Review for Optimal Data Retrieval</u></a></li>
-<li><a href="https://win-data.techidaily.com/come-recuperare-i-messaggi-di-whatsapp-eliminati-sul-tuo-iphone-o-dispositivo-android/"><u>Come Recuperare I Messaggi Di WhatsApp Eliminati Sul Tuo iPhone O Dispositivo Android</u></a></li>
-<li><a href="https://win-data.techidaily.com/comprendre-pourquoi-onedrive-supprime-automatiquement-vos-fichiers-et-comment-les-proteger/"><u>Comprendre Pourquoi OneDrive Supprime Automatiquement Vos Fichiers Et Comment Les Protéger</u></a></li>
-<li><a href="https://win-data.techidaily.com/data-resurrection-methods-a-guide-to-restoring-lost-information-on-windows-11-systems/"><u>Data Resurrection Methods: A Guide to Restoring Lost Information on Windows 11 Systems</u></a></li>
-<li><a href="https://win-data.techidaily.com/distribuzione-di-file-multimedia-windows-11-su-piu-dispositivi-guida-rapida/"><u>Distribuzione Di File Multimedia Windows 11 Su Più Dispositivi - Guida Rapida</u></a></li>
-<li><a href="https://win-data.techidaily.com/guia-completa-como-proteger-tu-correspondencia-con-windows-live-mail-usando-la-mejor-solucion-de-respaldo/"><u>Guía Completa: Cómo Proteger Tu Correspondencia Con Windows Live Mail Usando La Mejor Solución De Respaldo</u></a></li>
-<li><a href="https://win-data.techidaily.com/probleme-de-carte-memoire-pourquoi-votre-carte-sd-est-vide-ou-incompatible-avec-le-systeme-de-fichiers/"><u>Problème De Carte Mémoire : Pourquoi Votre Carte SD Est Vide Ou Incompatible Avec Le Système De Fichiers</u></a></li>
-<li><a href="https://win-data.techidaily.com/sehr-einfach-regelmassige-sicherungen-mit-windows-1187-erklart-zwei-bewahrte-techniken/"><u>Sehr Einfach! Regelmäßige Sicherungen Mit Windows 11/8/7 Erklärt - Zwei Bewährte Techniken</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-maximizing-your-steam-experience-with-a-switch-pro-controller/"><u>[New] In 2024, Maximizing Your Steam Experience with a Switch Pro Controller</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers-for-2024/"><u>[Updated] A Quick Dive Into Video Ratios The Aspect Ratio Essentials for YouTubers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-seamless-creation-a-closer-look-at-magix-video-pro-x-for-2024/"><u>[Updated] Seamless Creation A Closer Look at Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728493242409-windows-11/"><u>「Windows 11でパーティションをクローニングするための効果的な方法：第二のアプローチとその使用法」</u></a></li>
+<li><a href="https://win-data.techidaily.com/boost-your-xbox-360-with-a-solid-state-drive-upgrade-improve-load-times-and-expand-memory/"><u>Boost Your Xbox 360 with a Solid State Drive Upgrade – Improve Load Times & Expand Memory</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-key-to-smarter-website-personalization/"><u>Cookiebot: The Key to Smarter Website Personalization</u></a></li>
+<li><a href="https://win-data.techidaily.com/facon-efficace-de-deplacer-les-donnees-dun-pc-a-un-autre-sous-windows-11-guide-complet/"><u>Façon Efficace De Déplacer Les Données D'un PC À Un Autre Sous Windows 11: Guide Complet</u></a></li>
+<li><a href="https://win-data.techidaily.com/musik-zwischen-ipad-und-iphone-hin-und-herscheiden-mit-oder-ohne-pc/"><u>Musik Zwischen Ipad Und Iphone Hin- Und Herscheiden - Mit Oder Ohne PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stunning-feats-in-figure-skating-22-moments/"><u>Stunning Feats in Figure Skating '22 Moments</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-six-proven-fixes-for-when-gmail-stops-syncing-with-outlook-macos-a-comprehensive-guide/"><u>Top Six Proven Fixes for When Gmail Stops Syncing With Outlook macOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/topo-recetas-eficaces-para-resolver-el-fallo-0xc000000e-en-windows-11-sin-corrupcion-de-archivos/"><u>Topo Recetas Eficaces Para Resolver El Fallo 0xC000000E en Windows 11 Sin Corrupción De Archivos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-hp-envy-er-4500-printer-driver-to-the-latest-version-on-microsoft-os/"><u>Update Your HP Envy Er 4500 Printer Driver to the Latest Version on Microsoft OS</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
