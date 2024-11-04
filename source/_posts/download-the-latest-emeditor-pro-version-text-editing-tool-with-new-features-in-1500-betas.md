@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest EmEditor Pro Version: Text Editing Tool with New Features in 15.0.0 Betas"
-date: 2024-10-27T04:16:11.381Z
-updated: 2024-10-28T18:54:26.505Z
+date: 2024-10-28T16:03:08.014Z
+updated: 2024-11-03T18:31:16.622Z
 tags:
   - product
 categories:
@@ -34,17 +34,17 @@ Updates from v14.9.3 include:
    * The **Split Current Document into Several Files** command now allows you to specify an existing file as the source file. This enhancement allows you to split a very large file larger than 248 GB.  
    * The **Find in Files** and **Replace in Files** commands now allow you to specify multiple folders separated by a vertical bar (|).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### New Options
    * The new **Custom (in Characters)** box and the **Logical Disjunction (OR) to the Previous Condition** check box was added to the **Advanced Filter** dialog box.  
    * The **Popup if Number of Items Exceeds** text box was added to the **History** tab of the **Customize** dialog box.  
    * The **Browse and Add** command in the menu displayed when you click the **\>** button by the **In Folder** text box in the **Find in Files** and **Replace in Files** dialog boxes.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### New Commands
    * Open Workspace  
@@ -54,8 +54,28 @@ Updates from v14.9.3 include:
    * Bookmark All (Filter toolbar)  
    * Extract All (Filter toolbar)  
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Macro New Features
    * The **xBegin** and **xEnd** parameters and the **eeFindLogicalOr** flag were added to the **Filter** method of the **Document** object.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Plug-in API New Features
    * The **xBegin** and **xEnd** fields and the **FLAG\_FIND\_LOGICAL\_OR** flag were added to the **FILTER\_INFO** structure.  
@@ -73,32 +93,18 @@ March 18, 2015 at 8:58 pm [#19930](https://tools.techidaily.com/emeditor/product
 [![](https://secure.gravatar.com/avatar/a0a6377144ed3636f985d87303f65ed2?s=80&d=identicon&r=g)Yutaka Emura](https://www.emeditor.com/forums/users/yemura/ "View Yutaka Emura's profile")  
 Keymaster  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Today, we are releasing EmEditor v15.0.0 beta 2.  
 Updates from v15.0.0 beta 1 include:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bug Fixes
    * Fixed a certain bug related to embedded newlines in CSV mode when a very large file is opened.  
    * Fixed a certain bug related to multiple folders separated by ‘|’ in the Find in Files dialog box.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### To Download
@@ -130,18 +136,20 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/advanced-editing-for-published-youtube-videos-for-2024/"><u>Advanced Editing for Published YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/comment-trouver-et-restaurer-des-donnees-manquantes-sur-le-disque-dur-local-aide-pratique-gratuite/"><u>Comment Trouver Et Restaurer Des Données Manquantes Sur Le Disque Dur Local : Aide Pratique Gratuite</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-tecno-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Tecno</u></a></li>
-<li><a href="https://win-data.techidaily.com/guia-para-duplicar-discos-activados-por-bitlocker-en-sistemas-operativos-windows-modernos-windows-1187/"><u>Guía Para Duplicar Discos Activados Por BitLocker en Sistemas Operativos Windows Modernos (Windows 11/8/7)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unveiling-costless-creativity-a-deep-dive-into-best-luts/"><u>In 2024, Unveiling Costless Creativity A Deep Dive Into Best LUTs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/integrating-a-powerful-bass-unit-with-your-samsung-bar-speaker/"><u>Integrating a Powerful Bass Unit with Your Samsung Bar Speaker</u></a></li>
-<li><a href="https://program-issues.techidaily.com/left-dead-2-stability-solutions-overcoming-game-crash-issues-successfully/"><u>Left √Dead 2 Stability Solutions - Overcoming Game Crash Issues Successfully</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-accessibility-on-ig-a-comprehensive-tutorial-for-instagram-story-closed-captioning/"><u>Mastering Accessibility on IG: A Comprehensive Tutorial for Instagram Story Closed Captioning</u></a></li>
-<li><a href="https://win-data.techidaily.com/meilleures-solutions-de-recuperation-des-donnees-pour-windows-alternatives-a-itop/"><u>Meilleures Solutions De Récupération Des Données Pour Windows: Alternatives À iTop</u></a></li>
-<li><a href="https://win-data.techidaily.com/missing-page-warning-error-404-detected/"><u>Missing Page Warning - Error 404 Detected</u></a></li>
-<li><a href="https://win-data.techidaily.com/pilihan-tertinggi-untuk-klon-hard-disk-laptop-dell-proses-tanpa-reinstall-os/"><u>Pilihan Tertinggi Untuk Klon Hard Disk Laptop Dell: Proses Tanpa Reinstall OS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/transferer-vos-fichiers-de-windows-11-vers-un-ssd-sans-reinstallation-un-guide-simple-et-direct/"><u>Transférer Vos Fichiers De Windows 11 Vers Un SSD Sans Réinstallation - Un Guide Simple Et Direct!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-low-cost-4k-recording-options-for-2024/"><u>[New] Top Low-Cost 4K Recording Options for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-firefoxs-finest-leading-video-downloads-and-addons-for-facebook-for-2024/"><u>[Updated] Firefox's Finest Leading Video Downloads & Addons for Facebook for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-lines-that-captivate-the-craft-of-writing-dialogue/"><u>[Updated] Lines That Captivate The Craft of Writing Dialogue</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728493732442-windows-111087/"><u>無効化方法: Windows 11/10/8/7のリカバリオプションはじめから理解</u></a></li>
+<li><a href="https://win-data.techidaily.com/effizientes-transferieren-methoden-zum-hochladen-von-dateien-aus-den-ipads-air-pro-und-mini-auf-einen-usb-stick/"><u>Effizientes Transferieren: Methoden Zum Hochladen Von Dateien Aus Den iPads Air, Pro Und Mini Auf Einen USB-Stick</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-real-time-to-leisurely-iphone-methods-for-slow-motion-video/"><u>From Real Time to Leisurely IPhone Methods for Slow Motion Video</u></a></li>
+<li><a href="https://win-data.techidaily.com/guida-passo-passo-per-risolvere-il-difficile-problema-di-eliminare-le-immagini/"><u>Guida Passo-Passo per Risolvere Il Difficile Problema Di Eliminare Le Immagini</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-restore-your-sharepoint-sync-button-effective-3-solutions-explored/"><u>How to Restore Your SharePoint Sync Button: Effective 3 Solutions Explored</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-12-pro-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 12 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-s23-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy S23 Device SIM</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-a2-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi A2 Phone without Google Account?</u></a></li>
+<li><a href="https://win-data.techidaily.com/strategie-efficaci-per-localizzare-un-file-mancante-in-windows-1011-una-guida-completa/"><u>Strategie Efficaci per Localizzare Un File Mancante in Windows 10/11: Una Guida Completa</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-xr-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone XR</u></a></li>
+<li><a href="https://win-data.techidaily.com/windows-11legacyuefi-boot-usb/"><u>Windows 11向けに、伝統的なLegacyもしくはUEFI Boot USBフラッシュのコツ</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728467456541-windows-11/"><u>パーティション表の修正方法 - Windows 11ユーザー向け完全解析</u></a></li>
 </ul></div>
 
