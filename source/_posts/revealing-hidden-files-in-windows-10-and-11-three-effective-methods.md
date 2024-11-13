@@ -1,7 +1,7 @@
 ---
 title: "Revealing Hidden Files in Windows 10 & 11: Three Effective Methods"
-date: 2024-11-02T21:50:09.501Z
-updated: 2024-11-03T23:49:52.991Z
+date: 2024-11-05T16:27:01.885Z
+updated: 2024-11-12T18:17:56.998Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45bb38823ea9696084a32865c.jpg
@@ -43,10 +43,10 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## User case: Windows 11 winload.efi missing, F8 button not working
@@ -63,13 +63,6 @@ If you meet similar problems that you can’t find winload.efi, you have been in
 
 Before we fix the file winload.efi missing error, let’s explore the causes that may lie with it:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What caused winload.efi missing error?
 
 Causes of "winload.efi missing or contains error after clone" issues:
@@ -81,10 +74,10 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix winload.efi missing
@@ -112,32 +105,25 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
@@ -158,6 +144,13 @@ Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
 To utilize the CHKDSK utility to address potential disk errors, follow these steps:
@@ -177,6 +170,13 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -199,13 +199,6 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 **✍Note**: Replace "**C**" with the system hard drive partition letter.
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
 
@@ -278,10 +271,10 @@ Was the provided information useful? Your vote is important to us!
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Related Articles
@@ -314,6 +307,13 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -329,18 +329,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-sorbet-surveillance-complete-guide-to-ice-cream-screen-capture/"><u>[New] Sorbet Surveillance Complete Guide to Ice Cream Screen Capture</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-art-and-science-of-fb-video-ads-unveiling-20-crucial-steps/"><u>[New] The Art and Science of FB Video Ads Unveiling 20 Crucial Steps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-guide-to-the-10-greatest-pc-cameras-for-2024/"><u>[Updated] Expert Guide to the 10 Greatest PC Cameras for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-streamlining-your-photo-editing-the-crop-essentials-for-2024/"><u>[Updated] Streamlining Your Photo Editing The Crop Essentials for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge/"><u>[Updated] Unlocking the Potential of Multi-Stream Video on Microsoft Edge</u></a></li>
-<li><a href="https://win-data.techidaily.com/iphoneitunes/"><u>當iPhone與iTunes無法連結時，如何保險性地重置設定？</u></a></li>
-<li><a href="https://win-data.techidaily.com/cmdwindows-server/"><u>CMDコマンドによるWindows Serverバックアップ作成ガイド：ステップバイステップ</u></a></li>
-<li><a href="https://win-data.techidaily.com/complete-guide-securing-data-deletion-from-flash-drives-in-windows-version-10-and-11/"><u>Complete Guide: Securing Data Deletion From Flash Drives in Windows (Version 10 & 11)</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/comprehensive-guide-understanding-the-features-and-capabilities-of-aomei-backupper-on-macos/"><u>Comprehensive Guide: Understanding the Features and Capabilities of AOMEI Backupper on macOS</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-hot-40-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix Hot 40 Pro to iPod | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-taming-your-sql-server-transaction-log-growth/"><u>Step-by-Step Guide: Taming Your SQL Server Transaction Log Growth</u></a></li>
-<li><a href="https://win-data.techidaily.com/topo-6-herramientas-de-respaldo-sin-costo-para-dispositivos-ios-en-pc-con-windows-2024/"><u>Topo 6 Herramientas De Respaldo Sin Costo Para Dispositivos iOS en PC Con Windows - 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/unexplored-instagram-tricks-for-enhanced-engagement/"><u>Unexplored Instagram Tricks for Enhanced Engagement</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-leading-tweeters-choice-youtube-to-twitter-for-2024/"><u>[New] Leading Tweeters' Choice YouTube to Twitter for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pedal-power-parade-of-playtime-for-2024/"><u>[New] Pedal Power Parade of Playtime for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-leveraging-instagrams-music-icon-feature-effectively/"><u>[Updated] 2024 Approved Leveraging Instagram’s Music Icon Feature Effectively</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-asserting-ownership-on-social-platforms-instagrams-watermarking-secrets-for-2024/"><u>[Updated] Asserting Ownership on Social Platforms Instagram's Watermarking Secrets for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discord-broadcasting-the-essential-checklist-for-successful-streaming-for-2024/"><u>[Updated] Discord Broadcasting The Essential Checklist for Successful Streaming for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/mybook/"><u>恢复碎片区的详解 - MyBook学习方法</u></a></li>
+<li><a href="https://win-data.techidaily.com/windows-111346499-6/"><u>如何克服Windows 11系統更新鎖定在1%、34%、64%及99%時的困境 -提供6點解救方案!</u></a></li>
+<li><a href="https://win-data.techidaily.com/discover-7-fixes-for-missing-desktop-content-in-windows-11/"><u>Discover 7 Fixes for Missing Desktop Content in Windows 11</u></a></li>
+<li><a href="https://win-data.techidaily.com/erleichternde-schritte-zum-abrufen-von-google-drive-dokumenten-im-offline-modus-zwei-ansatze-erklart/"><u>Erleichternde Schritte Zum Abrufen Von Google Drive Dokumenten Im Offline-Modus: Zwei Ansätze Erklärt</u></a></li>
+<li><a href="https://win-data.techidaily.com/guide-infalsifiable-transferez-en-toute-securite-votre-pc-windows/"><u>Guide Infalsifiable : Transférez en Toute Sécurité Votre PC Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-correctly-resolve-msvcr100dll-errors-on-your-computer/"><u>How to Correctly Resolve MSVCR100.DLL Errors on Your Computer</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/katastrophenevakuierung-fur-ihren-pc-wie-man-mit-einem-bootable-medium-vorbereitet/"><u>Katastrophenevakuierung Für Ihren PC – Wie Man Mit Einem Bootable-Medium Vorbereitet</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/leveraging-cookiebot-technology-for-advanced-website-personalization-and-analytics/"><u>Leveraging Cookiebot Technology for Advanced Website Personalization & Analytics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-art-of-space-arrangement-in-fostering-a-high-performing-team/"><u>The Art of Space Arrangement in Fostering a High-Performing Team</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-rating-crucial-ssd-backups-secure-and-easy-free-software/"><u>Top Rating Crucial SSD Backups - Secure & Easy Free Software</u></a></li>
+<li><a href="https://win-data.techidaily.com/transformation-facile-des-partitions-mbr-vers-gpt-sur-windows-11-guide-detaille/"><u>Transformation Facile Des Partitions MBR Vers GPT Sur Windows 11 - Guide Détaillé</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-affordable-excellence-a-deep-dive-into-dells-lesser-known-laptop-with-impressive-capabilities-insights/"><u>Unveiling Affordable Excellence: A Deep-Dive Into Dell's Lesser-Known Laptop with Impressive Capabilities - Insights</u></a></li>
+<li><a href="https://win-data.techidaily.com/windows-11-update-management-error-fix-organizational-solutions/"><u>Windows 11 Update Management Error Fix - Organizational Solutions</u></a></li>
 </ul></div>
 
