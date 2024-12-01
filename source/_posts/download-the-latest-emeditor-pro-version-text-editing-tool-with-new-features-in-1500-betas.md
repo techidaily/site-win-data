@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest EmEditor Pro Version: Text Editing Tool with New Features in 15.0.0 Betas"
-date: 2024-11-18T22:14:57.208Z
-updated: 2024-11-22T18:50:22.073Z
+date: 2024-11-29T01:43:14.032Z
+updated: 2024-12-01T06:35:16.549Z
 tags:
   - product
 categories:
@@ -28,7 +28,7 @@ Today, we are releasing EmEditor v15.0.0 beta 1.
 Updates from v14.9.3 include:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New General Features
@@ -40,13 +40,17 @@ Updates from v14.9.3 include:
    * The **Find in Files** and **Replace in Files** commands now allow you to specify multiple folders separated by a vertical bar (|).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New Options
    * The new **Custom (in Characters)** box and the **Logical Disjunction (OR) to the Previous Condition** check box was added to the **Advanced Filter** dialog box.  
    * The **Popup if Number of Items Exceeds** text box was added to the **History** tab of the **Customize** dialog box.  
    * The **Browse and Add** command in the menu displayed when you click the **\>** button by the **In Folder** text box in the **Find in Files** and **Replace in Files** dialog boxes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### New Commands
    * Open Workspace  
@@ -55,10 +59,6 @@ Updates from v14.9.3 include:
    * Recent Workspace (multiple items)  
    * Bookmark All (Filter toolbar)  
    * Extract All (Filter toolbar)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Macro New Features
    * The **xBegin** and **xEnd** parameters and the **eeFindLogicalOr** flag were added to the **Filter** method of the **Document** object.  
@@ -79,20 +79,20 @@ March 18, 2015 at 8:58 pm [#19930](https://tools.techidaily.com/emeditor/product
 [![](https://secure.gravatar.com/avatar/a0a6377144ed3636f985d87303f65ed2?s=80&d=identicon&r=g)Yutaka Emura](https://www.emeditor.com/forums/users/yemura/ "View Yutaka Emura's profile")  
 Keymaster  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Today, we are releasing EmEditor v15.0.0 beta 2.  
 Updates from v15.0.0 beta 1 include:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bug Fixes
    * Fixed a certain bug related to embedded newlines in CSV mode when a very large file is opened.  
    * Fixed a certain bug related to multiple folders separated by ‘|’ in the Find in Files dialog box.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### To Download
 <http://files.emeditor.com/beta/emed64%5F14.9.902.exe> (64-bit installer)  
@@ -123,19 +123,18 @@ Viewing 2 posts - 1 through 2 (of 2 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-virtual-conversations-unleashed-with-pc-based-whatsapp-web-chat/"><u>[Updated] 2024 Approved Virtual Conversations Unleashed with PC-Based WhatsApp Web Chat</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-exclusive-list-top-10-live-streaming-networks-ranked-for-2024/"><u>[Updated] Exclusive List Top 10 Live Streaming Networks Ranked for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-real-time-video-conversations-with-whatsapp-web-on-pcs-for-2024/"><u>[Updated] Mastering Real-Time Video Conversations with WhatsApp Web on PCs for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-techniques-for-high-quality-ps3-game-capture-for-2024/"><u>[Updated] Unveiling Techniques for High-Quality PS3 Game Capture for 2024</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/8-proven-methods-to-fix-facetime-problems-on-your-iphone-15141312-a-comprehensive-guide/"><u>8 Proven Methods to Fix FaceTime Problems on Your iPhone 15/14/13/12 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/lenovo-ideapad-330-ssd/"><u>最新セキュリティを備えたLenovo Ideapad 330におすすめ! SSDアップグレードガイド</u></a></li>
-<li><a href="https://win-data.techidaily.com/effective-steps-for-successful-samsung-laptop-restoration-via-boot-mode/"><u>Effective Steps for Successful Samsung Laptop Restoration via Boot Mode</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-max-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro Max iOS? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-exclusive-deals-and-previews-from-creators/"><u>In 2024, Exclusive Deals & Previews From Creators</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-top-youtube-titles-crafted-by-ai/"><u>In 2024, Top YouTube Titles Crafted by AI</u></a></li>
-<li><a href="https://win-data.techidaily.com/mengenali-alat-simplen-untuk-menyeleksi-projek-basis-dalam-eclipse-ide/"><u>Mengenali Alat Simplen Untuk Menyeleksi Projek Basis Dalam Eclipse IDE</u></a></li>
-<li><a href="https://win-data.techidaily.com/missing-pages-alert-error-code-404-detected/"><u>Missing Pages Alert – Error Code 404 Detected</u></a></li>
-<li><a href="https://win-data.techidaily.com/osssd3/"><u>OSを新しいSSDに移動させるための3ステップ方法</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premium-3d-playback-with-superior-blu-ray-systems/"><u>Premium 3D Playback with Superior Blu-Ray Systems</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-cutting-edge-tools-for-seamless-vimeo-video-download/"><u>2024 Approved Cutting-Edge Tools for Seamless Vimeo Video Download</u></a></li>
+<li><a href="https://article-tips.techidaily.com/corporate-crown-best-cloud-keepers/"><u>Corporate Crown Best Cloud Keepers</u></a></li>
+<li><a href="https://win-data.techidaily.com/fehlersuche-mit-sfc-scannow-entdeckt-beschadigte-dateien-wiederherstellung-fur-pc-nutzer/"><u>Fehlersuche Mit SFC Scannow: Entdeckt Beschädigte Dateien, Wiederherstellung Für PC-Nutzer.</u></a></li>
+<li><a href="https://win-data.techidaily.com/guida-alla-perfetta-migratura-del-sistema-operativo-di-samsung-preservando-i-tuoi-dati/"><u>Guida Alla Perfetta Migratura Del Sistema Operativo Di Samsung, Preservando I Tuoi Dati</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-go-2023-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark Go (2023) to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-2023s-leading-cameras-for-samsung-gear-360-successors/"><u>In 2024, 2023'S Leading Cameras for Samsung Gear 360 Successors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-demystifying-the-art-behind-live-video-thumbnails/"><u>In 2024, Demystifying the Art Behind Live Video Thumbnails</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sketchsphere-complete-evaluation-24-edition/"><u>In 2024, SketchSphere Complete Evaluation '24 Edition</u></a></li>
+<li><a href="https://win-data.techidaily.com/le-migliori-soluzioni-software-per-il-backup-e-gestione-delle-email-con-protocollo-imap-top-3-elenco/"><u>Le Migliori Soluzioni Software per Il Backup E Gestione Delle Email Con Protocollo IMAP: Top 3 Elenco</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reinstating-soundscape-troubleshooting-conexant-smartaudio-hd-issues-in-win10/"><u>Reinstating Soundscape: Troubleshooting Conexant SmartAudio HD Issues in Win10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/saving-scenes-a-rundown-of-the-best-facebook-extensions/"><u>Saving Scenes A Rundown of the Best Facebook Extensions</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-retrieving-specific-files-from-your-system-backup/"><u>Step-by-Step Guide: Retrieving Specific Files From Your System Backup</u></a></li>
 </ul></div>
 
