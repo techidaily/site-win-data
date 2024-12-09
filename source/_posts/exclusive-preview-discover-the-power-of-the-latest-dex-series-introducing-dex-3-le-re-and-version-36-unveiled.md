@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Preview: Discover the Power of the Latest DEX Series - Introducing DEX 3 LE, RE & Version 3.6 Unveiled"
-date: 2024-11-27T06:34:13.446Z
-updated: 2024-12-01T07:23:45.149Z
+date: 2024-12-04T10:53:15.964Z
+updated: 2024-12-08T22:55:15.699Z
 tags:
   - product
 categories:
@@ -77,7 +77,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,24 +99,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-breaking-boundaries-with-mini-drones-an-in-depth-analysis-of-dji-spark/"><u>[New] Breaking Boundaries with Mini Drones An In-Depth Analysis of DJI Spark</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-nikon-d-500-4k-dslr-camera-review/"><u>[Updated] 2024 Approved Nikon D 500 4K DSLR Camera Review</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-path-to-larger-video-presentation-in-youtube-for-2024/"><u>[Updated] The Path to Larger Video Presentation in YouTube for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/affordable-lenovo-laptop-options-tailored-for-remote-and-office-use-unveiling-the-1000-deal/"><u>Affordable Lenovo Laptop Options Tailored for Remote & Office Use: Unveiling the $1,000 Deal</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728485287708-asus/"><u>ASUSトラブルシューター・バックアップ計画についての包括的なガイド</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/best-no-cost-dvd-software-for-windows-10-users-your-ultimate-download-guide/"><u>Best No-Cost DVD Software for Windows 10 Users: Your Ultimate Download Guide</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/c-partition-auf-ssd-transferieren-wie-sie-ihre-festplatte-wechseln-konnen-ohne-windows-neu-installieren-zu-mussen/"><u>C-Partition Auf SSD Transferieren - Wie Sie Ihre Festplatte Wechseln Können, Ohne Windows Neu Installieren Zu Müssen</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/download-mp3s-from-keepvid-a-guide-to-converting-youtube-videos-into-music-files/"><u>Download MP3s From KeepVid: A Guide to Converting YouTube Videos Into Music Files</u></a></li>
-<li><a href="https://win-data.techidaily.com/effizientes-datensichern-schritt-fur-schritt-mit-der-aomei-backupper-fur-windows/"><u>Effizientes Datensichern: Schritt-Für-Schritt Mit Der AOMEI Backupper Für Windows</u></a></li>
-<li><a href="https://win-data.techidaily.com/einfache-moglichkeiten-zum-loschen-und-optimieren-nach-einem-windows-10-update-drei-tipps-fur-einen-reibungslosen-prozess/"><u>Einfache Möglichkeiten Zum Löschen Und Optimieren Nach Einem Windows 10 Update - Drei Tipps Für Einen Reibungslosen Prozess</u></a></li>
-<li><a href="https://win-data.techidaily.com/guide-transfert-de-fichiers-a-partir-donedrive-sur-votre-ordinateur-windows-ou-mac/"><u>Guide: Transfert De Fichiers À Partir D'OneDrive Sur Votre Ordinateur Windows Ou Mac</u></a></li>
-<li><a href="https://win-data.techidaily.com/migrateur-windows-10-guide-complet-pour-transferer-et-restaurer-une-image-de-systeme-sur-un-ssd/"><u>Migrateur Windows 10 - Guide Complet Pour Transférer Et Restaurer Une Image De Système Sur Un SSD</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/precise-methods-for-recording-your-facetime-communication/"><u>Precise Methods for Recording Your FaceTime Communication</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unmissable-deal-alert-for-tech-lovers-save-a-whopping-250-on-the-sleek-dell-inspiron-16-inch-2-in-1-notebook-this-black-friday-zdnet/"><u>Unmissable Deal Alert for Tech Lovers! Save a Whopping $250 on the Sleek Dell Inspiron 16-Inch 2-in-1 Notebook This Black Friday | ZDNET</u></a></li>
-<li><a href="https://win-data.techidaily.com/wd-my-cloud-visibility-issues-how-to-resolve-connectivity-problems-with-windows-11/"><u>WD My Cloud Visibility Issues: How to Resolve Connectivity Problems with Windows 11</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728493150047-windows-10/"><u>Windows 10 システムをバックアップしたあとにおかれているエラーが修正されます：解決策集</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728476013585-windows-11-3/"><u>Windows 11用最適な手段で安全かつ迅速にストレージ拡張: 3つのテクニック</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728475786157-windows-11/"><u>Windows 11の「古いシステム」ディレクトリをセキュリティ上正しく処分する手順</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/life-your-legacy-youtube-videos-that-matter/"><u>Your Life, Your Legacy YouTube Videos That Matter.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-copycat-cinema-steps-for-satirical-video-making-for-2024/"><u>[New] Copycat Cinema Steps for Satirical Video Making for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-how-to-toggle-pip-mode-in-ios-a-step-by-step-approach/"><u>[Updated] 2024 Approved How to Toggle PIP Mode in iOS A Step-by-Step Approach</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-get-ahead-with-top-tier-premiere-pro-samples-free-for-2024/"><u>[Updated] Get Ahead with Top-Tier Premiere Pro Samples (Free) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-editing-pro-tips-for-aspiring-sports-video-makers/"><u>[Updated] In 2024, Editing Pro Tips for Aspiring Sports Video Makers</u></a></li>
+<li><a href="https://win-data.techidaily.com/can-you-trust-windows-defender-for-malware-security-insights-from-yl-computing/"><u>Can You Trust Windows Defender for Malware Security? Insights From YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/common-reasons-behind-a-non-starting-computer-and-solutions-by-yl-software-professionals/"><u>Common Reasons Behind a Non-Starting Computer and Solutions by YL Software Professionals</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-y36-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo Y36 Device SIM</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimal-tech-finest-mac-software-for-videography/"><u>In 2024, Optimal Tech Finest Mac Software for Videography</u></a></li>
+<li><a href="https://win-data.techidaily.com/maximizing-pc-performance-essential-tips-for-boosting-your-computers-speed-yl-tech-solutions/"><u>Maximizing PC Performance: Essential Tips for Boosting Your Computer's Speed - YL Tech Solutions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-glare-irregularity-in-notebook-display/"><u>Rectified Glare Irregularity in Notebook Display</u></a></li>
+<li><a href="https://win-data.techidaily.com/solving-hardware-issues-on-your-pc-a-comprehensive-guide-by-yl-computing/"><u>Solving Hardware Issues on Your PC: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/solving-problems-with-your-usb-storage-device-expert-advice-from-yl-software-solutions/"><u>Solving Problems with Your USB Storage Device: Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-updating-your-dell-2330dn-monochrome-printer-driver/"><u>Step-by-Step Guide to Updating Your Dell 2330D/N Monochrome Printer Driver</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-resolving-common-problems-with-your-printer-tech-solutions-by-yl/"><u>Step-by-Step Guide: Resolving Common Problems with Your Printer - Tech Solutions by YL</u></a></li>
+<li><a href="https://win-data.techidaily.com/unveiling-top-reasons-behind-graphics-card-failures-insights-from-yl-computing-and-tech-experts/"><u>Unveiling Top Reasons Behind Graphics Card Failures: Insights From YL Computing and Tech Experts</u></a></li>
 </ul></div>
 

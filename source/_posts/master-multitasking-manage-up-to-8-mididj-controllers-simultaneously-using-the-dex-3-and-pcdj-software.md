@@ -1,7 +1,7 @@
 ---
 title: "Master Multitasking: Manage Up To 8 MIDI/DJ Controllers Simultaneously Using the DEX 3 & PCDJ Software"
-date: 2024-11-26T07:32:42.083Z
-updated: 2024-11-30T20:02:37.320Z
+date: 2024-12-06T03:21:24.978Z
+updated: 2024-12-09T06:06:46.300Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using MIDI LEARN in DEX 3
@@ -45,7 +45,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 _Have questions about using **multiple DJ controllers** with DEX 3 **DJ and Video Mixing Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,18 +67,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/08/multiplecontrollers-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-full-fledged-vsco-editing-encyclopedia/"><u>[New] Full Fledged VSCO Editing Encyclopedia</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-achieve-peak-performance-with-win11-and-zoom-integration/"><u>[Updated] 2024 Approved Achieve Peak Performance with Win11 & Zoom Integration</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-farm-tastic-fun-and-games-top-friendly-farming-titles-for-2024/"><u>[Updated] Farm-Tastic Fun & Games Top Friendly Farming Titles for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/5rc45lmf5yiq6zmk5pah5lu26yen5paw55m854plusplus5rov5ymhic0g5lia6acb5oiq5pys5ywn6lk75oyh5y2x/"><u>永久刪除文件重新發現法則 - 一頁成本免費指南</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/combine-sounds-into-powerpoint-narratives/"><u>Combine Sounds Into PowerPoint Narratives</u></a></li>
-<li><a href="https://win-data.techidaily.com/die-einfache-anleitung-um-sysprep-in-windows-11-zu-verwenden-schritt-fur-schritt/"><u>Die Einfache Anleitung, Um Sysprep in Windows 11 Zu Verwenden - Schritt Für Schritt</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-replace-your-hard-drive-on-windows-11-pcs-effortlessly-and-instantly/"><u>How to Replace Your Hard Drive on Windows 11 PCs Effortlessly and Instantly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-zooming-up-with-fb-live-transforms-broadcasts/"><u>In 2024, How Zooming Up with FB Live Transforms Broadcasts</u></a></li>
-<li><a href="https://win-data.techidaily.com/profi-tricks-zur-wiedergewinnung-verschwundener-festplattenpartitionsdaten-mit-windows-7-entdeckung-empfohlener-methoden/"><u>Profi-Tricks Zur Wiedergewinnung Verschwundener Festplattenpartitionsdaten Mit Windows ˈ7 - Entdeckung Empfohlener Methoden</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-solution-restore-icloud-reminder-synchronization-for-ios-and-macos-users/"><u>Step-by-Step Solution: Restore iCloud Reminder Synchronization for iOS and macOS Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-your-ultimate-guide-to-computer-hardware/"><u>Tom's Tech Review: Your Ultimate Guide to Computer Hardware</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728475573638-windows-11/"><u>セキュリティ確保のもとWindows 11起動時パスワード無効化方法３つ</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-expert-advice-for-embedding-youtube-playlists-with-ease/"><u>[New] 2024 Approved Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-prime-greener-recording-devices-utilization-tips/"><u>[New] In 2024, Prime Greener Recording Devices Utilization Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-optimal-8-capture-tools-without-delay-for-2024/"><u>[New] Optimal 8 Capture Tools Without Delay for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-youtube-followers-surge-top-tips-for-channel-expansion/"><u>2024 Approved YouTube Followers Surge Top Tips for Channel Expansion</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-canon-mx280-printer-drivers-compatible-with-windows-11-8-and-7/"><u>Download Canon MX280 Printer Drivers - Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-data.techidaily.com/exploring-different-strategies-for-efficient-user-account-management-with-yl-computing-solutions/"><u>Exploring Different Strategies for Efficient User Account Management with YL Computing Solutions</u></a></li>
+<li><a href="https://win-data.techidaily.com/fixing-boot-issues-on-your-machine-expert-guidance-by-yl-software/"><u>Fixing Boot Issues on Your Machine: Expert Guidance by YL Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-s21-fe-5g-2023-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy S21 FE 5G (2023) to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-viber-out-calling-app-feedback/"><u>In-Depth Analysis of Viber Out Calling App Feedback</u></a></li>
+<li><a href="https://win-data.techidaily.com/master-the-art-of-modifying-computer-timelines-with-windows-settings-insights-by-yl-computing-solutions/"><u>Master the Art of Modifying Computer Timelines with Windows Settings - Insights by YL Computing Solutions</u></a></li>
+<li><a href="https://win-data.techidaily.com/mastering-the-windows-registry-a-step-by-step-guide-with-the-registry-editor-tech-insights/"><u>Mastering the Windows Registry: A Step-by-Step Guide with the Registry Editor - Tech Insights</u></a></li>
+<li><a href="https://win-tips.techidaily.com/methodik-zum-wiederbeleben-gesprungener-festplattenpartitionen-bei-usb-speichersticks-tipps-und-tricks/"><u>Methodik Zum Wiederbeleben Gesprungener Festplattenpartitionen Bei USB-Speichersticks - Tipps Und Tricks</u></a></li>
+<li><a href="https://win-data.techidaily.com/navigating-crypto-selection-with-yls-innovative-guidance-for-informed-investments/"><u>Navigating Crypto Selection with YL's Innovative Guidance for Informed Investments</u></a></li>
+<li><a href="https://win-data.techidaily.com/pcdj-ready-update-to-dj-software-v3905-dex-3-re-secure-your-free-download-now/"><u>PCDJ-Ready Update to DJ Software v3.9.0.5 DEX 3 RE | Secure Your Free Download Now</u></a></li>
+<li><a href="https://win-data.techidaily.com/personalizing-your-experience-a-look-into-modifying-windows-control-panel-features-with-yl-software-insights/"><u>Personalizing Your Experience: A Look Into Modifying Windows Control Panel Features with YL Software Insights</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/solved-how-to-locate-the-missing-programdata-directory-in-windows-1011/"><u>Solved: How to Locate the Missing ProgramData Directory in Windows 10/11</u></a></li>
+<li><a href="https://win-data.techidaily.com/troubleshooting-steps-when-your-printer-wont-sync-with-the-pc-guidance-from-yl-software-professionals/"><u>Troubleshooting Steps When Your Printer Won't Sync with the PC – Guidance From YL Software Professionals</u></a></li>
+<li><a href="https://win-data.techidaily.com/update-v357-for-pcdjs-dex-3-and-red-mobile-free-download/"><u>Update v3.5.7 for PCDJ's DEX 3 & RED Mobile - Free Download</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-12-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi 12 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

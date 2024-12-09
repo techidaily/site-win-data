@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's New Release: DJ Software, Version 3.10.0.3 (DEX 3 Pro) - Public Beta Now!"
-date: 2024-11-28T23:47:05.888Z
-updated: 2024-11-30T21:21:47.396Z
+date: 2024-12-03T17:44:17.151Z
+updated: 2024-12-09T03:20:52.832Z
 tags:
   - product
 categories:
@@ -43,7 +43,7 @@ _**Happy mixing! #MixEverything**_
 _Have any question or issues running the latest 3.10.0.3 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -65,20 +65,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/04/DEX31003-PUBLICBETA.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-guide-to-fade-out-music-in-premiere-pro/"><u>[New] Guide To Fade Out Music In Premiere Pro</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-reveal-the-disenchanted-instagrams-unfollowers-for-2024/"><u>[New] Reveal the Disenchanted Instagram's Unfollowers for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/44cm44oc44oq44ol44o844og44o744k344oj44oj44km44kz44ou44o844k144o844ot44k544cn44ko44op44o85lplusu5q2j5a6m5lqg5oof5acxic0g5pya57wc54mi/"><u>「ボリューム・シャドウコピーサービス」エラー修正完了情報 - 最終版</u></a></li>
-<li><a href="https://facebook.techidaily.com/banishing-comments-maintaining-content-integrity-on-fb/"><u>Banishing Comments: Maintaining Content Integrity on FB</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/become-an-instagram-reel-guru-with-these-proven-strategies/"><u>Become an Instagram Reel Guru with These Proven Strategies</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/conquering-commercials-dodge-fb-vids/"><u>Conquering Commercials Dodge FB Vids</u></a></li>
-<li><a href="https://win-data.techidaily.com/easy-word-file-recovery-in-windows-using-myrecover-tool/"><u>Easy Word File Recovery in Windows Using MyRecover Tool</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-tips-for-reactivating-an-idevice-with-limited-usability/"><u>Expert Tips for Reactivating an iDevice with Limited Usability</u></a></li>
-<li><a href="https://win-data.techidaily.com/googlewindows-server-2008/"><u>GoogleドライブにWindows Server 2008からファイルをバックアップする方法</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-step-by-step-guide-ps4-gaming-streams-using-obs/"><u>In 2024, Step-by-Step Guide PS4 Gaming Streams Using OBS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nubia-messages-recovery-recover-deleted-messages-from-nubia-by-fonelab-android-recover-messages/"><u>Nubia Messages Recovery - Recover Deleted Messages from Nubia</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/recording-internet-radios-simplified-tips-and-tricks-for-2024/"><u>Recording Internet Radios Simplified Tips and Tricks for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/securing-your-cloud-storage-effortless-methods/"><u>Securing Your Cloud Storage: Effortless Methods</u></a></li>
-<li><a href="https://win-data.techidaily.com/solving-windows-error-cant-format-your-sd-card-discover-the-best-3-methods-to-correct-this-issue/"><u>Solving Windows Error: Can't Format Your SD Card? Discover the Best 3 Methods to Correct This Issue</u></a></li>
-<li><a href="https://win-data.techidaily.com/unreachable-webpage-error-indicates-a-non-existent-online-resource/"><u>Unreachable Webpage Error Indicates a Non-Existent Online Resource</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/apturing-youtube-icons-browser-extension-command-line-and-software-trio/"><u>[New] Capturing Youtube Icons Browser Extension, Command Line & Software Trio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-explore-diverse-backdrops-for-tiktok-videos/"><u>[New] In 2024, Explore Diverse Backdrops for TikTok Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-the-world-of-giant-file-movement-between-iphone-and-macos/"><u>[New] Navigating the World of Giant File Movement Between iPhone and macOS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unveiling-the-game-changer-samsung-ue590-4k-monitor/"><u>[New] Unveiling the Game Changer - Samsung UE590 4K Monitor</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-user-experience-recovering-lost-youtubefb-videos/"><u>[Updated] Enhancing User Experience Recovering Lost YouTube/FB Videos</u></a></li>
+<li><a href="https://win-data.techidaily.com/decoding-scanner-breakdowns-key-factors-leading-to-device-malfunctions-insights-from-yl-software-professionals/"><u>Decoding Scanner Breakdowns: Key Factors Leading to Device Malfunctions, Insights From YL Software Professionals</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-dock-driver-enhancement-guide/"><u>Efficient Dock Driver Enhancement Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/effortless-transfer-shifting-images-from-smartphone-to-desktop-insights-by-yl-computing/"><u>Effortless Transfer: Shifting Images From Smartphone to Desktop - Insights by YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/exploring-the-ming-dynastys-impact-on-modern-china-societal-progress-and-innovations/"><u>Exploring the Ming Dynasty's Impact on Modern China: Societal Progress and Innovations</u></a></li>
+<li><a href="https://win-data.techidaily.com/high-resolution-birthday-cake-desktop-backgrounds-and-wrappers-premium-hd-imagery-by-yl-computing/"><u>High-Resolution Birthday Cake Desktop Backgrounds & Wrappers: Premium HD Imagery by YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a54-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A54 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-leverage-different-gadgets-recording-and-saving-youtube-livestayere/"><u>In 2024, How To Leverage Different Gadgets Recording and Saving YouTube Livestayere</u></a></li>
+<li><a href="https://win-data.techidaily.com/join-the-party-and-sing-anew-discover-fresh-tracks-from-partytymes-2018-february-and-march-karaoke-collection-start-your-music-journey-today/"><u>Join the Party and Sing Anew: Discover Fresh Tracks From Partytyme's 2018 February & March Karaoke Collection – Start Your Music Journey Today!</u></a></li>
+<li><a href="https://win-data.techidaily.com/top-indian-entrepreneur-priyanka-chopra-unveils-revolutionary-tech-yl-computing-and-yl-software/"><u>Top Indian Entrepreneur Priyanka Chopra Unveils Revolutionary Tech: YL Computing and YL Software</u></a></li>
+<li><a href="https://win-data.techidaily.com/understanding-key-drivers-behind-the-cost-of-digital-currencies-an-in-depth-analysis-by-yl-computing-and-yl-software/"><u>Understanding Key Drivers Behind the Cost of Digital Currencies: An In-Depth Analysis by YL Computing & YL Software</u></a></li>
+<li><a href="https://win-data.techidaily.com/yl-computing-solutions-easy-fixes-for-when-your-scanner-wont-connect-overcoming-common-hardware-challenges/"><u>YL Computing Solutions: Easy Fixes for When Your Scanner Won’t Connect – Overcoming Common Hardware Challenges</u></a></li>
 </ul></div>
 

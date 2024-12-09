@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's LYRX 1.8 Update Now Available: Premium Karaoke Software with Improved Sound Engine + Additional Functions | Secure Installation Offer"
-date: 2024-11-25T22:08:08.876Z
-updated: 2024-12-01T04:01:17.794Z
+date: 2024-12-04T06:09:53.667Z
+updated: 2024-12-08T18:59:00.676Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in LYRX 1.18
@@ -62,7 +62,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 _Have questions about the latest 1.18 version of our **Top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,18 +84,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/08/LYRX18-1.jpg?fit=1900%2C11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-advanced-insights-fullscreen-perfection-with-adobe-premiere/"><u>[New] 2024 Approved Advanced Insights Fullscreen Perfection with Adobe Premiere</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-expanding-photography-quality-for-2024/"><u>[New] Expanding Photography Quality for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-gps-companions-top-10-drones-that-stay-close/"><u>[Updated] GPS Companions Top 10 Drones That Stay Close</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728478929077-aomei-image-deploy/"><u>「セキュリティブートのためにAOMEI Image Deployで安全な画像展開手順」</u></a></li>
-<li><a href="https://win-data.techidaily.com/lenovo-ideapad-330-ssd/"><u>最新セキュリティを備えたLenovo Ideapad 330におすすめ! SSDアップグレードガイド</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210345999-9780744053517-alchemy/"><u>Alchemy | Free Book</u></a></li>
-<li><a href="https://win-data.techidaily.com/data-restoration-techniques-how-to-retrieve-information-from-erased-or-reformatted-drives/"><u>Data Restoration Techniques: How to Retrieve Information From Erased or Reformatted Drives</u></a></li>
-<li><a href="https://common-error.techidaily.com/decode-the-darkness-overcoming-google-chromes-intimidating-black-screen-challenge/"><u>Decode the Darkness: Overcoming Google Chrome's Intimidating Black Screen Challenge</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improve-iphone-performance-with-a-network-settings-reset/"><u>Improve iPhone Performance with a Network Settings Reset</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/lenovo-laptop-sound-fixes-a-comprehensive-solution-guide-for-no-audio-problems/"><u>Lenovo Laptop Sound Fixes: A Comprehensive Solution Guide for No Audio Problems</u></a></li>
-<li><a href="https://win-data.techidaily.com/les-5-solutions-essentielles-pour-resoudre-les-problemes-de-compatibilite-avec-linstallation-de-windows-11-sur-des-ssd/"><u>Les 5 Solutions Essentielles Pour Résoudre Les Problèmes De Compatibilité Avec L'Installation De Windows 11 Sur Des SSD</u></a></li>
-<li><a href="https://win-data.techidaily.com/simplified-guide-quickly-and-effortlessly-imaging-your-hard-drive-on-windows-7/"><u>Simplified Guide: Quickly and Effortlessly Imaging Your Hard Drive on Windows 7</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-revive-freezing-mobile-videos-in-chrome-and-firefox/"><u>[New] In 2024, Revive Freezing Mobile Videos in Chrome and Firefox</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hero-session-generations-compared/"><u>[Updated] Hero Session Generations Compared</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-audience-acclaim-index-worlds-most-engaged-youtubers/"><u>[Updated] In 2024, Audience Acclaim Index World's Most Engaged YouTubers</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-tecno-pova-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Pova 5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/exploring-different-strategies-for-efficient-user-account-management-with-yl-computing-solutions/"><u>Exploring Different Strategies for Efficient User Account Management with YL Computing Solutions</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-can-i-fix-a-sluggish-computer-expert-tips-from-yl-computings-tech-experts/"><u>How Can I Fix a Sluggish Computer? Expert Tips From YL Computing's Tech Experts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-15-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 15 Pro?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-following-review-innovative-outlooks/"><u>In 2024, Following Review Innovative Outlooks</u></a></li>
+<li><a href="https://win-data.techidaily.com/master-the-art-of-modifying-computer-timelines-with-windows-settings-insights-by-yl-computing-solutions/"><u>Master the Art of Modifying Computer Timelines with Windows Settings - Insights by YL Computing Solutions</u></a></li>
+<li><a href="https://win-data.techidaily.com/mastering-blockchain-transactions-your-ultimate-guide-from-buying-and-selling-cryptocurrency-with-yl-software/"><u>Mastering Blockchain Transactions: Your Ultimate Guide From Buying & Selling Cryptocurrency with YL Software</u></a></li>
+<li><a href="https://win-data.techidaily.com/mastering-the-windows-registry-a-step-by-step-guide-with-the-registry-editor-tech-insights/"><u>Mastering the Windows Registry: A Step-by-Step Guide with the Registry Editor - Tech Insights</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Updated In 2024, Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

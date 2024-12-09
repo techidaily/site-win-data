@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Dexon 3.8 Release - Explore DEX 3 Re & Le Versions!"
-date: 2024-11-25T05:23:20.194Z
-updated: 2024-11-30T22:09:21.175Z
+date: 2024-12-08T03:50:08.800Z
+updated: 2024-12-09T10:28:41.660Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Version 3.8 0f DEX 3 RE (Red Edition) and DEX 3 LE (Free DJ software) is foundat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In Version 3.8
@@ -65,7 +65,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install Version 3.8 of DEX 3 RE from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,22 +87,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/v38dex3rele-cover.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-stable-shootings-top-brands-for-online-filmmaking/"><u>[New] Stable Shootings - Top Brands for Online Filmmaking</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-your-guide-to-the-essentials-of-youtube-tv-usage/"><u>[Updated] In 2024, Your Guide to the Essentials of YouTube TV Usage</u></a></li>
-<li><a href="https://win-data.techidaily.com/44cm44oc44oq44ol44o844og44o744k344oj44oj44km44kz44ou44o844k144o844ot44k544cn44ko44op44o85lplusu5q2j5a6m5lqg5oof5acxic0g5pya57wc54mi/"><u>「ボリューム・シャドウコピーサービス」エラー修正完了情報 - 最終版</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-free-download-comprehensive-collection-of-eye-disorder-diagnosis-videos-including-detailed-roots-and-slide-lamp-studies/"><u>1. Free Download: Comprehensive Collection of Eye Disorder Diagnosis Videos - Including Detailed Roots and Slide Lamp Studies</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oneplus-12-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721422286358-checkmarks-cleared-on-tweet-linus-hacks-revealed-trojans-deciphered-and-ai-conundrums-in-chatgpt/"><u>Checkmarks Cleared on Tweet, Linus Hacks Revealed, Trojans Deciphered, & AI Conundrums in ChatGPT</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/clearing-focus-techniques-for-blurring-meeting-backdrops/"><u>Clearing Focus Techniques for Blurring Meeting Backdrops</u></a></li>
-<li><a href="https://win-data.techidaily.com/come-clonare-ununita-hd-su-ssd-senza-utilizzo-del-cavo-sata-e-collegamento-via-usb/"><u>Come Clonare Un'unità HD Su SSD Senza Utilizzo Del Cavo SATA E Collegamento via USB</u></a></li>
-<li><a href="https://win-data.techidaily.com/easy-word-file-recovery-in-windows-using-myrecover-tool/"><u>Easy Word File Recovery in Windows Using MyRecover Tool</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-youtube-shorts-mastery-quick-thumbnail-updates-made-simple/"><u>In 2024, YouTube Shorts Mastery Quick Thumbnail Updates Made Simple</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-your-message-memes-on-kapwing-pro/"><u>Master Your Message Memes on Kapwing Pro</u></a></li>
-<li><a href="https://win-data.techidaily.com/navigating-digital-dead-ends-decoding-http-status-code-404/"><u>Navigating Digital Dead Ends: Decoding HTTP Status Code 404</u></a></li>
-<li><a href="https://win-data.techidaily.com/securing-your-cloud-storage-effortless-methods/"><u>Securing Your Cloud Storage: Effortless Methods</u></a></li>
-<li><a href="https://win-data.techidaily.com/the-ultimate-guide-top-4-techniques-for-archiving-your-iphones-voice-memos/"><u>The Ultimate Guide: Top 4 Techniques for Archiving Your iPhone's Voice Memos</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unleash-your-creativity-the-top-5-hd-video-editing-solutions/"><u>Updated In 2024, Unleash Your Creativity The Top 5 HD Video Editing Solutions</u></a></li>
-<li><a href="https://win-data.techidaily.com/windows-7-2/"><u>Windows 7回復メディア作り - 便利な2コツ</u></a></li>
-<li><a href="https://win-data.techidaily.com/shag-za-shagom-nastrojka-tpm-20-dlya-uspeshnogo-perehoda-k-windows-11-polnoe-rukovodstvo/"><u>Шаг За Шагом: Настройка TPM 2.0 Для Успешного Перехода К Windows 11 - Полное Руководство</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-craft-instagram-visuals-mac-techniques-for-video-scaling/"><u>[New] Craft Instagram Visuals Mac Techniques for Video Scaling</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-engaging-content-streamlining-video-edits-on-windows-for-2024/"><u>[New] From Raw Footage to Engaging Content Streamlining Video Edits on Windows for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-harness-ease-of-video-editing-on-windows-11/"><u>[Updated] In 2024, Harness Ease of Video Editing on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-most-popular-oculus-rift-experiences-for-gamers/"><u>[Updated] Most Popular Oculus Rift Experiences for Gamers</u></a></li>
+<li><a href="https://win-data.techidaily.com/a-step-by-step-guide-to-tweaking-your-windows-defender-configuration-tips-from-yl-software/"><u>A Step-by-Step Guide to Tweaking Your Windows Defender Configuration - Tips From YL Software</u></a></li>
+<li><a href="https://win-data.techidaily.com/celebrating-the-champion-declaring-victory-for-the-pioneer-ddj-sb3-in-professional-djing-competition/"><u>Celebrating the Champion: Declaring Victory for the Pioneer DDJ-SB3 in Professional DJing Competition</u></a></li>
+<li><a href="https://win-data.techidaily.com/demystifying-system-settings-with-registry-keys-a-guide-by-yl-computing-professionals/"><u>Demystifying System Settings with Registry Keys: A Guide by YL Computing Professionals</u></a></li>
+<li><a href="https://win-data.techidaily.com/enhance-your-karaoke-experience-updated-karaoki-support-for-karaoke-cloud-pro-users/"><u>Enhance Your Karaoke Experience: Updated Karaoki Support for Karaoke Cloud Pro Users!</u></a></li>
+<li><a href="https://win-data.techidaily.com/essential-guide-streamlining-your-app-management-via-windows-control-panel-tips-from-yl-computing/"><u>Essential Guide: Streamlining Your App Management via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-20plus-creative-photo-collage-ideas-to-light-up-your-life/"><u>In 2024, 20+ Creative Photo Collage Ideas to Light Up Your Life</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-not-syncing-with-laptop-discover-these-quick-fixes/"><u>IPhone Not Syncing with Laptop? Discover These Quick Fixes!</u></a></li>
+<li><a href="https://win-data.techidaily.com/is-your-pc-underperforming-discover-diagnostic-steps-with-yl-software/"><u>Is Your PC Underperforming? Discover Diagnostic Steps with YL Software</u></a></li>
+<li><a href="https://win-data.techidaily.com/solving-mouse-malfunctions-effective-strategies-by-yl-software-experts/"><u>Solving Mouse Malfunctions: Effective Strategies by YL Software Experts</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95950870-9781856753470-the-book-of-chakra-healing/"><u>The Book of Chakra Healing | Free Book</u></a></li>
+<li><a href="https://win-data.techidaily.com/troubleshooting-a-non-functional-scanner-expert-advice-from-yl-computings-tech-experts/"><u>Troubleshooting a Non-Functional Scanner: Expert Advice From YL Computing's Tech Experts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/understanding-the-av1-standard-comparing-benefits-and-drawbacks-with-hevc-and-vvc/"><u>Understanding the AV1 Standard: Comparing Benefits & Drawbacks with HEVC & VVC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-of-your-ai-journey-with-claude-3/"><u>Unveiling the Potential of Your AI Journey with Claude 3</u></a></li>
+<li><a href="https://discover-best.techidaily.com/yl-software-and-the-art-of-standards-in-blockchain-tech-interactive-webinar-on-coding-excellence/"><u>YL Software & The Art of Standards in Blockchain Tech – Interactive Webinar on Coding Excellence</u></a></li>
+<li><a href="https://win-data.techidaily.com/yl-software-insights-mastering-mouse-preferences-on-windows-and-mac-os/"><u>YL Software Insights: Mastering Mouse Preferences on Windows and Mac OS</u></a></li>
 </ul></div>
 
