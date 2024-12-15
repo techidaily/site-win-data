@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's LYRX 1.8 Update Now Available: Premium Karaoke Software with Improved Sound Engine + Additional Functions | Secure Installation Offer"
-date: 2024-12-04T06:09:53.667Z
-updated: 2024-12-08T18:59:00.676Z
+date: 2024-12-07T20:25:14.470Z
+updated: 2024-12-15T12:50:14.637Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in LYRX 1.18
@@ -62,7 +62,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 _Have questions about the latest 1.18 version of our **Top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,18 +84,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/08/LYRX18-1.jpg?fit=1900%2C11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-revive-freezing-mobile-videos-in-chrome-and-firefox/"><u>[New] In 2024, Revive Freezing Mobile Videos in Chrome and Firefox</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hero-session-generations-compared/"><u>[Updated] Hero Session Generations Compared</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-audience-acclaim-index-worlds-most-engaged-youtubers/"><u>[Updated] In 2024, Audience Acclaim Index World's Most Engaged YouTubers</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-pova-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Pova 5 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/exploring-different-strategies-for-efficient-user-account-management-with-yl-computing-solutions/"><u>Exploring Different Strategies for Efficient User Account Management with YL Computing Solutions</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-can-i-fix-a-sluggish-computer-expert-tips-from-yl-computings-tech-experts/"><u>How Can I Fix a Sluggish Computer? Expert Tips From YL Computing's Tech Experts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-apple-iphone-15-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On Apple iPhone 15 Pro?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-following-review-innovative-outlooks/"><u>In 2024, Following Review Innovative Outlooks</u></a></li>
-<li><a href="https://win-data.techidaily.com/master-the-art-of-modifying-computer-timelines-with-windows-settings-insights-by-yl-computing-solutions/"><u>Master the Art of Modifying Computer Timelines with Windows Settings - Insights by YL Computing Solutions</u></a></li>
-<li><a href="https://win-data.techidaily.com/mastering-blockchain-transactions-your-ultimate-guide-from-buying-and-selling-cryptocurrency-with-yl-software/"><u>Mastering Blockchain Transactions: Your Ultimate Guide From Buying & Selling Cryptocurrency with YL Software</u></a></li>
-<li><a href="https://win-data.techidaily.com/mastering-the-windows-registry-a-step-by-step-guide-with-the-registry-editor-tech-insights/"><u>Mastering the Windows Registry: A Step-by-Step Guide with the Registry Editor - Tech Insights</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-in-2024-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Updated In 2024, Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-windows-10-users-guide-to-microphones/"><u>[New] 2024 Approved The Windows 10 User's Guide to Microphones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-designing-the-ideal-youtube-playlist-for-you/"><u>[Updated] 2024 Approved Designing the Ideal YouTube Playlist for You</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mi-11-tech-specs-unveiled-with-advanced-screen-capture/"><u>[Updated] 2024 Approved Mi 11 Tech Specs Unveiled with Advanced Screen Capture</u></a></li>
+<li><a href="https://win-data.techidaily.com/dex-3-expert-guide-how-to-customize-your-audio-edits-with-waveform-hues/"><u>DEX 3 Expert Guide: How To Customize Your Audio Edits With Waveform Hues</u></a></li>
+<li><a href="https://win-data.techidaily.com/enhance-computer-efficiency-with-a-memory-upgrade-tips-and-tricks-by-yl-technology-experts/"><u>Enhance Computer Efficiency with a Memory Upgrade: Tips and Tricks by YL Technology Experts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-6s-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 6s</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/setting-up-dual-or-multi-monitor-configurations-on-windows-10-a-step-by-step-guide/"><u>Setting Up Dual or Multi-Monitor Configurations on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/strategic-expansion-us-plans-massive-drone-fleet-deployment-within-two-years-to-offset-chinese-military-prowess/"><u>Strategic Expansion: U.S. Plans Massive Drone Fleet Deployment Within Two Years to Offset Chinese Military Prowess</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ranscription-services-for-video-content/"><u>Top Transcription Services for Video Content</u></a></li>
 </ul></div>
 

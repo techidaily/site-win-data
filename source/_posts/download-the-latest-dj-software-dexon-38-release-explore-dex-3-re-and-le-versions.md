@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Dexon 3.8 Release - Explore DEX 3 Re & Le Versions!"
-date: 2024-12-08T03:50:08.800Z
-updated: 2024-12-09T10:28:41.660Z
+date: 2024-12-12T11:24:22.005Z
+updated: 2024-12-14T21:37:54.884Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Version 3.8 0f DEX 3 RE (Red Edition) and DEX 3 LE (Free DJ software) is foundat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In Version 3.8
@@ -65,7 +65,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install Version 3.8 of DEX 3 RE from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,24 +87,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/v38dex3rele-cover.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-craft-instagram-visuals-mac-techniques-for-video-scaling/"><u>[New] Craft Instagram Visuals Mac Techniques for Video Scaling</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-engaging-content-streamlining-video-edits-on-windows-for-2024/"><u>[New] From Raw Footage to Engaging Content Streamlining Video Edits on Windows for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-harness-ease-of-video-editing-on-windows-11/"><u>[Updated] In 2024, Harness Ease of Video Editing on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-most-popular-oculus-rift-experiences-for-gamers/"><u>[Updated] Most Popular Oculus Rift Experiences for Gamers</u></a></li>
-<li><a href="https://win-data.techidaily.com/a-step-by-step-guide-to-tweaking-your-windows-defender-configuration-tips-from-yl-software/"><u>A Step-by-Step Guide to Tweaking Your Windows Defender Configuration - Tips From YL Software</u></a></li>
-<li><a href="https://win-data.techidaily.com/celebrating-the-champion-declaring-victory-for-the-pioneer-ddj-sb3-in-professional-djing-competition/"><u>Celebrating the Champion: Declaring Victory for the Pioneer DDJ-SB3 in Professional DJing Competition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/20-most-popular-memes-on-reddit-and-twitter-for-2024/"><u>20 Most Popular Memes on Reddit and Twitter for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-snapping-success-the-best-4-methods-for-chrome-os-screenshots/"><u>2024 Approved Snapping Success The Best 4 Methods for Chrome OS Screenshots</u></a></li>
 <li><a href="https://win-data.techidaily.com/demystifying-system-settings-with-registry-keys-a-guide-by-yl-computing-professionals/"><u>Demystifying System Settings with Registry Keys: A Guide by YL Computing Professionals</u></a></li>
-<li><a href="https://win-data.techidaily.com/enhance-your-karaoke-experience-updated-karaoki-support-for-karaoke-cloud-pro-users/"><u>Enhance Your Karaoke Experience: Updated Karaoki Support for Karaoke Cloud Pro Users!</u></a></li>
-<li><a href="https://win-data.techidaily.com/essential-guide-streamlining-your-app-management-via-windows-control-panel-tips-from-yl-computing/"><u>Essential Guide: Streamlining Your App Management via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-20plus-creative-photo-collage-ideas-to-light-up-your-life/"><u>In 2024, 20+ Creative Photo Collage Ideas to Light Up Your Life</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-not-syncing-with-laptop-discover-these-quick-fixes/"><u>IPhone Not Syncing with Laptop? Discover These Quick Fixes!</u></a></li>
-<li><a href="https://win-data.techidaily.com/is-your-pc-underperforming-discover-diagnostic-steps-with-yl-software/"><u>Is Your PC Underperforming? Discover Diagnostic Steps with YL Software</u></a></li>
-<li><a href="https://win-data.techidaily.com/solving-mouse-malfunctions-effective-strategies-by-yl-software-experts/"><u>Solving Mouse Malfunctions: Effective Strategies by YL Software Experts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95950870-9781856753470-the-book-of-chakra-healing/"><u>The Book of Chakra Healing | Free Book</u></a></li>
-<li><a href="https://win-data.techidaily.com/troubleshooting-a-non-functional-scanner-expert-advice-from-yl-computings-tech-experts/"><u>Troubleshooting a Non-Functional Scanner: Expert Advice From YL Computing's Tech Experts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/understanding-the-av1-standard-comparing-benefits-and-drawbacks-with-hevc-and-vvc/"><u>Understanding the AV1 Standard: Comparing Benefits & Drawbacks with HEVC & VVC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-of-your-ai-journey-with-claude-3/"><u>Unveiling the Potential of Your AI Journey with Claude 3</u></a></li>
-<li><a href="https://discover-best.techidaily.com/yl-software-and-the-art-of-standards-in-blockchain-tech-interactive-webinar-on-coding-excellence/"><u>YL Software & The Art of Standards in Blockchain Tech – Interactive Webinar on Coding Excellence</u></a></li>
-<li><a href="https://win-data.techidaily.com/yl-software-insights-mastering-mouse-preferences-on-windows-and-mac-os/"><u>YL Software Insights: Mastering Mouse Preferences on Windows and Mac OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-secure-your-amd-rx-580-drivers-today-step-by-step-guide/"><u>Effortless Installation: Secure Your AMD RX 580 Drivers Today - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/enhancing-your-dj-laptop-strategies-for-seamless-video-remixes-with-pcdj-software/"><u>Enhancing Your DJ Laptop: Strategies for Seamless Video Remixes with PCDJ Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/evil-genius-2-no-audio-heres-how-you-can-get-sound-back/"><u>Evil Genius 2 No Audio? Here's How You Can Get Sound Back!</u></a></li>
+<li><a href="https://win-data.techidaily.com/expert-tips-for-resolving-non-detectable-external-hard-drive-issues-insights-by-yl-software-experts/"><u>Expert Tips for Resolving Non-Detectable External Hard Drive Issues - Insights by YL Software Experts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-thrills-of-battlebot-warfare-a-comprehensive-review-of-djis-robomaster-s1-drone/"><u>Explore the Thrills of Battlebot Warfare: A Comprehensive Review of DJI's RoboMaster S1 Drone</u></a></li>
+<li><a href="https://win-best.techidaily.com/free-online-converter-transform-gifs-into-3gp-files-expert-tips-with-movavi/"><u>Free Online Converter: Transform GIFs Into 3GP Files - Expert Tips with Movavi</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-fix-blurry-and-blocky-pictures-a-guide-by-yl-computing/"><u>How to Fix Blurry and Blocky Pictures: A Guide by YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/losungen-fur-den-fehler-icloud-backup-lauft-nicht/"><u>Lösungen Für Den Fehler - iCloud-Backup Läuft Nicht</u></a></li>
+<li><a href="https://win-data.techidaily.com/overcoming-bsod-issues-top-tips-by-yl-software-for-a-trouble-free-computer-experience/"><u>Overcoming BSOD Issues: Top Tips by YL Software for a Trouble-Free Computer Experience</u></a></li>
+<li><a href="https://win-data.techidaily.com/quick-tips-for-faster-system-initialization-expert-advice-from-yl-software-team/"><u>Quick Tips for Faster System Initialization: Expert Advice From YL Software Team</u></a></li>
+<li><a href="https://win-data.techidaily.com/resolving-input-device-issues-a-comprehveehandling-mousekeyboard-problems-by-yl-software/"><u>Resolving Input Device Issues: A Comprehveehandling Mouse/Keyboard Problems by YL Software</u></a></li>
+<li><a href="https://win-data.techidaily.com/switching-your-pcs-operating-language-a-step-by-step-guide-on-changing-windows-10-settings-yl-solutions/"><u>Switching Your PC's Operating Language: A Step-by-Step Guide on Changing Windows 10 Settings - YL Solutions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-ultimate-guide-to-replacing-bandicam-on-mac-systems/"><u>The Ultimate Guide to Replacing Bandicam on Mac Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-how-to-watch-spider-man-no-way-home-online/"><u>Ultimate Guide: How to Watch 'Spider-Man: No Way Home' Online</u></a></li>
+<li><a href="https://win-data.techidaily.com/yl-computings-expert-guide-how-to-accurately-detect-and-diagnose-computer-hardware-problems/"><u>YL Computing's Expert Guide: How to Accurately Detect and Diagnose Computer Hardware Problems</u></a></li>
 </ul></div>
 

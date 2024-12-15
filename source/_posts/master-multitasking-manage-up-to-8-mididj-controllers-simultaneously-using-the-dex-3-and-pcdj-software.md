@@ -1,7 +1,7 @@
 ---
 title: "Master Multitasking: Manage Up To 8 MIDI/DJ Controllers Simultaneously Using the DEX 3 & PCDJ Software"
-date: 2024-12-06T03:21:24.978Z
-updated: 2024-12-09T06:06:46.300Z
+date: 2024-12-14T13:18:40.718Z
+updated: 2024-12-15T11:33:03.938Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using MIDI LEARN in DEX 3
@@ -45,7 +45,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 _Have questions about using **multiple DJ controllers** with DEX 3 **DJ and Video Mixing Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,24 +67,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/08/multiplecontrollers-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-expert-advice-for-embedding-youtube-playlists-with-ease/"><u>[New] 2024 Approved Expert Advice for Embedding YouTube Playlists with Ease</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-prime-greener-recording-devices-utilization-tips/"><u>[New] In 2024, Prime Greener Recording Devices Utilization Tips</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-optimal-8-capture-tools-without-delay-for-2024/"><u>[New] Optimal 8 Capture Tools Without Delay for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-youtube-followers-surge-top-tips-for-channel-expansion/"><u>2024 Approved YouTube Followers Surge Top Tips for Channel Expansion</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-canon-mx280-printer-drivers-compatible-with-windows-11-8-and-7/"><u>Download Canon MX280 Printer Drivers - Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-video-lighting-ultimate-techniques-for-stunning-visuals/"><u>[New] Masterful Video Lighting Ultimate Techniques for Stunning Visuals</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-softening-effects-in-ableton-live/"><u>[New] Softening Effects in Ableton Live</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/treamlining-short-form-content-leading-edits-for-iosandroid-for-2024/"><u>[New] Streamlining Short-Form Content Leading Edits for iOS/Android for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-mcn-your-comprehensive-youtube-creators-roadmap/"><u>[Updated] 2024 Approved Mastering MCN Your Comprehensive YouTube Creator's Roadmap</u></a></li>
 <li><a href="https://win-data.techidaily.com/exploring-different-strategies-for-efficient-user-account-management-with-yl-computing-solutions/"><u>Exploring Different Strategies for Efficient User Account Management with YL Computing Solutions</u></a></li>
 <li><a href="https://win-data.techidaily.com/fixing-boot-issues-on-your-machine-expert-guidance-by-yl-software/"><u>Fixing Boot Issues on Your Machine: Expert Guidance by YL Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-s21-fe-5g-2023-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy S21 FE 5G (2023) to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-viber-out-calling-app-feedback/"><u>In-Depth Analysis of Viber Out Calling App Feedback</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-can-i-change-brightness-and-contrast-on-my-scanner-tips-by-yl-computing/"><u>How Can I Change Brightness & Contrast on My Scanner? - Tips by YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-can-i-fix-a-sluggish-computer-expert-tips-from-yl-computings-tech-experts/"><u>How Can I Fix a Sluggish Computer? Expert Tips From YL Computing's Tech Experts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/ig-management-made-simple-the-best-tools-reviewed-for-2024/"><u>IG Management Made Simple The Best Tools Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-viewers-to-earnings-youtube-earning-basics/"><u>In 2024, From Viewers to Earnings YouTube Earning Basics</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Poco C51 | Dr.fone</u></a></li>
 <li><a href="https://win-data.techidaily.com/master-the-art-of-modifying-computer-timelines-with-windows-settings-insights-by-yl-computing-solutions/"><u>Master the Art of Modifying Computer Timelines with Windows Settings - Insights by YL Computing Solutions</u></a></li>
+<li><a href="https://win-data.techidaily.com/mastering-blockchain-transactions-your-ultimate-guide-from-buying-and-selling-cryptocurrency-with-yl-software/"><u>Mastering Blockchain Transactions: Your Ultimate Guide From Buying & Selling Cryptocurrency with YL Software</u></a></li>
 <li><a href="https://win-data.techidaily.com/mastering-the-windows-registry-a-step-by-step-guide-with-the-registry-editor-tech-insights/"><u>Mastering the Windows Registry: A Step-by-Step Guide with the Registry Editor - Tech Insights</u></a></li>
-<li><a href="https://win-tips.techidaily.com/methodik-zum-wiederbeleben-gesprungener-festplattenpartitionen-bei-usb-speichersticks-tipps-und-tricks/"><u>Methodik Zum Wiederbeleben Gesprungener Festplattenpartitionen Bei USB-Speichersticks - Tipps Und Tricks</u></a></li>
-<li><a href="https://win-data.techidaily.com/navigating-crypto-selection-with-yls-innovative-guidance-for-informed-investments/"><u>Navigating Crypto Selection with YL's Innovative Guidance for Informed Investments</u></a></li>
-<li><a href="https://win-data.techidaily.com/pcdj-ready-update-to-dj-software-v3905-dex-3-re-secure-your-free-download-now/"><u>PCDJ-Ready Update to DJ Software v3.9.0.5 DEX 3 RE | Secure Your Free Download Now</u></a></li>
 <li><a href="https://win-data.techidaily.com/personalizing-your-experience-a-look-into-modifying-windows-control-panel-features-with-yl-software-insights/"><u>Personalizing Your Experience: A Look Into Modifying Windows Control Panel Features with YL Software Insights</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/solved-how-to-locate-the-missing-programdata-directory-in-windows-1011/"><u>Solved: How to Locate the Missing ProgramData Directory in Windows 10/11</u></a></li>
 <li><a href="https://win-data.techidaily.com/troubleshooting-steps-when-your-printer-wont-sync-with-the-pc-guidance-from-yl-software-professionals/"><u>Troubleshooting Steps When Your Printer Won't Sync with the PC – Guidance From YL Software Professionals</u></a></li>
-<li><a href="https://win-data.techidaily.com/update-v357-for-pcdjs-dex-3-and-red-mobile-free-download/"><u>Update v3.5.7 for PCDJ's DEX 3 & RED Mobile - Free Download</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-12-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi 12 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 
