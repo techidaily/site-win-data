@@ -1,7 +1,7 @@
 ---
 title: "Master Multitasking: Manage Up To 8 MIDI/DJ Controllers Simultaneously Using the DEX 3 & PCDJ Software"
-date: 2024-12-14T13:18:40.718Z
-updated: 2024-12-15T11:33:03.938Z
+date: 2024-12-19T06:50:17.559Z
+updated: 2024-12-24T06:57:27.065Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using MIDI LEARN in DEX 3
@@ -45,7 +45,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 _Have questions about using **multiple DJ controllers** with DEX 3 **DJ and Video Mixing Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,22 +67,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/08/multiplecontrollers-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-masterful-video-lighting-ultimate-techniques-for-stunning-visuals/"><u>[New] Masterful Video Lighting Ultimate Techniques for Stunning Visuals</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-softening-effects-in-ableton-live/"><u>[New] Softening Effects in Ableton Live</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/treamlining-short-form-content-leading-edits-for-iosandroid-for-2024/"><u>[New] Streamlining Short-Form Content Leading Edits for iOS/Android for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-mcn-your-comprehensive-youtube-creators-roadmap/"><u>[Updated] 2024 Approved Mastering MCN Your Comprehensive YouTube Creator's Roadmap</u></a></li>
-<li><a href="https://win-data.techidaily.com/exploring-different-strategies-for-efficient-user-account-management-with-yl-computing-solutions/"><u>Exploring Different Strategies for Efficient User Account Management with YL Computing Solutions</u></a></li>
-<li><a href="https://win-data.techidaily.com/fixing-boot-issues-on-your-machine-expert-guidance-by-yl-software/"><u>Fixing Boot Issues on Your Machine: Expert Guidance by YL Software</u></a></li>
-<li><a href="https://fox-where.techidaily.com/how-can-i-change-brightness-and-contrast-on-my-scanner-tips-by-yl-computing/"><u>How Can I Change Brightness & Contrast on My Scanner? - Tips by YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-can-i-fix-a-sluggish-computer-expert-tips-from-yl-computings-tech-experts/"><u>How Can I Fix a Sluggish Computer? Expert Tips From YL Computing's Tech Experts</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/ig-management-made-simple-the-best-tools-reviewed-for-2024/"><u>IG Management Made Simple The Best Tools Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-from-viewers-to-earnings-youtube-earning-basics/"><u>In 2024, From Viewers to Earnings YouTube Earning Basics</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/master-the-art-of-modifying-computer-timelines-with-windows-settings-insights-by-yl-computing-solutions/"><u>Master the Art of Modifying Computer Timelines with Windows Settings - Insights by YL Computing Solutions</u></a></li>
-<li><a href="https://win-data.techidaily.com/mastering-blockchain-transactions-your-ultimate-guide-from-buying-and-selling-cryptocurrency-with-yl-software/"><u>Mastering Blockchain Transactions: Your Ultimate Guide From Buying & Selling Cryptocurrency with YL Software</u></a></li>
-<li><a href="https://win-data.techidaily.com/mastering-the-windows-registry-a-step-by-step-guide-with-the-registry-editor-tech-insights/"><u>Mastering the Windows Registry: A Step-by-Step Guide with the Registry Editor - Tech Insights</u></a></li>
-<li><a href="https://win-data.techidaily.com/personalizing-your-experience-a-look-into-modifying-windows-control-panel-features-with-yl-software-insights/"><u>Personalizing Your Experience: A Look Into Modifying Windows Control Panel Features with YL Software Insights</u></a></li>
-<li><a href="https://win-data.techidaily.com/troubleshooting-steps-when-your-printer-wont-sync-with-the-pc-guidance-from-yl-software-professionals/"><u>Troubleshooting Steps When Your Printer Won't Sync with the PC – Guidance From YL Software Professionals</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-pro-tech-reviews-sharex-and-more/"><u>[New] Pro Tech Reviews ShareX & More</u></a></li>
+<li><a href="https://discover-able.techidaily.com/crystal-clear-hd-diamond-precipitation-wallpaper-cycle-crafted-by-yl-computing/"><u>Crystal Clear HD Diamond Precipitation Wallpaper Cycle - Crafted by YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/discover-how-to-find-and-adjust-your-control-panel-settings-on-windows-os-with-yl-computings-expert-guide/"><u>Discover How to Find and Adjust Your Control Panel Settings on Windows OS with YL Computing's Expert Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-spotifys-top-10-chart-toppers/"><u>In 2024, Spotify’s Top 10 Chart-Toppers</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-next-frontier-of-computers-with-ai/"><u>Navigating the Next Frontier of Computers with AI</u></a></li>
+<li><a href="https://win-data.techidaily.com/troubleshooting-how-to-fix-a-printer-that-cant-read-your-papers-insights-from-yl-computing/"><u>Troubleshooting: How to Fix a Printer That Can't Read Your Papers - Insights From YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/understanding-memory-issues-when-should-you-upgrade-your-ram-expert-advice-by-yl-software/"><u>Understanding Memory Issues: When Should You Upgrade Your RAM? Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-data.techidaily.com/understanding-the-most-frequent-reasons-behind-graphics-card-malfunctions-insights-from-yl-computing/"><u>Understanding the Most Frequent Reasons Behind Graphics Card Malfunctions: Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/user-experience-with-lg-dualview-display-adaptation-to-the-169-aspect-ratio-insights-from-zdnets-editor/"><u>User Experience with LG DualView Display: Adaptation to the 16:9 Aspect Ratio - Insights From ZDNet's Editor</u></a></li>
 </ul></div>
 
