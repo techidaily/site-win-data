@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Preview: Discover the Power of the Latest DEX Series - Introducing DEX 3 LE, RE & Version 3.6 Unveiled"
-date: 2024-12-18T05:26:08.310Z
-updated: 2024-12-24T05:52:07.792Z
+date: 2024-12-23T18:35:53.811Z
+updated: 2024-12-29T23:35:52.703Z
 tags:
   - product
 categories:
@@ -77,7 +77,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,18 +99,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-friends-evaporation-identify-now-for-2024/"><u>[New] Instagram Friends Evaporation Identify Now for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-per-view-value-to-youtube-star-economy/"><u>[Updated] Per-View Value to YouTube Star Economy</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-fb-video-quick-subtitle-and-caption-creation-guide/"><u>2024 Approved Mastering FB Video Quick Subtitle & Caption Creation Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-revive-your-missing-iphone-x-crucial-tips-revealed/"><u>2024 Approved Revive Your Missing iPhone X Crucial Tips Revealed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-honor-100-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Honor 100 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/becoming-an-in-demand-wedding-dj-5-essential-tips-and-tricks-for-bookings/"><u>Becoming an In-Demand Wedding DJ: 5 Essential Tips and Tricks for Bookings</u></a></li>
-<li><a href="https://win-data.techidaily.com/easily-configure-your-pcs-internet-settings-with-windows-control-panel-a-step-by-step-guide-by-yl-software/"><u>Easily Configure Your PC's Internet Settings with Windows Control Panel - A Step-by-Step Guide by YL Software</u></a></li>
-<li><a href="https://win-data.techidaily.com/essential-routine-upkeep-practices-to-ensure-your-systems-optimal-performance-expert-advice-from-yl-computing/"><u>Essential Routine Upkeep Practices to Ensure Your System's Optimal Performance - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/finding-the-ideal-crypto-exchange-expert-tips-from-yl-software/"><u>Finding the Ideal Crypto Exchange: Expert Tips From YL Software</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-inspirational-insta-captions-to-elevate-your-social-presence/"><u>In 2024, Inspirational Insta Captions to Elevate Your Social Presence</u></a></li>
-<li><a href="https://win-data.techidaily.com/optimize-your-pcs-performance-by-managing-background-applications-guidance-by-yl-systems-analytics/"><u>Optimize Your PC's Performance by Managing Background Applications - Guidance by YL Systems Analytics</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resizing-large-screen-size-in-win11/"><u>Resizing Large Screen Size in Win11</u></a></li>
-<li><a href="https://win-data.techidaily.com/ultimate-tips-for-customizing-your-data-security-in-windows-10-with-yl/"><u>Ultimate Tips for Customizing Your Data Security in Windows 10 with YL</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-seamless-timelapse-footage-with-ios-technology/"><u>[New] 2024 Approved Seamless Timelapse Footage with iOS Technology</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-techs-leading-edge-in-video-capturing-software/"><u>[Updated] 2024 Approved Tech's Leading Edge in Video Capturing Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-10-gimbals-elevating-dsrl-cinematic-results-for-2024/"><u>[Updated] Top 10 Gimbals Elevating DSRL Cinematic Results for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/access-and-modify-windows-control-panel-options-efficiently-with-our-comprehensive-tutorial-yl-computing-expertise/"><u>Access & Modify Windows Control Panel Options Efficiently with Our Comprehensive Tutorial - YL Computing Expertise</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/crafting-your-israeli-journey-essential-tips-and-practical-language-skills/"><u>Crafting Your Israeli Journey: Essential Tips & Practical Language Skills</u></a></li>
+<li><a href="https://win-data.techidaily.com/decoding-computer-glitches-the-top-reasons-behind-frequent-freezes-explained-by-yl-software-experts/"><u>Decoding Computer Glitches: The Top Reasons Behind Frequent Freezes Explained by YL Software Experts</u></a></li>
+<li><a href="https://win-data.techidaily.com/detecting-and-diagnosing-hardware-problems-in-windows-a-comprehensive-guide-by-yl-computing/"><u>Detecting and Diagnosing Hardware Problems in Windows - A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/essential-pc-upkeep-tips-how-to-ensure-optimal-performance-with-regular-care-yl-software-solutions/"><u>Essential PC Upkeep Tips: How to Ensure Optimal Performance with Regular Care - YL Software Solutions</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-use-your-airpods-pro-a-detailed-walkthrough-of-device-management-innovative-capabilities-and-intuitive-hand-gestures/"><u>How To Use Your AirPods Pro: A Detailed Walkthrough of Device Management, Innovative Capabilities, and Intuitive Hand Gestures</u></a></li>
+<li><a href="https://win-data.techidaily.com/property-giant-country-garden-strategizes-extended-domestic-bond-maturity-to-prevent-first-ever-payment-default/"><u>Property Giant Country Garden Strategizes Extended Domestic Bond Maturity to Prevent First-Ever Payment Default</u></a></li>
+<li><a href="https://win-data.techidaily.com/resolving-windows-updates-issues-expert-tips-from-yl-software-your-guide-by-yl-computing/"><u>Resolving Windows Updates Issues: Expert Tips From YL Software - Your Guide by YL Computing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/screen-shaping-success-in-windows-11/"><u>Screen Shaping Success in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sneak-peeks-stopped-safeguarding-chatbot-data/"><u>Sneak Peeks Stopped: Safeguarding Chatbot Data</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-no-cost-high-quality-srt-editors/"><u>The Ultimate Guide to No-Cost, High-Quality Srt Editors</u></a></li>
+<li><a href="https://win-data.techidaily.com/the-ultimate-techniques-for-relocating-files-in-windows-os-featuring-insights-from-yl-computings-expertise/"><u>The Ultimate Techniques for Relocating Files in Windows OS, Featuring Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-data.techidaily.com/the-upside-to-sticking-with-desktops-a-deep-dive-by-yl-software-into-pros-and-performance-gains/"><u>The Upside to Sticking with Desktops: A Deep Dive by YL Software Into Pros and Performance Gains</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-5-free-online-gif-to-video-tools-no-downloads-needed-for-2024/"><u>Top 5 Free Online GIF-to-Video Tools (No Downloads Needed) for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/unresponsive-dvd-drive-causes-and-fixes-insights-by-yl-computing/"><u>Unresponsive DVD Drive: Causes and Fixes - Insights by YL Computing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/vero-authors-spotlight-at-snapchat-for-2024/"><u>Vero Authors Spotlight at Snapchat for 2024</u></a></li>
 </ul></div>
 

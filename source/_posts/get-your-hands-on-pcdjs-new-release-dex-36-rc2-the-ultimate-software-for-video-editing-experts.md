@@ -1,7 +1,7 @@
 ---
 title: "Get Your Hands on PCDJ's New Release: DEX 3.6 (RC2) - The Ultimate Software for Video Editing Experts!"
-date: 2024-12-08T06:01:37.860Z
-updated: 2024-12-15T05:07:08.933Z
+date: 2024-12-23T00:36:11.377Z
+updated: 2024-12-30T02:08:25.650Z
 tags:
   - product
 categories:
@@ -59,7 +59,7 @@ Since this is likely going to be the official DEX 3 **DJ and Video Mixing softwa
 _If you have any questions or problems running the DEX 3.6 **VDJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,24 +81,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-rc2-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastering-zoom-segregation-techniques-quickstart/"><u>[New] 2024 Approved Mastering Zoom Segregation Techniques Quickstart</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-effortless-online-transformation-ff-vids-to-mp4-in-high-definition/"><u>[New] In 2024, Effortless Online Transformation FF Vids to MP4 in High Definition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-3d-video-app-for-android-devices/"><u>[New] Premium 3D Video App for Android Devices</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ubscriber-supremacy-leading-youtube-figures-for-2024/"><u>[New] Subscriber Supremacy Leading YouTube Figures for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-speedy-explorer-windows-10-photography-interface/"><u>[Updated] Speedy Explorer - Windows 10 Photography Interface</u></a></li>
-<li><a href="https://games-able.techidaily.com/10-in-popularity-with-pc-gaming-enthusiasts-zdnet/"><u>10 in Popularity with PC Gaming Enthusiasts | ZDNET</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-best-sky-hd-photography-websites/"><u>2024 Approved Explore the Best Sky HD Photography Websites</u></a></li>
-<li><a href="https://win-data.techidaily.com/comparing-digital-assets-how-cryptocurrencies-vary-from-traditional-fiat-money-insights-by-yl-computing/"><u>Comparing Digital Assets: How Cryptocurrencies Vary From Traditional Fiat Money - Insights by YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/decoding-rtx-technology-in-modern-gpus-by-nvidia/"><u>Decoding RTX Technology in Modern GPUs by NVIDIA</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-uag-devices-with-durable-apple-watch-bands-and-protective-samsung-z-fold-4-cases-explore-top-picks-on-zdnet/"><u>Enhance Your UAG Devices with Durable Apple Watch Bands & Protective Samsung Z Fold 4 Cases - Explore Top Picks on ZDNet</u></a></li>
-<li><a href="https://win-data.techidaily.com/expert-strategies-by-yl-software-to-quickly-boost-your-computers-startup-time/"><u>Expert Strategies by YL Software to Quickly Boost Your Computer's Startup Time</u></a></li>
-<li><a href="https://win-data.techidaily.com/high-definition-romance-scenes-and-love-themed-wallpaper-collection-by-yl-computing/"><u>High-Definition Romance Scenes & Love Themed Wallpaper Collection by YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-can-i-stop-my-graphics-card-from-overheating-tips-and-solutions-by-yl-software-experts/"><u>How Can I Stop My Graphics Card From Overheating? Tips and Solutions by YL Software Experts</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-access-device-manager-on-windows-tips-from-yl-software-experts/"><u>How to Access Device Manager on Windows - Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-address-persistent-issue-alerts-from-windows-security-center-insights-by-yl-computing/"><u>How to Address Persistent Issue Alerts From Windows Security Center - Insights by YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-boost-your-systems-performance-essential-hardware-upgrade-tips-from-yl-computing/"><u>How to Boost Your System's Performance: Essential Hardware Upgrade Tips From YL Computing</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/navigate-to-8-elite-free-3d-vids-software-companies/"><u>Navigate to 8 Elite Free 3D Vids Software Companies</u></a></li>
-<li><a href="https://win-data.techidaily.com/overcoming-inaccurate-print-jobs-expert-advice-from-yl-software-on-resolving-printer-errors/"><u>Overcoming Inaccurate Print Jobs: Expert Advice From YL Software on Resolving Printer Errors</u></a></li>
-<li><a href="https://win-data.techidaily.com/professional-nina-dobrev-hd-backgrounds-and-pictures-available-now-download-from-yl-softwares-exclusive-range/"><u>Professional Nina Dobrev HD Backgrounds and Pictures Available Now – Download From YL Software's Exclusive Range</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-simplify-your-sales-scrutiny-googles-straightforward-steps-to-track-income-from-youtube/"><u>[New] Simplify Your Sales Scrutiny Google's Straightforward Steps to Track Income From YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-eradicating-grayscale-issues-with-youtube-video-for-2024/"><u>[Updated] Eradicating Grayscale Issues with YouTube Video for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-constructing-a-compelling-docu-script-a-stepwise-approach/"><u>2024 Approved Constructing a Compelling Docu-Script A Stepwise Approach</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-latest-epson-wf-3620-drivers-for-win-10-8-and-7/"><u>Easy Installation Guide: Latest Epson WF-3620 Drivers for Win 10, 8 & 7</u></a></li>
+<li><a href="https://win-data.techidaily.com/efficient-techniques-for-boosting-disk-space-availability-with-yl-solutions/"><u>Efficient Techniques for Boosting Disk Space Availability with YL Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-lava-storm-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Lava Storm 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-verify-windows-defender-activation-in-your-system-with-help-from-yl-tech-experts/"><u>How To Verify Windows Defender Activation in Your System with Help From YL Tech Experts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ipados-paint-the-creme-de-la-creation-apps/"><u>In 2024, IPadOS Paint The Crème De La Création Apps</u></a></li>
+<li><a href="https://facebook.techidaily.com/keep-friends-out-of-your-facebook-replay-time/"><u>Keep Friends Out of Your Facebook Replay Time</u></a></li>
+<li><a href="https://win-data.techidaily.com/take-flight-with-singing-discover-the-high-notes-on-karaoke-cloud-pros-digital-stage/"><u>Take Flight with Singing: Discover the High Notes on Karaoke Cloud Pro's Digital Stage</u></a></li>
+<li><a href="https://win-data.techidaily.com/ultra-clear-alfa-romeo-logo-backgrounds-and-images-for-professionals-yl-software-collection/"><u>Ultra-Clear Alfa Romeo Logo Backgrounds & Images for Professionals – YL Software Collection</u></a></li>
 </ul></div>
 
