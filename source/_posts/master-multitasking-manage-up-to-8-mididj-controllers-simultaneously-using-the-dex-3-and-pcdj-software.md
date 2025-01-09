@@ -1,7 +1,7 @@
 ---
 title: "Master Multitasking: Manage Up To 8 MIDI/DJ Controllers Simultaneously Using the DEX 3 & PCDJ Software"
-date: 2024-12-22T23:10:07.987Z
-updated: 2024-12-29T23:23:21.067Z
+date: 2025-01-01T23:32:16.080Z
+updated: 2025-01-09T06:15:06.601Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using MIDI LEARN in DEX 3
@@ -45,7 +45,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 _Have questions about using **multiple DJ controllers** with DEX 3 **DJ and Video Mixing Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,20 +67,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/08/multiplecontrollers-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-top-6-must-try-instagram-reel-apps/"><u>[Updated] 2024 Approved Top 6 Must-Try Instagram Reel Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-obs-recording-setup-and-usage-tips-for-mac-users/"><u>[Updated] Mastering OBS Recording Setup & Usage Tips for Mac Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting/"><u>2024 Approved Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovative-strategies-for-revamping-your-video-covers-on-fb/"><u>2024 Approved Innovative Strategies for Revamping Your Video Covers on FB</u></a></li>
-<li><a href="https://solve-news.techidaily.com/dvdwinx-dvd-ripper-platinum/"><u>迷你磁力版本的DVD转制快速解锁：WinX DVD Ripper Platinum加速技术分析</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-future-of-writing-top-4-ai-storytelling-tools-to-experiment-with/"><u>Discover the Future of Writing: Top 4 AI Storytelling Tools to Experiment With</u></a></li>
-<li><a href="https://win-data.techidaily.com/enhancing-your-dj-laptop-strategies-for-seamless-video-remixes-with-pcdj-software/"><u>Enhancing Your DJ Laptop: Strategies for Seamless Video Remixes with PCDJ Software</u></a></li>
-<li><a href="https://win-data.techidaily.com/expert-tips-for-resolving-non-detectable-external-hard-drive-issues-insights-by-yl-software-experts/"><u>Expert Tips for Resolving Non-Detectable External Hard Drive Issues - Insights by YL Software Experts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Xiaomi 14? | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/overcoming-bsod-issues-top-tips-by-yl-software-for-a-trouble-free-computer-experience/"><u>Overcoming BSOD Issues: Top Tips by YL Software for a Trouble-Free Computer Experience</u></a></li>
-<li><a href="https://win-data.techidaily.com/quentin-tarantino-movies-stunning-backdrops-walls-art-digital-collections-by-yl-computing/"><u>Quentin Tarantino Movies: Stunning Backdrops, Walls Art - Digital Collections by YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/quick-tips-for-faster-system-initialization-expert-advice-from-yl-software-team/"><u>Quick Tips for Faster System Initialization: Expert Advice From YL Software Team</u></a></li>
-<li><a href="https://win-data.techidaily.com/switching-your-pcs-operating-language-a-step-by-step-guide-on-changing-windows-10-settings-yl-solutions/"><u>Switching Your PC's Operating Language: A Step-by-Step Guide on Changing Windows 10 Settings - YL Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-linking-your-pinterest-and-facebook-presence-seamlessly/"><u>The Ultimate Tutorial: Linking Your Pinterest and Facebook Presence Seamlessly</u></a></li>
-<li><a href="https://win-data.techidaily.com/yl-computings-expert-guide-how-to-accurately-detect-and-diagnose-computer-hardware-problems/"><u>YL Computing's Expert Guide: How to Accurately Detect and Diagnose Computer Hardware Problems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-review-of-youtubes-integration-with-iphone-and-android-devices/"><u>[New] A Review of YouTube's Integration with iPhone & Android Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-maximizing-your-youtube-earnings-potential/"><u>[Updated] 2024 Approved Maximizing Your YouTube Earnings Potential</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-learn-how-to-create-compelling-youtube-closures-economically/"><u>[Updated] In 2024, Learn How To Create Compelling YouTube Closures Economically</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-racer-replicas-our-top-games-for-2024/"><u>[Updated] Ultimate Racer Replicas Our Top Games for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/accelerate-your-computers-speed-with-key-hardware-enhancements-insights-by-yl-software-experts/"><u>Accelerate Your Computer's Speed with Key Hardware Enhancements - Insights by YL Software Experts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capturing-playthroughs-with-precision-and-flair/"><u>Capturing Playthroughs with Precision and Flair</u></a></li>
+<li><a href="https://win-data.techidaily.com/easily-configure-your-pcs-internet-settings-with-windows-control-panel-a-step-by-step-guide-by-yl-software/"><u>Easily Configure Your PC's Internet Settings with Windows Control Panel - A Step-by-Step Guide by YL Software</u></a></li>
+<li><a href="https://win-data.techidaily.com/essential-routine-upkeep-practices-to-ensure-your-systems-optimal-performance-expert-advice-from-yl-computing/"><u>Essential Routine Upkeep Practices to Ensure Your System's Optimal Performance - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/expert-tips-for-accessing-image-files-on-your-pc-with-microsoft-windows-yls-digital-tools/"><u>Expert Tips for Accessing Image Files on Your PC with Microsoft Windows - YL's Digital Tools</u></a></li>
+<li><a href="https://win-data.techidaily.com/exploring-predefined-privacy-configurations-in-microsofts-latest-os-windows-11-insights-from-yl-computing/"><u>Exploring Predefined Privacy Configurations in Microsoft's Latest OS, Windows 11 – Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-precision-and-performance-gamers-equipment-showcase/"><u>In 2024, Precision & Performance Gamer's Equipment Showcase</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-uncomplicated-techniques-for-keeping-a-transcript-of-google-voice-calls/"><u>In 2024, Uncomplicated Techniques for Keeping a Transcript of Google Voice Calls</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96179881-9781634242271-liber-420/"><u>Liber 420 | Free Book</u></a></li>
+<li><a href="https://facebook.techidaily.com/protecting-privacy-keeping-fb-images-confidential/"><u>Protecting Privacy: Keeping FB Images Confidential</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-restoring-your-pcs-bios-configuration-tech-tips-by-yl/"><u>Step-by-Step Guide: Restoring Your PC's BIOS Configuration - Tech Tips by YL</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-saving-and-loading-your-system-preferences-with-the-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Saving and Loading Your System Preferences with the Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformez-votre-fichier-ogg-en-video-wmv-en-lignes-directes-solutions-libres-de-droits-chez-movavi/"><u>Transformez Votre Fichier OGG en Vidéo WMV en Lignes Directes - Solutions Libres De Droits Chez Movavi</u></a></li>
+<li><a href="https://win-data.techidaily.com/ultimate-tips-for-customizing-your-data-security-in-windows-10-with-yl/"><u>Ultimate Tips for Customizing Your Data Security in Windows 10 with YL</u></a></li>
+<li><a href="https://win-data.techidaily.com/yl-softwares-premium-calumon-image-set-for-desktop-and-mobile-screensavers/"><u>YL Software's Premium Calumon Image Set for Desktop & Mobile Screensavers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's LYRX 1.8 Update Now Available: Premium Karaoke Software with Improved Sound Engine + Additional Functions | Secure Installation Offer"
-date: 2024-12-25T17:13:25.380Z
-updated: 2024-12-29T21:09:39.724Z
+date: 2025-01-08T05:05:49.537Z
+updated: 2025-01-08T19:39:08.071Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in LYRX 1.18
@@ -62,7 +62,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 _Have questions about the latest 1.18 version of our **Top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,21 +84,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/08/LYRX18-1.jpg?fit=1900%2C11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-a-new-era-of-visual-clarity-the-10-list-of-top-monitors-for-macs/"><u>[New] A New Era of Visual Clarity The #10 List of Top Monitors for Macs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-choosing-between-vimeo-free-premium-and-pro-membership-levels/"><u>[New] In 2024, Choosing Between Vimeo Free, Premium & Pro Membership Levels</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-showcasing-certifications-and-education/"><u>[New] In 2024, Showcasing Certifications & Education</u></a></li>
-<li><a href="https://techtrends.techidaily.com/nefseimovavi/"><u>在線無架限地NEF成SEI：利用Movavi自助轉換工具</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/detailed-analysis-of-garmin-vivosmart-4-smartwatch-focusing-on-energy-monitoring-and-stress-indicators/"><u>Detailed Analysis of Garmin Vivosmart 4 Smartwatch: Focusing on Energy Monitoring & Stress Indicators</u></a></li>
-<li><a href="https://win-data.techidaily.com/enhancing-your-dj-laptop-strategies-for-seamless-video-remixes-with-pcdj-software/"><u>Enhancing Your DJ Laptop: Strategies for Seamless Video Remixes with PCDJ Software</u></a></li>
-<li><a href="https://win-data.techidaily.com/expert-tips-for-resolving-non-detectable-external-hard-drive-issues-insights-by-yl-software-experts/"><u>Expert Tips for Resolving Non-Detectable External Hard Drive Issues - Insights by YL Software Experts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2007-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2007</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone | Stellar</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-windows-camera-software-guide-10-picks/"><u>In 2024, Essential Windows Camera Software Guide - 10 Picks</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-iphone-6-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your iPhone 6? How to Fix</u></a></li>
-<li><a href="https://win-data.techidaily.com/overcoming-bsod-issues-top-tips-by-yl-software-for-a-trouble-free-computer-experience/"><u>Overcoming BSOD Issues: Top Tips by YL Software for a Trouble-Free Computer Experience</u></a></li>
-<li><a href="https://win-data.techidaily.com/quentin-tarantino-movies-stunning-backdrops-walls-art-digital-collections-by-yl-computing/"><u>Quentin Tarantino Movies: Stunning Backdrops, Walls Art - Digital Collections by YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/quick-tips-for-faster-system-initialization-expert-advice-from-yl-software-team/"><u>Quick Tips for Faster System Initialization: Expert Advice From YL Software Team</u></a></li>
-<li><a href="https://win-data.techidaily.com/switching-your-pcs-operating-language-a-step-by-step-guide-on-changing-windows-10-settings-yl-solutions/"><u>Switching Your PC's Operating Language: A Step-by-Step Guide on Changing Windows 10 Settings - YL Solutions</u></a></li>
-<li><a href="https://win-data.techidaily.com/yl-computings-expert-guide-how-to-accurately-detect-and-diagnose-computer-hardware-problems/"><u>YL Computing's Expert Guide: How to Accurately Detect and Diagnose Computer Hardware Problems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-step-by-step-youtube-traffic-and-revenue-assessment-guide/"><u>[New] A Step-by-Step Youtube Traffic & Revenue Assessment Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728478071256-clonezilla/"><u>Clonezilla 目标硬盘小问题修复了！- 升级指南</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cutting-edge-templates-unlocking-your-videos-potential-for-2024/"><u>Cutting-Edge Templates Unlocking Your Video's Potential for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/flawless-adventures-await-in-updated-apex/"><u>Flawless Adventures Await in Updated Apex</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-grainy-greyscale-to-dynamic-highs-a-complete-hdr-conversion/"><u>From Grainy Greyscale to Dynamic Highs A Complete HDR Conversion</u></a></li>
+<li><a href="https://win-data.techidaily.com/guida-passo-passo-per-il-ripristino-di-file-eliminati-in-windows-server-2012-r2/"><u>Guida Passo-Passo per Il Ripristino Di File Eliminati in Windows Server 2012 R2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xr-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XR to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-adding-time-stamps-to-pictures-step-by-step-tutorial/"><u>In 2024, Adding Time Stamps to Pictures Step-by-Step Tutorial</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-techniques-for-enhancing-game-stream-videos-with-ai-portrait-technology/"><u>In 2024, Techniques for Enhancing Game Stream Videos with AI Portrait Technology</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-the-potential-of-youtube-videos-the-ultimate-chapter-addition-technique/"><u>In 2024, Unlock the Potential of YouTube Videos The Ultimate Chapter Addition Technique</u></a></li>
+<li><a href="https://win-data.techidaily.com/problembehandlung-die-fehlersuche-beim-auffinden-von-elektronikgeraten/"><u>Problembehandlung: Die Fehlersuche Beim Auffinden Von Elektronikgeräten</u></a></li>
+<li><a href="https://win-data.techidaily.com/section-4c-qandas-with-approaches-and-solutions/"><u>Section 4C: Q&As with Approaches and Solutions</u></a></li>
+<li><a href="https://win-data.techidaily.com/spontane-herunterfahrungen-bei-wiederherstellung-von-backups-im-betriebssystem-windows-vista/"><u>Spontane Herunterfahrungen Bei Wiederherstellung Von Backups Im Betriebssystem Windows Vista</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/top-10-titans-of-aerial-lifting-technology/"><u>Top 10 Titans of Aerial Lifting Technology</u></a></li>
+<li><a href="https://win-data.techidaily.com/van-nieuw-gewaardeerd-iphone-hoe-maakt-u-een-back-up-without-existing-data/"><u>Van Nieuw Gewaardeerd iPhone Hoe Maakt U Een Back-Up WITHOUT Existing Data?</u></a></li>
+<li><a href="https://win-data.techidaily.com/windows-11-10-8-7usb/"><u>Windows 11, 10, 8, 7向け専用の高性能USBバックアップツール</u></a></li>
 </ul></div>
 

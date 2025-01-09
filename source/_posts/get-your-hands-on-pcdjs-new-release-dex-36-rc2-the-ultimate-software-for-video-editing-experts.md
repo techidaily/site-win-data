@@ -1,7 +1,7 @@
 ---
 title: "Get Your Hands on PCDJ's New Release: DEX 3.6 (RC2) - The Ultimate Software for Video Editing Experts!"
-date: 2024-12-23T00:36:11.377Z
-updated: 2024-12-30T02:08:25.650Z
+date: 2025-01-06T10:35:55.266Z
+updated: 2025-01-08T21:36:24.247Z
 tags:
   - product
 categories:
@@ -59,7 +59,7 @@ Since this is likely going to be the official DEX 3 **DJ and Video Mixing softwa
 _If you have any questions or problems running the DEX 3.6 **VDJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -81,16 +81,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2016/04/dex36-rc2-coverimage.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-simplify-your-sales-scrutiny-googles-straightforward-steps-to-track-income-from-youtube/"><u>[New] Simplify Your Sales Scrutiny Google's Straightforward Steps to Track Income From YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-eradicating-grayscale-issues-with-youtube-video-for-2024/"><u>[Updated] Eradicating Grayscale Issues with YouTube Video for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-constructing-a-compelling-docu-script-a-stepwise-approach/"><u>2024 Approved Constructing a Compelling Docu-Script A Stepwise Approach</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-installation-guide-latest-epson-wf-3620-drivers-for-win-10-8-and-7/"><u>Easy Installation Guide: Latest Epson WF-3620 Drivers for Win 10, 8 & 7</u></a></li>
-<li><a href="https://win-data.techidaily.com/efficient-techniques-for-boosting-disk-space-availability-with-yl-solutions/"><u>Efficient Techniques for Boosting Disk Space Availability with YL Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-lava-storm-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Lava Storm 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-verify-windows-defender-activation-in-your-system-with-help-from-yl-tech-experts/"><u>How To Verify Windows Defender Activation in Your System with Help From YL Tech Experts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-ipados-paint-the-creme-de-la-creation-apps/"><u>In 2024, IPadOS Paint The Crème De La Création Apps</u></a></li>
-<li><a href="https://facebook.techidaily.com/keep-friends-out-of-your-facebook-replay-time/"><u>Keep Friends Out of Your Facebook Replay Time</u></a></li>
-<li><a href="https://win-data.techidaily.com/take-flight-with-singing-discover-the-high-notes-on-karaoke-cloud-pros-digital-stage/"><u>Take Flight with Singing: Discover the High Notes on Karaoke Cloud Pro's Digital Stage</u></a></li>
-<li><a href="https://win-data.techidaily.com/ultra-clear-alfa-romeo-logo-backgrounds-and-images-for-professionals-yl-software-collection/"><u>Ultra-Clear Alfa Romeo Logo Backgrounds & Images for Professionals – YL Software Collection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-instagram-new-algorithm-update-will-affect-you/"><u>[New] How Instagram New Algorithm Update Will Affect You</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-essential-basics-of-creating-compelling-haul-content/"><u>[New] In 2024, Essential Basics of Creating Compelling Haul Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-visionary-viewing-10-high-res-screens-for-2024/"><u>[New] Visionary Viewing #10 High-Res Screens for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/access-and-modify-windows-control-panel-options-efficiently-with-our-comprehensive-tutorial-yl-computing-expertise/"><u>Access & Modify Windows Control Panel Options Efficiently with Our Comprehensive Tutorial - YL Computing Expertise</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/antelope-valley-state-recreation-area-ft-kanzler-campgrounds/"><u>Antelope Valley State Recreation Area - Ft. Kanzler Campgrounds</u></a></li>
+<li><a href="https://win-data.techidaily.com/decoding-computer-glitches-the-top-reasons-behind-frequent-freezes-explained-by-yl-software-experts/"><u>Decoding Computer Glitches: The Top Reasons Behind Frequent Freezes Explained by YL Software Experts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-tips-for-high-quality-minecraft-saves-for-2024/"><u>Expert Tips for High-Quality Minecraft Saves for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/jokeglyph-customize-funny-visuals-easily-for-2024/"><u>Jokeglyph Customize Funny Visuals Easily for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/pcdjs-lyrx-18-update-now-available-premium-karaoke-software-with-improved-sound-engine-plus-additional-functions-secure-installation-offer/"><u>PCDJ's LYRX 1.8 Update Now Available: Premium Karaoke Software with Improved Sound Engine + Additional Functions | Secure Installation Offer</u></a></li>
+<li><a href="https://win-data.techidaily.com/reshaping-an-era-exploring-the-influence-of-the-chinese-civil-conflict-on-modern-chinese-society-with-yl-computing-yl-software/"><u>Reshaping an Era: Exploring the Influence of the Chinese Civil Conflict on Modern Chinese Society with YL Computing | YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-excessive-warmth-in-your-hp-spectre-x360-step-by-step-guide/"><u>Resolving Excessive Warmth in Your HP Spectre X360 - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/the-upside-to-sticking-with-desktops-a-deep-dive-by-yl-software-into-pros-and-performance-gains/"><u>The Upside to Sticking with Desktops: A Deep Dive by YL Software Into Pros and Performance Gains</u></a></li>
+<li><a href="https://win-data.techidaily.com/unresponsive-dvd-drive-causes-and-fixes-insights-by-yl-computing/"><u>Unresponsive DVD Drive: Causes and Fixes - Insights by YL Computing</u></a></li>
 </ul></div>
 
