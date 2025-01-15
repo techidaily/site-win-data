@@ -1,7 +1,7 @@
 ---
 title: "DEX 3 Expert Guide: How To Customize Your Audio Edits With Waveform Hues"
-date: 2025-01-05T18:22:51.219Z
-updated: 2025-01-09T01:42:01.454Z
+date: 2025-01-12T04:42:20.815Z
+updated: 2025-01-15T05:33:00.437Z
 tags:
   - product
 categories:
@@ -29,13 +29,13 @@ The default DEX 3 skins showcase our default waveform colors of green and orange
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### HOW TO EDIT WAVEFORM COLORS IN DEX 3 DJ SOFTWARE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -57,14 +57,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/editingwaveformcolors-dex3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-cutting-short-videos-decoding-imovies-size-reduction/"><u>[New] Cutting Short Videos Decoding iMovie’s Size Reduction</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-skyrocket-engagement-20-video-tricks-for-maximum-impact/"><u>2024 Approved Skyrocket Engagement 20 Video Tricks for Maximum Impact</u></a></li>
-<li><a href="https://driver-install.techidaily.com/configure-marvell-avastar-wifi-on-intel-system/"><u>Configure Marvell Avastar WiFi on Intel System</u></a></li>
-<li><a href="https://win-data.techidaily.com/les-techniques-avantageuses-pour-la-recovery-dun-disque-dur-formatted-guide-complet/"><u>Les Techniques Avantageuses Pour La Recovery D'Un Disque Dur Formatted : Guide Complet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/million-dollar-context-geminis-15-evolved-strategy-revealed/"><u>Million Dollar Context: Gemini's 1.5 Evolved Strategy Revealed</u></a></li>
-<li><a href="https://win-data.techidaily.com/protecting-all-of-your-gmail-messages-the-ultimate-2-step-strategy/"><u>Protecting All of Your Gmail Messages: The Ultimate 2-Step Strategy</u></a></li>
-<li><a href="https://win-data.techidaily.com/solve-fallout-n4s-vanished-pc-saves-fast-step-by-step-troubleshooting-guide/"><u>Solve Fallout N4's Vanished PC Saves Fast - Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/struggling-with-macbooks-power-management-optimize-your-battery-life-using-our-exclusive-tool-recommended/"><u>Struggling with MacBook's Power Management? Optimize Your Battery Life Using Our Exclusive Tool - Recommended !</u></a></li>
-<li><a href="https://win-data.techidaily.com/vollstandiges-ios-reset-fur-iphone-modelle-14-13-12-und-11-befreien-sie-ihr-gerat-mit-diesen-drei-losungen/"><u>Vollständiges iOS Reset Für iPhone-Modelle: 14, 13, 12 Und 11 – Befreien Sie Ihr Gerät Mit Diesen Drei Lösungen</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pixelated-pastures-celebrating-rural-games/"><u>[New] In 2024, Pixelated Pastures Celebrating Rural Games</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-real-strategy-behind-instagram-reels/"><u>[New] The Real Strategy Behind Instagram Reels</u></a></li>
+<li><a href="https://win-data.techidaily.com/excel-excel/"><u>自動でExcelデータをコピー保存する手順 - Excelファイル効率化ガイド</u></a></li>
+<li><a href="https://win-data.techidaily.com/comment-reparer-un-ssd-crucial-impossible-a-demarrer-post-clonage-guide-complet-et-facile/"><u>Comment Réparer Un SSD Crucial Impossible À Démarrer Post-Clonage - Guide Complet Et Facile</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-gpts-latest-marvels-focus-on-crucial-enhancements/"><u>Discover GPT's Latest Marvels: Focus on Crucial Enhancements</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-backwards-viewing-a-new-lens-for-analyzing-youtube-content/"><u>In 2024, Backwards Viewing A New Lens for Analyzing YouTube Content</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-data-retrieval-tool-restore-lost-data-from-infinix-hot-40-pro-by-fonelab-android-recover-data/"><u>Infinix Data Retrieval tool – restore lost data from Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://win-data.techidaily.com/techniques-optimales-pour-dupliquer-des-fichiers-de-disque-c-vers-un-disque-dur-externe-guide-complet/"><u>Techniques Optimales Pour Dupliquer Des Fichiers De Disque C Vers Un Disque Dur Externe - Guide Complet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-tricks-to-go-viral-and-boost-your-presence-on-tiktok/"><u>The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728464247137-windows-1011/"><u>Windows 10/11で優れた画像編集ツール：詳細な利用法ガイド</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728501291028-windows-1011/"><u>Windows 10/11の起動修正に失敗する対策</u></a></li>
 </ul></div>
 

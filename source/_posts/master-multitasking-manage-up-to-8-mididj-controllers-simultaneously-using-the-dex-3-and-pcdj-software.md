@@ -1,7 +1,7 @@
 ---
 title: "Master Multitasking: Manage Up To 8 MIDI/DJ Controllers Simultaneously Using the DEX 3 & PCDJ Software"
-date: 2025-01-01T23:32:16.080Z
-updated: 2025-01-09T06:15:06.601Z
+date: 2025-01-07T19:06:34.303Z
+updated: 2025-01-15T03:51:23.392Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using MIDI LEARN in DEX 3
@@ -45,7 +45,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 _Have questions about using **multiple DJ controllers** with DEX 3 **DJ and Video Mixing Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,24 +67,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/08/multiplecontrollers-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-a-review-of-youtubes-integration-with-iphone-and-android-devices/"><u>[New] A Review of YouTube's Integration with iPhone & Android Devices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-maximizing-your-youtube-earnings-potential/"><u>[Updated] 2024 Approved Maximizing Your YouTube Earnings Potential</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-learn-how-to-create-compelling-youtube-closures-economically/"><u>[Updated] In 2024, Learn How To Create Compelling YouTube Closures Economically</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-racer-replicas-our-top-games-for-2024/"><u>[Updated] Ultimate Racer Replicas Our Top Games for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/accelerate-your-computers-speed-with-key-hardware-enhancements-insights-by-yl-software-experts/"><u>Accelerate Your Computer's Speed with Key Hardware Enhancements - Insights by YL Software Experts</u></a></li>
-<li><a href="https://video-capture.techidaily.com/capturing-playthroughs-with-precision-and-flair/"><u>Capturing Playthroughs with Precision and Flair</u></a></li>
-<li><a href="https://win-data.techidaily.com/easily-configure-your-pcs-internet-settings-with-windows-control-panel-a-step-by-step-guide-by-yl-software/"><u>Easily Configure Your PC's Internet Settings with Windows Control Panel - A Step-by-Step Guide by YL Software</u></a></li>
-<li><a href="https://win-data.techidaily.com/essential-routine-upkeep-practices-to-ensure-your-systems-optimal-performance-expert-advice-from-yl-computing/"><u>Essential Routine Upkeep Practices to Ensure Your System's Optimal Performance - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/expert-tips-for-accessing-image-files-on-your-pc-with-microsoft-windows-yls-digital-tools/"><u>Expert Tips for Accessing Image Files on Your PC with Microsoft Windows - YL's Digital Tools</u></a></li>
-<li><a href="https://win-data.techidaily.com/exploring-predefined-privacy-configurations-in-microsofts-latest-os-windows-11-insights-from-yl-computing/"><u>Exploring Predefined Privacy Configurations in Microsoft's Latest OS, Windows 11 – Insights From YL Computing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-precision-and-performance-gamers-equipment-showcase/"><u>In 2024, Precision & Performance Gamer's Equipment Showcase</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-uncomplicated-techniques-for-keeping-a-transcript-of-google-voice-calls/"><u>In 2024, Uncomplicated Techniques for Keeping a Transcript of Google Voice Calls</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96179881-9781634242271-liber-420/"><u>Liber 420 | Free Book</u></a></li>
-<li><a href="https://facebook.techidaily.com/protecting-privacy-keeping-fb-images-confidential/"><u>Protecting Privacy: Keeping FB Images Confidential</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-restoring-your-pcs-bios-configuration-tech-tips-by-yl/"><u>Step-by-Step Guide: Restoring Your PC's BIOS Configuration - Tech Tips by YL</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-saving-and-loading-your-system-preferences-with-the-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Saving and Loading Your System Preferences with the Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transformez-votre-fichier-ogg-en-video-wmv-en-lignes-directes-solutions-libres-de-droits-chez-movavi/"><u>Transformez Votre Fichier OGG en Vidéo WMV en Lignes Directes - Solutions Libres De Droits Chez Movavi</u></a></li>
-<li><a href="https://win-data.techidaily.com/ultimate-tips-for-customizing-your-data-security-in-windows-10-with-yl/"><u>Ultimate Tips for Customizing Your Data Security in Windows 10 with YL</u></a></li>
-<li><a href="https://win-data.techidaily.com/yl-softwares-premium-calumon-image-set-for-desktop-and-mobile-screensavers/"><u>YL Software's Premium Calumon Image Set for Desktop & Mobile Screensavers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-picture-warping-techniques/"><u>[New] Mastering Picture Warping Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-premium-cameras-for-next-level-music-video-production-for-2024/"><u>[New] Premium Cameras for Next-Level Music Video Production for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-marketing-playbook-for-digital-beginners-on-reddit/"><u>[New] The Ultimate Marketing Playbook for Digital Beginners on Reddit</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-exploring-apowersofts-pc-screen-snap-recorder/"><u>[Updated] Exploring Apowersoft's PC Screen Snap Recorder</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-highest-rated-video-call-software-not-zoom-for-pcs-and-phones-for-2024/"><u>[Updated] Highest-Rated Video Call Software (Not Zoom) for PCs & Phones for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-recupere-tus-archivos-perdidos-gratis-despues-de-una-reforma-de-disco-duro/"><u>1. Recupere Tus Archivos Perdidos Gratis Después De Una Reforma De Disco Duro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-shot-matchmaking-optimal-gimbals-for-dslr-quality-vids/"><u>Best Shot Matchmaking Optimal Gimbals for DSLR-Quality Vids</u></a></li>
+<li><a href="https://win-data.techidaily.com/complimentary-hard-drive-to-solid-state-transfer-utilities-and-how-tos/"><u>Complimentary Hard Drive to Solid State Transfer Utilities & How-To's</u></a></li>
+<li><a href="https://win-data.techidaily.com/guia-paso-a-paso-para-hacer-una-copia-de-seguridad-en-espejo-en-sistemas-operativos-windows/"><u>Guía Paso a Paso Para Hacer Una Copia De Seguridad en Espejo en Sistemas Operativos Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-se-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone SE Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/on-the-go-internet-solution-with-tp-links-lightweight-travel-router-wr902ac/"><u>On-the-Go Internet Solution with TP-Link's Lightweight Travel Router (WR902AC)</u></a></li>
+<li><a href="https://win-data.techidaily.com/recuperation-des-fichiers-dimages-egares-dans-windows-11-ou-10-guide-de-solution/"><u>Recupération Des Fichiers D'Images Égarés Dans Windows 11 Ou 10 : Guide De Solution</u></a></li>
+<li><a href="https://win-data.techidaily.com/risoluzione-guida-passo-passo-per-il-patch-kb5034441-di-windows-1011-che-non-funziona/"><u>Risoluzione Guida Passo-Passo per Il Patch KB5034441 Di Windows 10/11 Che Non Funziona</u></a></li>
+<li><a href="https://win-data.techidaily.com/seamless-switch-transitioning-from-traditional-sim-to-esim-on-iphones/"><u>Seamless Switch: Transitioning From Traditional SIM to eSIM on iPhones</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-switching-your-apple-id-for-access-to-previous-purchases/"><u>Step-by-Step Guide: Switching Your Apple ID for Access to Previous Purchases</u></a></li>
+<li><a href="https://win-data.techidaily.com/the-three-easy-techniques-for-securely-saving-your-windows-11-user-data/"><u>The Three Easy Techniques for Securely Saving Your Windows 11 User Data</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Lava Blaze 2 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's LYRX 1.8 Update Now Available: Premium Karaoke Software with Improved Sound Engine + Additional Functions | Secure Installation Offer"
-date: 2025-01-08T05:05:49.537Z
-updated: 2025-01-08T19:39:08.071Z
+date: 2025-01-09T20:28:57.163Z
+updated: 2025-01-15T04:24:14.271Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in LYRX 1.18
@@ -62,7 +62,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 _Have questions about the latest 1.18 version of our **Top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,21 +84,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/08/LYRX18-1.jpg?fit=1900%2C11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-a-step-by-step-youtube-traffic-and-revenue-assessment-guide/"><u>[New] A Step-by-Step Youtube Traffic & Revenue Assessment Guide</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728478071256-clonezilla/"><u>Clonezilla 目标硬盘小问题修复了！- 升级指南</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/cutting-edge-templates-unlocking-your-videos-potential-for-2024/"><u>Cutting-Edge Templates Unlocking Your Video's Potential for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/flawless-adventures-await-in-updated-apex/"><u>Flawless Adventures Await in Updated Apex</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-grainy-greyscale-to-dynamic-highs-a-complete-hdr-conversion/"><u>From Grainy Greyscale to Dynamic Highs A Complete HDR Conversion</u></a></li>
-<li><a href="https://win-data.techidaily.com/guida-passo-passo-per-il-ripristino-di-file-eliminati-in-windows-server-2012-r2/"><u>Guida Passo-Passo per Il Ripristino Di File Eliminati in Windows Server 2012 R2</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xr-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XR to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-adding-time-stamps-to-pictures-step-by-step-tutorial/"><u>In 2024, Adding Time Stamps to Pictures Step-by-Step Tutorial</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-techniques-for-enhancing-game-stream-videos-with-ai-portrait-technology/"><u>In 2024, Techniques for Enhancing Game Stream Videos with AI Portrait Technology</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-the-potential-of-youtube-videos-the-ultimate-chapter-addition-technique/"><u>In 2024, Unlock the Potential of YouTube Videos The Ultimate Chapter Addition Technique</u></a></li>
-<li><a href="https://win-data.techidaily.com/problembehandlung-die-fehlersuche-beim-auffinden-von-elektronikgeraten/"><u>Problembehandlung: Die Fehlersuche Beim Auffinden Von Elektronikgeräten</u></a></li>
-<li><a href="https://win-data.techidaily.com/section-4c-qandas-with-approaches-and-solutions/"><u>Section 4C: Q&As with Approaches and Solutions</u></a></li>
-<li><a href="https://win-data.techidaily.com/spontane-herunterfahrungen-bei-wiederherstellung-von-backups-im-betriebssystem-windows-vista/"><u>Spontane Herunterfahrungen Bei Wiederherstellung Von Backups Im Betriebssystem Windows Vista</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-10-titans-of-aerial-lifting-technology/"><u>Top 10 Titans of Aerial Lifting Technology</u></a></li>
-<li><a href="https://win-data.techidaily.com/van-nieuw-gewaardeerd-iphone-hoe-maakt-u-een-back-up-without-existing-data/"><u>Van Nieuw Gewaardeerd iPhone Hoe Maakt U Een Back-Up WITHOUT Existing Data?</u></a></li>
-<li><a href="https://win-data.techidaily.com/windows-11-10-8-7usb/"><u>Windows 11, 10, 8, 7向け専用の高性能USBバックアップツール</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-deep-dive-into-videomovavi-11s-features-and-performance/"><u>[New] Deep Dive Into VideoMovavi 11'S Features & Performance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-easy-steps-for-posting-videos-on-facebook-from-devices/"><u>[New] Easy Steps for Posting Videos on Facebook From Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-androids-epic-quests-your-guide-to-top-15-simulated-worlds/"><u>[New] In 2024, Android's Epic Quests Your Guide to Top 15 Simulated Worlds</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-growth-strategies-for-youtube-videos-6-effortless-approaches/"><u>[Updated] 2024 Approved Growth Strategies for YouTube Videos 6 Effortless Approaches</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exquisite-solution-for-vr-adventures/"><u>[Updated] Exquisite Solution for VR Adventures</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-high-definition-on-demand-samsungs-ue590-monitor-revisited/"><u>[Updated] High Definition on Demand Samsung's UE590 Monitor Revisited</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-secrets-of-recording-video-without-distracting-noise/"><u>[Updated] Secrets of Recording Video without Distracting Noise</u></a></li>
+<li><a href="https://win-data.techidaily.com/accelerate-your-computers-speed-with-professional-optimization-solutions-from-yl-software/"><u>Accelerate Your Computer's Speed with Professional Optimization Solutions From YL Software</u></a></li>
+<li><a href="https://win-data.techidaily.com/boost-your-connectivity-with-this-simple-guide-to-network-driver-updates-by-yl-software-experts/"><u>Boost Your Connectivity with This Simple Guide to Network Driver Updates by YL Software Experts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dividing-opinions-is-mirrorless-better-than-dslr-for-vids-in-2024/"><u>Dividing Opinions Is Mirrorless Better than DSLR for Vids, In 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/effective-methods-for-identifying-and-fixing-motherboard-problems-yl-computing-solutions/"><u>Effective Methods for Identifying & Fixing Motherboard Problems - YL Computing Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-ultimate-guide-to-installing-the-logitech-k350-keyboard-drivers/"><u>Free Download: Ultimate Guide to Installing the Logitech K350 Keyboard Drivers</u></a></li>
+<li><a href="https://win-data.techidaily.com/identifying-and-resolving-typical-hardware-problems-in-windows-an-expert-guide-by-yl-computing/"><u>Identifying and Resolving Typical Hardware Problems in Windows - An Expert Guide by YL Computing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-x100-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo X100 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-detecting-and-removing-malware-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Detecting & Removing Malware on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/switching-applications-a-guide-to-open-files-using-alternative-programs-on-windows-tech-tips-by-yl-computing/"><u>Switching Applications: A Guide to Open Files Using Alternative Programs on Windows - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/transform-your-desktop-with-yl-softwares-hd-panoramic-images-and-static-wallpapers-the-ultimate-visual-experience-set/"><u>Transform Your Desktop with YL Software’s HD Panoramic Images and Static Wallpapers – The Ultimate Visual Experience Set</u></a></li>
+<li><a href="https://win-data.techidaily.com/understanding-limited-network-connection-issues-a-guide-by-yl-computing/"><u>Understanding Limited Network Connection Issues: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/understanding-the-origins-key-factors-behind-the-taiping-rebellion-insights-from-yl-technology/"><u>Understanding the Origins: Key Factors Behind the Taiping Rebellion - Insights From YL Technology</u></a></li>
 </ul></div>
 
