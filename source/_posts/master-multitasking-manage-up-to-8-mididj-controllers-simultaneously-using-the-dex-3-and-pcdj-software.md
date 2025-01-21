@@ -1,7 +1,7 @@
 ---
 title: "Master Multitasking: Manage Up To 8 MIDI/DJ Controllers Simultaneously Using the DEX 3 & PCDJ Software"
-date: 2025-01-07T19:06:34.303Z
-updated: 2025-01-15T03:51:23.392Z
+date: 2025-01-13T21:45:45.013Z
+updated: 2025-01-20T19:04:28.895Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using MIDI LEARN in DEX 3
@@ -45,7 +45,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 _Have questions about using **multiple DJ controllers** with DEX 3 **DJ and Video Mixing Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,22 +67,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/08/multiplecontrollers-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-picture-warping-techniques/"><u>[New] Mastering Picture Warping Techniques</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-premium-cameras-for-next-level-music-video-production-for-2024/"><u>[New] Premium Cameras for Next-Level Music Video Production for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-marketing-playbook-for-digital-beginners-on-reddit/"><u>[New] The Ultimate Marketing Playbook for Digital Beginners on Reddit</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-exploring-apowersofts-pc-screen-snap-recorder/"><u>[Updated] Exploring Apowersoft's PC Screen Snap Recorder</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-highest-rated-video-call-software-not-zoom-for-pcs-and-phones-for-2024/"><u>[Updated] Highest-Rated Video Call Software (Not Zoom) for PCs & Phones for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/1-recupere-tus-archivos-perdidos-gratis-despues-de-una-reforma-de-disco-duro/"><u>1. Recupere Tus Archivos Perdidos Gratis Después De Una Reforma De Disco Duro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-shot-matchmaking-optimal-gimbals-for-dslr-quality-vids/"><u>Best Shot Matchmaking Optimal Gimbals for DSLR-Quality Vids</u></a></li>
-<li><a href="https://win-data.techidaily.com/complimentary-hard-drive-to-solid-state-transfer-utilities-and-how-tos/"><u>Complimentary Hard Drive to Solid State Transfer Utilities & How-To's</u></a></li>
-<li><a href="https://win-data.techidaily.com/guia-paso-a-paso-para-hacer-una-copia-de-seguridad-en-espejo-en-sistemas-operativos-windows/"><u>Guía Paso a Paso Para Hacer Una Copia De Seguridad en Espejo en Sistemas Operativos Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-se-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone SE Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/on-the-go-internet-solution-with-tp-links-lightweight-travel-router-wr902ac/"><u>On-the-Go Internet Solution with TP-Link's Lightweight Travel Router (WR902AC)</u></a></li>
-<li><a href="https://win-data.techidaily.com/recuperation-des-fichiers-dimages-egares-dans-windows-11-ou-10-guide-de-solution/"><u>Recupération Des Fichiers D'Images Égarés Dans Windows 11 Ou 10 : Guide De Solution</u></a></li>
-<li><a href="https://win-data.techidaily.com/risoluzione-guida-passo-passo-per-il-patch-kb5034441-di-windows-1011-che-non-funziona/"><u>Risoluzione Guida Passo-Passo per Il Patch KB5034441 Di Windows 10/11 Che Non Funziona</u></a></li>
-<li><a href="https://win-data.techidaily.com/seamless-switch-transitioning-from-traditional-sim-to-esim-on-iphones/"><u>Seamless Switch: Transitioning From Traditional SIM to eSIM on iPhones</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-switching-your-apple-id-for-access-to-previous-purchases/"><u>Step-by-Step Guide: Switching Your Apple ID for Access to Previous Purchases</u></a></li>
-<li><a href="https://win-data.techidaily.com/the-three-easy-techniques-for-securely-saving-your-windows-11-user-data/"><u>The Three Easy Techniques for Securely Saving Your Windows 11 User Data</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-master-downloader-facebook-and-firefox-integration-for-2024/"><u>[New] Master Downloader Facebook & FireFox Integration for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimizing-zoom-meetings-a-guide-to-format-upgrading/"><u>[Updated] Optimizing Zoom Meetings A Guide to Format Upgrading</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prolific-photography-and-video-app-selection-iphone-vs-android/"><u>[Updated] Prolific Photography & Video App Selection IPhone vs Android</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-is-it-possible-to-run-windows-defender-alongside-additional-antivirus-solutions-exploring-compatibility-insights/"><u>1. Is It Possible to Run Windows Defender Alongside Additional Antivirus Solutions? - Exploring Compatibility Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-streamline-operations-ranking-the-top-8-facebook-task-managers/"><u>2024 Approved Streamline Operations Ranking the Top 8 Facebook Task Managers</u></a></li>
+<li><a href="https://win-data.techidaily.com/adjusting-your-printers-paper-size-configuration-a-step-by-step-guide/"><u>Adjusting Your Printer's Paper Size Configuration: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/do-paid-followers-impact-channel-popularity-for-2024/"><u>Do Paid Followers Impact Channel Popularity for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/enhancing-your-dj-laptop-strategies-for-seamless-video-remixes-with-pcdj-software/"><u>Enhancing Your DJ Laptop: Strategies for Seamless Video Remixes with PCDJ Software</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/epic-battle-inspirations-download-exclusive-gladiator-backdrops-and-desktops-from-yl-softwares-visual-library/"><u>Epic Battle Inspirations: Download Exclusive Gladiator Backdrops and Desktops From YL Software's Visual Library</u></a></li>
+<li><a href="https://win-data.techidaily.com/overcoming-bsod-issues-top-tips-by-yl-software-for-a-trouble-free-computer-experience/"><u>Overcoming BSOD Issues: Top Tips by YL Software for a Trouble-Free Computer Experience</u></a></li>
+<li><a href="https://win-data.techidaily.com/quentin-tarantino-movies-stunning-backdrops-walls-art-digital-collections-by-yl-computing/"><u>Quentin Tarantino Movies: Stunning Backdrops, Walls Art - Digital Collections by YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/quick-tips-for-faster-system-initialization-expert-advice-from-yl-software-team/"><u>Quick Tips for Faster System Initialization: Expert Advice From YL Software Team</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-offline-errors-for-windows-11s-printer-port/"><u>Resolving Offline Errors for Windows 11'S Printer Port</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/selecting-perfect-game-starting-scenes-on-youtube-no-cost-yes-value-in-2024/"><u>Selecting Perfect Game Starting Scenes on YouTube No Cost, Yes Value, In 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/switching-your-pcs-operating-language-a-step-by-step-guide-on-changing-windows-10-settings-yl-solutions/"><u>Switching Your PC's Operating Language: A Step-by-Step Guide on Changing Windows 10 Settings - YL Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-infinix-smart-7-hd-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Infinix Smart 7 HD Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/understanding-investment-capacity-how-much-can-you-put-into-crypto-insights-by-yl-computing/"><u>Understanding Investment Capacity: How Much Can You Put Into Crypto? - Insights by YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/unveiling-how-karaoke-cloud-pro-distinguishes-itself-from-traditional-streaming-platforms/"><u>Unveiling How Karaoke Cloud Pro Distinguishes Itself From Traditional Streaming Platforms</u></a></li>
+<li><a href="https://win-data.techidaily.com/yl-computings-expert-guide-how-to-accurately-detect-and-diagnose-computer-hardware-problems/"><u>YL Computing's Expert Guide: How to Accurately Detect and Diagnose Computer Hardware Problems</u></a></li>
 </ul></div>
 

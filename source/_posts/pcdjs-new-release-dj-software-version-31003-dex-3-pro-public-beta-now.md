@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's New Release: DJ Software, Version 3.10.0.3 (DEX 3 Pro) - Public Beta Now!"
-date: 2025-01-11T18:21:57.538Z
-updated: 2025-01-15T00:36:13.605Z
+date: 2025-01-15T22:21:09.248Z
+updated: 2025-01-21T02:17:07.000Z
 tags:
   - product
 categories:
@@ -43,7 +43,7 @@ _**Happy mixing! #MixEverything**_
 _Have any question or issues running the latest 3.10.0.3 version of our **best DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -65,18 +65,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/04/DEX31003-PUBLICBETA.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-audience-engagement-meets-technology-four-recording-ways-on-facebook/"><u>[New] 2024 Approved Audience Engagement Meets Technology Four Recording Ways on Facebook</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-google-meet-live-streaming-for-beginners-stepwise-guide-to-youtube/"><u>[Updated] In 2024, Google Meet Live-Streaming for Beginners Stepwise Guide to YouTube</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-highlight-optimization-checklist-for-brands-for-2024/"><u>[Updated] The Ultimate Highlight Optimization Checklist for Brands for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728490024633-c/"><u>「安全にCドライブを保護するためのクラウドへのダブルバックアップ戦略」</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-generate-official-travel-ready-portraits-download-10-free-photos-today/"><u>2024 Approved Generate Official Travel-Ready Portraits – Download 10 FREE Photos Today</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-14-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone 14 Plus How to Bypass?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-your-browsing-navigating-safaris-safe-area-mode/"><u>Elevate Your Browsing Navigating Safari's Safe Area Mode</u></a></li>
-<li><a href="https://win-data.techidaily.com/error-unable-to-locate-the-requested-webpage-oops-its-missing/"><u>Error: Unable to Locate the Requested Webpage – Oops, It's Missing!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/how-to-start-your-computer-with-an-exterior-solid-state-drive/"><u>How to Start Your Computer with an Exterior Solid State Drive</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-it-right-elevating-your-youtube-video-presence-for-2024/"><u>Light It Right Elevating Your YouTube Video Presence for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-motorola-edge-40-neo-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Motorola Edge 40 Neo to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/tutto-quello-che-devi-sapere-per-pianificare-e-automatizzare-i-tuoi-back-up-di-windows-nella-versione-11-esplora-le-opzioni-con-un-approccio-a-quattro-vie.m10/"><u>Tutto Quello Che Devi Sapere per Pianificare E Automatizzare I Tuoi Back-Up Di Windows Nella Versione 11 - Esplora Le Opzioni Con Un Approccio a Quattro Vie</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-best-cloud-storage-apps-on-android-2024/"><u>[New] Best Cloud Storage Apps on Android 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/dex-3-expert-guide-how-to-customize-your-audio-edits-with-waveform-hues/"><u>DEX 3 Expert Guide: How To Customize Your Audio Edits With Waveform Hues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-zero-to-live-streaming-hero-essential-tips-and-tricks/"><u>From Zero to Live-Streaming Hero Essential Tips and Tricks</u></a></li>
+<li><a href="https://win-data.techidaily.com/high-definition-deathstroke-themes-exclusive-walls-backgrounds-and-visuals-by-yl-computing/"><u>High-Definition Deathstroke Themes: Exclusive Walls, Backgrounds & Visuals by YL Computing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-time-your-instagram-content-for-max-engagement/"><u>How to Time Your Instagram Content For Max Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/limited-time-deal-get-extra-2tb-of-online-space-with-your-next-chromebook-purchase/"><u>Limited Time Deal: Get Extra 2TB of Online Space with Your Next Chromebook Purchase!</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-microsofts-dism-error-0x800f082f/"><u>Mastery over Microsoft's DISM Error: 0X800F082F</u></a></li>
+<li><a href="https://win-data.techidaily.com/optimize-computer-efficiency-by-decluttering-storage-space-expert-advice-from-yl-software/"><u>Optimize Computer Efficiency by Decluttering Storage Space - Expert Advice From YL Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/prime-cloud-call-recorder-pros/"><u>Prime Cloud Call Recorder Pros</u></a></li>
+<li><a href="https://win-data.techidaily.com/setting-up-dual-or-multi-monitor-configurations-on-windows-10-a-step-by-step-guide/"><u>Setting Up Dual or Multi-Monitor Configurations on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-data.techidaily.com/strategic-expansion-us-plans-massive-drone-fleet-deployment-within-two-years-to-offset-chinese-military-prowess/"><u>Strategic Expansion: U.S. Plans Massive Drone Fleet Deployment Within Two Years to Offset Chinese Military Prowess</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-15-pro-max-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win-data.techidaily.com/updating-your-graphics-card-drivers-made-simple-a-step-by-step-guide-by-yl-computing/"><u>Updating Your Graphics Card Drivers Made Simple - A Step-by-Step Guide by YL Computing</u></a></li>
 </ul></div>
 
