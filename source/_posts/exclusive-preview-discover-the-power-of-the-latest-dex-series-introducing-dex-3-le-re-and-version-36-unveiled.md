@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Preview: Discover the Power of the Latest DEX Series - Introducing DEX 3 LE, RE & Version 3.6 Unveiled"
-date: 2025-01-14T01:59:29.569Z
-updated: 2025-01-21T03:29:15.726Z
+date: 2025-01-23T02:47:28.012Z
+updated: 2025-01-27T07:18:53.934Z
 tags:
   - product
 categories:
@@ -77,7 +77,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,18 +99,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-compre-written-in-clear-language-this-ultimate-guide-explores-all-facets-of-using-the-iphone-xs-animoji-feature-for-2024/"><u>[New] Compre Written in Clear Language, This Ultimate Guide Explores All Facets of Using the iPhone X's Animoji Feature for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-ultimate-guide-to-deciding-between-hero-and-cube-videos/"><u>[Updated] In 2024, The Ultimate Guide to Deciding Between Hero and Cube Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-through-samsungs-digital-picture-editing-app/"><u>[Updated] Navigating Through Samsung's Digital Picture Editing App</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-brightness-adjustment-features-in-your-windows-10-pc/"><u>How to Restore Brightness Adjustment Features in Your Windows 10 PC</u></a></li>
-<li><a href="https://win-data.techidaily.com/impacts-and-outcomes-unveiling-the-effects-of-building-the-three-gorges-dam-a-comprehensive-analysis-by-yl-computing-and-software-solutions/"><u>Impacts and Outcomes: Unveiling the Effects of Building the Three Gorges Dam - A Comprehensive Analysis by YL Computing & Software Solutions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-11-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 11 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-se-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone SE</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/mp4m4atop5/"><u>MP4ファイルをM4Aに変換する人気無料ツールTOP5: 高画質音声楽しむ方法</u></a></li>
-<li><a href="https://win-data.techidaily.com/setting-up-scheduled-actions-in-windows-defender-a-step-by-step-guide-by-yl-computing/"><u>Setting Up Scheduled Actions in Windows Defender: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-adjusting-your-computers-hardware-configurations-yl-tech-support/"><u>Step-by-Step Guide: Adjusting Your Computer's Hardware Configurations - YL Tech Support</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-file-transfer-techniques-yl-computing/"><u>Step-by-Step Guide: File Transfer Techniques - YL Computing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-experiencing-the-conjuring-movies-in-correct-chronological-order/"><u>Step-by-Step: Experiencing 'The Conjuring' Movies in Correct Chronological Order</u></a></li>
-<li><a href="https://win-data.techidaily.com/the-risks-of-gpu-overheating-protecting-your-graphics-card-with-tips-from-yl-software/"><u>The Risks of GPU Overheating: Protecting Your Graphics Card with Tips From YL Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-safely-archive-chats-and-calls-from-whatsapp/"><u>[New] In 2024, How to Safely Archive Chats and Calls From WhatsApp</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-superior-ai-photo-cutting-master/"><u>[New] In 2024, Superior AI Photo Cutting Master</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-loop-video-magic-keep-your-followers-hooked-with-instagram-boomers/"><u>2024 Approved Loop Video Magic Keep Your Followers Hooked with Instagram Boomers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-spring-recorder-rising-a-comprehensive-analysis/"><u>2024 Approved Spring Recorder Rising A Comprehensive Analysis</u></a></li>
+<li><a href="https://win-data.techidaily.com/comprehensive-guide-for-replacing-the-ssd-on-a-microsoft-surface-pro-x-a-beginners-roadmap-to-upgrading/"><u>Comprehensive Guide for Replacing the SSD on a Microsoft Surface Pro X: A Beginner's Roadmap to Upgrading</u></a></li>
+<li><a href="https://win-data.techidaily.com/dateien-wiederherstellen-die-sie-aus-versehen-geloscht-haben-mehr-infos-fur-asus-laptop-nutzer/"><u>Dateien Wiederherstellen, Die Sie Aus Versehen Gelöscht Haben! Mehr Infos Für Asus-Laptop-Nutzer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-how-to-successfully-download-and-install-iphone-drivers-on-windows-10-pcs/"><u>Easy Guide: How to Successfully Download & Install iPhone Drivers on Windows 10 PCs</u></a></li>
+<li><a href="https://win-guides.techidaily.com/installing-and-uninstalling-applications-via-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Installing and Uninstalling Applications via Windows Control Panel - A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-data.techidaily.com/losungsansatz-fur-den-nicht-startenden-systemwiederherstellungsfehler-unter-microsoft-windows/"><u>Lösungsansatz Für Den Nicht Startenden Systemwiederherstellungsfehler Unter Microsoft Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-the-linguistic-labyrinth-meta-faces-hurdles-in-greek-armenian-and-oromo-language-support/"><u>Navigating the Linguistic Labyrinth: Meta Faces Hurdles in Greek, Armenian and Oromo Language Support</u></a></li>
+<li><a href="https://win-data.techidaily.com/personalize-your-sql-query-language-in-emeditor-text-editor/"><u>Personalize Your SQL Query Language in EmEditor Text Editor</u></a></li>
+<li><a href="https://win-data.techidaily.com/protect-your-digital-assets-a-guide-to-creating-a-secure-backup-for-windows-11-upgrades/"><u>Protect Your Digital Assets: A Guide to Creating a Secure Backup for Windows 11 Upgrades</u></a></li>
+<li><a href="https://discover-help.techidaily.com/sicuro-dispositivo-di-ripristino-per-dischi-rigidi-una-guida-approfondita/"><u>Sicuro Dispositivo Di Ripristino per Dischi Rigidi: Una Guida Approfondita</u></a></li>
+<li><a href="https://win-data.techidaily.com/ubertragung-von-daten-vom-iphone-auf-den-neuen-iphone-se-funf-effektive-vorgehensweisen/"><u>Übertragung Von Daten Vom iPhone Auf Den Neuen iPhone SE - Fünf Effektive Vorgehensweisen</u></a></li>
 </ul></div>
 

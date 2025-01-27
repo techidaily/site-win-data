@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's LYRX 1.8 Update Now Available: Premium Karaoke Software with Improved Sound Engine + Additional Functions | Secure Installation Offer"
-date: 2025-01-09T20:28:57.163Z
-updated: 2025-01-15T04:24:14.271Z
+date: 2025-01-19T16:46:14.311Z
+updated: 2025-01-26T17:07:50.094Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Everything New, Changed, and Fixed in LYRX 1.18
@@ -62,7 +62,7 @@ We suggest updating to version 1.8 of [LYRX](http://www.lyrxkaraoke.com/) today 
 _Have questions about the latest 1.18 version of our **Top karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -84,24 +84,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/08/LYRX18-1.jpg?fit=1900%2C11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-deep-dive-into-videomovavi-11s-features-and-performance/"><u>[New] Deep Dive Into VideoMovavi 11'S Features & Performance</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-easy-steps-for-posting-videos-on-facebook-from-devices/"><u>[New] Easy Steps for Posting Videos on Facebook From Devices</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-androids-epic-quests-your-guide-to-top-15-simulated-worlds/"><u>[New] In 2024, Android's Epic Quests Your Guide to Top 15 Simulated Worlds</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-growth-strategies-for-youtube-videos-6-effortless-approaches/"><u>[Updated] 2024 Approved Growth Strategies for YouTube Videos 6 Effortless Approaches</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exquisite-solution-for-vr-adventures/"><u>[Updated] Exquisite Solution for VR Adventures</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-high-definition-on-demand-samsungs-ue590-monitor-revisited/"><u>[Updated] High Definition on Demand Samsung's UE590 Monitor Revisited</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-secrets-of-recording-video-without-distracting-noise/"><u>[Updated] Secrets of Recording Video without Distracting Noise</u></a></li>
-<li><a href="https://win-data.techidaily.com/accelerate-your-computers-speed-with-professional-optimization-solutions-from-yl-software/"><u>Accelerate Your Computer's Speed with Professional Optimization Solutions From YL Software</u></a></li>
-<li><a href="https://win-data.techidaily.com/boost-your-connectivity-with-this-simple-guide-to-network-driver-updates-by-yl-software-experts/"><u>Boost Your Connectivity with This Simple Guide to Network Driver Updates by YL Software Experts</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/dividing-opinions-is-mirrorless-better-than-dslr-for-vids-in-2024/"><u>Dividing Opinions Is Mirrorless Better than DSLR for Vids, In 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/effective-methods-for-identifying-and-fixing-motherboard-problems-yl-computing-solutions/"><u>Effective Methods for Identifying & Fixing Motherboard Problems - YL Computing Solutions</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-ultimate-guide-to-installing-the-logitech-k350-keyboard-drivers/"><u>Free Download: Ultimate Guide to Installing the Logitech K350 Keyboard Drivers</u></a></li>
-<li><a href="https://win-data.techidaily.com/identifying-and-resolving-typical-hardware-problems-in-windows-an-expert-guide-by-yl-computing/"><u>Identifying and Resolving Typical Hardware Problems in Windows - An Expert Guide by YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-x100-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo X100 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-guide-detecting-and-removing-malware-on-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Detecting & Removing Malware on Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/switching-applications-a-guide-to-open-files-using-alternative-programs-on-windows-tech-tips-by-yl-computing/"><u>Switching Applications: A Guide to Open Files Using Alternative Programs on Windows - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/transform-your-desktop-with-yl-softwares-hd-panoramic-images-and-static-wallpapers-the-ultimate-visual-experience-set/"><u>Transform Your Desktop with YL Software’s HD Panoramic Images and Static Wallpapers – The Ultimate Visual Experience Set</u></a></li>
-<li><a href="https://win-data.techidaily.com/understanding-limited-network-connection-issues-a-guide-by-yl-computing/"><u>Understanding Limited Network Connection Issues: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/understanding-the-origins-key-factors-behind-the-taiping-rebellion-insights-from-yl-technology/"><u>Understanding the Origins: Key Factors Behind the Taiping Rebellion - Insights From YL Technology</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-document-your-days-with-xiaomis-state-of-the-art-screenshot-tool/"><u>[New] In 2024, Document Your Days with Xiaomi's State-of-the-Art Screenshot Tool</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-achieve-professional-level-youtube-transcription-without-spending-for-2024/"><u>[Updated] Achieve Professional-Level YouTube Transcription Without Spending for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-immerse-in-youtubes-best-vr-visual-feasts/"><u>[Updated] Immerse in YouTube's Best VR Visual Feasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leapfrogging-to-photo-editing-mastery-with-lunapic/"><u>[Updated] Leapfrogging to Photo Editing Mastery with LunaPic</u></a></li>
+<li><a href="https://win-data.techidaily.com/windows-defender-google/"><u>「データ救出：Windows Defenderが消したファイルを復元する手順説明 - Google」</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1-optimal-hardware-specs-needed-for-best-handbrake-performance/"><u>1. Optimal Hardware Specs Needed for Best Handbrake Performance</u></a></li>
+<li><a href="https://win-data.techidaily.com/3windows-vistawindows-11/"><u>3効果的な手順で、Windows VistaのデータをWindows 11にスムーズ移行しませんか?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-x50-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor X50 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-data.techidaily.com/comparar-versoes-do-aomei-backupper-qual-e-a-melhor-para-voce/"><u>Comparar Versões Do AOMEI Backupper: Qual É a Melhor Para Você?</u></a></li>
+<li><a href="https://win-data.techidaily.com/effortless-wifi-backups-seamlessly-transferring-your-iphone-data-to-pc-or-mac/"><u>Effortless WiFi Backups: Seamlessly Transferring Your iPhone Data to PC or Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/enthralling-your-eyes-six-ingenious-methods-for-capturing-netflix-vids-on-a-mac/"><u>Enthralling Your Eyes Six Ingenious Methods for Capturing Netflix Vids on a Mac</u></a></li>
+<li><a href="https://win-data.techidaily.com/guide-etape-par-etape-pour-recuperer-des-donnees-effacees-en-permanence-sans-outils-specialises/"><u>Guide Étape Par Étape Pour Récupérer Des Données Effacées en Permanence Sans Outils Spécialisés.</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-crafting-engaging-tiktok-tracks-with-visuals/"><u>In 2024, Crafting Engaging TikTok Tracks with Visuals</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/step-by-step-guide-securely-backing-up-your-pc-with-sandisk-extreme-portable-ssd-no-cost-hassle-free/"><u>Step-by-Step Guide: Securely Backing Up Your PC with SanDisk Extreme Portable SSD - No Cost, Hassle-Free</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-100-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from 100 Pro.</u></a></li>
+<li><a href="https://win-data.techidaily.com/understanding-data-recovery-unveiling-the-mechanics-of-data-restoration-tools/"><u>Understanding Data Recovery: Unveiling the Mechanics of Data Restoration Tools</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728464247137-windows-1011/"><u>Windows 10/11で優れた画像編集ツール：詳細な利用法ガイド</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728501291028-windows-1011/"><u>Windows 10/11の起動修正に失敗する対策</u></a></li>
 </ul></div>
 
