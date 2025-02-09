@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Preview: Discover the Power of the Latest DEX Series - Introducing DEX 3 LE, RE & Version 3.6 Unveiled"
-date: 2025-01-23T02:47:28.012Z
-updated: 2025-01-27T07:18:53.934Z
+date: 2025-02-05T16:11:25.589Z
+updated: 2025-02-08T16:39:56.318Z
 tags:
   - product
 categories:
@@ -77,7 +77,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. More than 80,000 professional DJs around the world now spin with their computer using one of company’s entertainment products.** 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -99,20 +99,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/05/dex36-dexle-pressrelease-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-safely-archive-chats-and-calls-from-whatsapp/"><u>[New] In 2024, How to Safely Archive Chats and Calls From WhatsApp</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-superior-ai-photo-cutting-master/"><u>[New] In 2024, Superior AI Photo Cutting Master</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-loop-video-magic-keep-your-followers-hooked-with-instagram-boomers/"><u>2024 Approved Loop Video Magic Keep Your Followers Hooked with Instagram Boomers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-spring-recorder-rising-a-comprehensive-analysis/"><u>2024 Approved Spring Recorder Rising A Comprehensive Analysis</u></a></li>
-<li><a href="https://win-data.techidaily.com/comprehensive-guide-for-replacing-the-ssd-on-a-microsoft-surface-pro-x-a-beginners-roadmap-to-upgrading/"><u>Comprehensive Guide for Replacing the SSD on a Microsoft Surface Pro X: A Beginner's Roadmap to Upgrading</u></a></li>
-<li><a href="https://win-data.techidaily.com/dateien-wiederherstellen-die-sie-aus-versehen-geloscht-haben-mehr-infos-fur-asus-laptop-nutzer/"><u>Dateien Wiederherstellen, Die Sie Aus Versehen Gelöscht Haben! Mehr Infos Für Asus-Laptop-Nutzer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-how-to-successfully-download-and-install-iphone-drivers-on-windows-10-pcs/"><u>Easy Guide: How to Successfully Download & Install iPhone Drivers on Windows 10 PCs</u></a></li>
-<li><a href="https://win-guides.techidaily.com/installing-and-uninstalling-applications-via-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Installing and Uninstalling Applications via Windows Control Panel - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-data.techidaily.com/losungsansatz-fur-den-nicht-startenden-systemwiederherstellungsfehler-unter-microsoft-windows/"><u>Lösungsansatz Für Den Nicht Startenden Systemwiederherstellungsfehler Unter Microsoft Windows</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-linguistic-labyrinth-meta-faces-hurdles-in-greek-armenian-and-oromo-language-support/"><u>Navigating the Linguistic Labyrinth: Meta Faces Hurdles in Greek, Armenian and Oromo Language Support</u></a></li>
-<li><a href="https://win-data.techidaily.com/personalize-your-sql-query-language-in-emeditor-text-editor/"><u>Personalize Your SQL Query Language in EmEditor Text Editor</u></a></li>
-<li><a href="https://win-data.techidaily.com/protect-your-digital-assets-a-guide-to-creating-a-secure-backup-for-windows-11-upgrades/"><u>Protect Your Digital Assets: A Guide to Creating a Secure Backup for Windows 11 Upgrades</u></a></li>
-<li><a href="https://discover-help.techidaily.com/sicuro-dispositivo-di-ripristino-per-dischi-rigidi-una-guida-approfondita/"><u>Sicuro Dispositivo Di Ripristino per Dischi Rigidi: Una Guida Approfondita</u></a></li>
-<li><a href="https://win-data.techidaily.com/ubertragung-von-daten-vom-iphone-auf-den-neuen-iphone-se-funf-effektive-vorgehensweisen/"><u>Übertragung Von Daten Vom iPhone Auf Den Neuen iPhone SE - Fünf Effektive Vorgehensweisen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-6-unobtrusive-applications-for-android-captures/"><u>[New] 2024 Approved Top 6 Unobtrusive Applications for Android Captures</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-transform-spaces-and-elevate-brands-the-ultimate-apps-list-for-youtube-artistry/"><u>[Updated] In 2024, Transform Spaces & Elevate Brands The Ultimate Apps List for YouTube Artistry</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-quality-video-sharing-leading-alternative-converters-from-flv-to-yt-for-2024/"><u>[Updated] Quality Video Sharing Leading Alternative Converters From FLV to YT for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/comprehensive-guide-understanding-shadow-copies-in-windows-11/"><u>Comprehensive Guide: Understanding Shadow Copies in Windows 11</u></a></li>
+<li><a href="https://win-data.techidaily.com/detailed-instructions-on-ios-data-synchronization-with-synology-nas-systems/"><u>Detailed Instructions on iOS Data Synchronization with Synology NAS Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-chatbot-enhancements-for-your-vs-code-environment/"><u>Discover the Leading Chatbot Enhancements for Your VS Code Environment</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-effortless-subtitling-and-cc-addition-techniques-for-youtube-users/"><u>In 2024, Effortless Subtitling & CC Addition Techniques for YouTube Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 13 mini</u></a></li>
+<li><a href="https://win-data.techidaily.com/introducing-mr-template-the-latest-innovative-model-for-trials/"><u>Introducing Mr Template - The Latest Innovative Model for Trials</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728475794581-onedrive3/"><u>OneDriveにおける不可逆削除ファイルの回復方法：3つのシンプルソリューション</u></a></li>
+<li><a href="https://solve-info.techidaily.com/optimized-with-the-help-of-cookiebot-technology/"><u>Optimized with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pureimagezone-premium-tool-to-remove-backgrounds/"><u>PureImageZone Premium Tool to Remove Backgrounds</u></a></li>
+<li><a href="https://facebook.techidaily.com/unseen-messages-alert-service-for-messenger-users/"><u>Unseen Messages Alert Service for Messenger Users</u></a></li>
 </ul></div>
 
