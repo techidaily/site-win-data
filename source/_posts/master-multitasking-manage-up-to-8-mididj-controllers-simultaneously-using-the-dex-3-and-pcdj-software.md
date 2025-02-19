@@ -1,7 +1,7 @@
 ---
 title: "Master Multitasking: Manage Up To 8 MIDI/DJ Controllers Simultaneously Using the DEX 3 & PCDJ Software"
-date: 2025-02-06T22:32:12.955Z
-updated: 2025-02-08T17:32:04.584Z
+date: 2025-02-12T03:09:54.740Z
+updated: 2025-02-18T16:27:21.833Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Using MIDI LEARN in DEX 3
@@ -45,7 +45,7 @@ You can check out our list of [DEX 3](https://tools.techidaily.com/pcdj/products
 _Have questions about using **multiple DJ controllers** with DEX 3 **DJ and Video Mixing Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,24 +67,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/08/multiplecontrollers-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-assembling-channel-summaries-that-attract/"><u>[Updated] Assembling Channel Summaries That Attract</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-quick-srt-text-conversion-a-modern-how-to-for-2024/"><u>[Updated] Quick SRT Text Conversion A Modern How-To for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-sierras-premier-picks-1-to-5-editing-applications-reviewed/"><u>[Updated] Sierra's Premier Picks #1 to #5 Editing Applications Reviewed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-screen-refinement-software-for-video-lovers/"><u>2024 Approved Superior Screen Refinement Software for Video Lovers</u></a></li>
-<li><a href="https://win-data.techidaily.com/3-simple-methods-for-transferring-your-hotmail-messages-to-a-pc/"><u>3 Simple Methods for Transferring Your Hotmail Messages to a PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oppo-a18-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Oppo A18 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/facon-efficace-de-deplacer-les-donnees-dun-pc-a-un-autre-sous-windows-11-guide-complet/"><u>Façon Efficace De Déplacer Les Données D'un PC À Un Autre Sous Windows 11: Guide Complet</u></a></li>
-<li><a href="https://win-data.techidaily.com/guia-paso-a-paso-para-descargar-y-actualizar-controladores-en-un-iphone-de-apple/"><u>Guía Paso a Paso Para Descargar Y Actualizar Controladores en Un iPhone De Apple</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-4-proven-strategies-to-add-big-heads-in-your-tiktok-vfx-3-ways/"><u>In 2024, 4 Proven Strategies to Add Big Heads in Your TikTok VFX (3 Ways)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-screen-savers-guide-to-recording-tech/"><u>In 2024, The Screen Saver's Guide to Recording Tech</u></a></li>
-<li><a href="https://win-data.techidaily.com/navigating-download-locations-how-files-are-stored-on-desktops-iphones-and-android-smartphones/"><u>Navigating Download Locations: How Files Are Stored on Desktops, iPhones, and Android Smartphones</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-guide-efficiently-controlling-your-wifi-networks-with-yl-computing-solutions/"><u>Step-by-Step Guide: Efficiently Controlling Your WiFi Networks with YL Computing Solutions</u></a></li>
-<li><a href="https://win-data.techidaily.com/step-by-step-tutorial-on-scheduling-batch-file-operations-for-automatic-directory-backups-in-linuxwindows-systems/"><u>Step-by-Step Tutorial on Scheduling Batch File Operations for Automatic Directory Backups in Linux/Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/the-developers-playbook-mastering-dev-drive-in-windows-11/"><u>The Developer's Playbook: Mastering Dev Drive in Windows 11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ears-predictions-rendered-in-infographics/"><u>The Year's Predictions Rendered in Infographics</u></a></li>
-<li><a href="https://win-data.techidaily.com/top-festplattenkopierer-apps-kostenlose-software-fur-systeme-windows-7-8-und-10/"><u>Top-Festplattenkopierer Apps: Kostenlose Software Für Systeme Windows 7, 8 Und 10</u></a></li>
-<li><a href="https://win-data.techidaily.com/topo-recetas-eficaces-para-resolver-el-fallo-0xc000000e-en-windows-11-sin-corrupcion-de-archivos/"><u>Topo Recetas Eficaces Para Resolver El Fallo 0xC000000E en Windows 11 Sin Corrupción De Archivos</u></a></li>
-<li><a href="https://win-data.techidaily.com/troubleshooting-missing-desktop-issue-on-windows-pcs-a-step-by-step-guide-to-restoring-system32-settings/"><u>Troubleshooting Missing Desktop Issue on Windows PCs: A Step-by-Step Guide to Restoring System32 Settings</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728504245626-windows-113/"><u>Windows 11における宛先フォルダへのアクセス許可取得手順：3つの有効な解決策</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-easy-guide-to-youtube-livestreaming-from-google-meet/"><u>[New] In 2024, Easy Guide to YouTube Livestreaming From Google Meet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-mastering-srt-file-sharing-on-social-platforms/"><u>[New] In 2024, Mastering SRT File Sharing on Social Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-temporary-hold-recording-assistance/"><u>[New] Temporary Hold Recording Assistance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unveiling-the-hidden-secrets-of-facetime-voice-capturing/"><u>[Updated] Unveiling the Hidden Secrets of FaceTime Voice Capturing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-soundscape-integration-for-statements/"><u>2024 Approved Soundscape Integration for Statements</u></a></li>
+<li><a href="https://win-data.techidaily.com/windows-7-11-pcs/"><u>無敵磁碟回復器: Windows 7-11 PCs上的最佳還原工具, [立即無限制免費下載]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activating-advanced-taskbar-features-in-windows-11/"><u>Activating Advanced Taskbar Features in Windows 11</u></a></li>
+<li><a href="https://win-data.techidaily.com/erfahren-sie-die-besten-strategien-fur-automatische-backup-vorgange-ihrer-outlook-pst-dateien/"><u>Erfahren Sie Die Besten Strategien Für Automatische Backup-Vorgänge Ihrer Outlook-PST-Dateien</u></a></li>
+<li><a href="https://win-data.techidaily.com/erfolgreiches-cloning-grosserer-hdds-auf-kleine-ssds-unter-verwendung-von-gpt-uefi-ein-optimierter-prozessvergleich/"><u>Erfolgreiches Cloning Größerer HDDs Auf Kleine SSDs Unter Verwendung Von GPT-UEFI: Ein Optimierter Prozessvergleich</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-pop-8-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Pop 8 Is Unlocked</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-google-pixel-8-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Google Pixel 8 Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://win-data.techidaily.com/repariert-iphone-nachrichten-und-bilder-werden-nicht-angezeigt-losungswege/"><u>Repariert: IPhone-Nachrichten Und Bilder Werden Nicht Angezeigt - Lösungswege</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-tecno-pop-8-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Tecno Pop 8 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/uncover-the-secrets-of-finding-windows-server-2019s-license-key-via-powershell-commands/"><u>Uncover the Secrets of Finding Windows Server 2019'S License Key via PowerShell Commands</u></a></li>
 </ul></div>
 
