@@ -1,7 +1,7 @@
 ---
 title: How To Broadcast Live on Dex 3 and Icecast for Perfect Audio Streaming with PCDJ
-date: 2025-02-18T02:05:41.175Z
-updated: 2025-02-18T19:03:57.013Z
+date: 2025-03-02T17:40:53.073Z
+updated: 2025-03-07T16:59:32.548Z
 tags:
   - product
 categories:
@@ -113,10 +113,6 @@ For now, if you want to test streaming locally with DEX 3.4 here’s our quick s
 | For the network URL, type in the following: http://127.0.0.1:8000/stream1and then select ‘Play.’At this point, you will be connected to your radio station. | [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/06/20.png?fit=300%2C257&ssl=1 "20")](https://i2.wp.com/pcdj.com/wp-content/uploads/2015/06/20.png?fit=535%2C459&ssl=1) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2015-06-16 10:23:172018-12-03 12:01:08Broadcast Your Mix With DEX 3 And Icecast}
@@ -136,20 +132,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/06/broadcastmix-coverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-premiere-e-lecture-label-lever/"><u>[New] 2024 Approved Premiere E-Lecture Label Lever</u></a></li>
-<li><a href="https://win-data.techidaily.com/1-formatter-online-proses-gratis-untuk-membuktikan-status-brou-dalam-waktu-2-hari/"><u>1. Formatter Online: Proses Gratis Untuk Membuktikan Status Brou Dalam Waktu 2 Hari!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-mac-video-capturing-software-post-bandicam-revolution/"><u>2024 Approved Best Mac Video Capturing Software Post-Bandicam Revolution</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-optimal-pick-the-top-ten-phone-and-pc-video-calls/"><u>2024 Approved Optimal Pick The Top Ten Phone & PC Video Calls</u></a></li>
-<li><a href="https://win-data.techidaily.com/5yil44oh44oq44kk44k544g444kq44oa44os44o844og44kj44oz44kw44k344k544og44og44gu56e75qsn5pa55rov6kej6kqs/"><u>別デバイスへオペレーティングシステムの移植方法解説</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728504534492-wd/"><u>如何利用WD外接設備恢復損失的資料？</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/detailed-guide-effortlessly-erase-stickers-from-social-media-content/"><u>Detailed Guide Effortlessly Erase Stickers From Social Media Content</u></a></li>
-<li><a href="https://win-data.techidaily.com/free-microsoft-surface-cleanup-utility-securely-erase-your-data/"><u>Free Microsoft Surface Cleanup Utility: Securely Erase Your Data</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-attracting-eyes-with-these-6-video-genres/"><u>In 2024, Attracting Eyes with These 6 Video Genres</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-essentials-in-filming-adventure-vlogs/"><u>In 2024, Essentials in Filming Adventure Vlogs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/resolving-the-issue-authentication-problem-in-vmware-vcenter-identified-and-fixed/"><u>Resolving the Issue: Authentication Problem in VMware vCenter Identified and Fixed</u></a></li>
-<li><a href="https://video-capture.techidaily.com/screencapture-evaluation-interface/"><u>ScreenCapture Evaluation Interface</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-strategies-efficiently-saving-rocket-league-matches-for-2024/"><u>Top Strategies Efficiently Saving Rocket League Matches for 2024</u></a></li>
-<li><a href="https://win-data.techidaily.com/transfert-de-donnees-dun-disque-dur-externe-a-un-autre-gratuitement-sur-windows-10/"><u>Transfert De Données D'un Disque Dur Externe À Un Autre Gratuitement Sur Windows 10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-demystifying-youtube-analytics-views-subscriptions-and-profits/"><u>[New] 2024 Approved Demystifying YouTube Analytics Views, Subscriptions & Profits</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elite-playlist-compiler-android-edition-for-2024/"><u>[New] Elite Playlist Compiler Android Edition for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-approaches-to-sims-4-video-for-2024/"><u>[New] Innovative Approaches to Sims 4 Video for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhance-your-photos-on-instagram-with-easy-free-filters-access/"><u>[Updated] 2024 Approved Enhance Your Photos on Instagram with Easy, Free Filters Access</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728480430716-win11/"><u>謎樣Win11通話失去？緊急修復指南正式亮相！</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728499846879-windows-11/"><u>学习三种最高效的Windows 11 分区恢复策略与指南</u></a></li>
+<li><a href="https://win-data.techidaily.com/comparing-wd-backup-and-windows-backup-which-offers-superior-protection/"><u>Comparing WD Backup and Windows Backup: Which Offers Superior Protection?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/gopro-studio-replacement-best-video-editors-for-action-camera-footage/"><u>GoPro Studio Replacement Best Video Editors for Action Camera Footage</u></a></li>
+<li><a href="https://win-data.techidaily.com/guide-dassistance-pour-recuperer-une-carte-sd-bloquee-dans-windows-solutions-efficaces/"><u>Guide D'assistance Pour Récupérer Une Carte SD Bloquée Dans Windows - Solutions Efficaces</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-transition-your-windows/"><u>How to Transition Your Windows</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/optimal-zero-price-logo-maker-for-discord-channels-for-2024/"><u>Optimal Zero-Price Logo Maker for Discord Channels for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/optimizing-forum-interface-usability-a-guide-to-utilizing-the-power-of-emeditor-text-editor/"><u>Optimizing Forum Interface Usability: A Guide to Utilizing the Power of EmEditor Text Editor</u></a></li>
+<li><a href="https://win-data.techidaily.com/reviviendo-sus-notas-borradas-para-siempre-en-un-iphone-paso-a-paso/"><u>Reviviendo Sus Notas Borradas Para Siempre en Un iPhone - Paso a Paso</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/utionize-your-mind-best-15-online-science-hubs/"><u>Revolutionize Your Mind Best 15 Online Science Hubs</u></a></li>
+<li><a href="https://win-data.techidaily.com/schnelles-migrations-gewinnen-fur-windows-10-auf-ssd-ohne-neukonfiguration/"><u>Schnelles Migrations-Gewinnen Für Windows 10 Auf SSD Ohne Neukonfiguration</u></a></li>
+<li><a href="https://win-data.techidaily.com/techniques-avancees-pour-restaurer-vos-donnees-en-cas-dusurpation-de-votre-compact-flash/"><u>Techniques Avancées Pour Restaurer Vos Données en Cas D'Usurpation De Votre Compact Flash</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-ultrabooks-comprehensive-tests-and-reviews-by-tech-gurus-zdnets-picks/"><u>Top-Rated Ultrabooks : Comprehensive Tests & Reviews by Tech Gurus | ZDNet's Picks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unlocking-the-potential-of-vimeo-video-logging/"><u>Unlocking the Potential of Vimeo Video Logging</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44k144km44oz44oj44oi44op44od44kv44oq44ou44o844k44ow44or5yyw44ks44kk44oj77ya5qw95puy44ks54sh6zmq44gr5yan55sf44gn44gn44kl44ki44gg44gr44gz44kl5pa55rov/"><u>サウンドトラックリピータブル化ガイド：楽曲を無限に再生できるようにする方法</u></a></li>
 </ul></div>
 
